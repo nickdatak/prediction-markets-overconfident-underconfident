@@ -2,6 +2,7 @@
 data/polymarket_elections.json.
 
     python3 polymarket_elections.py
+    python3 polymarket_elections.py --open    # events still open instead, to data/polymarket_elections_open.json
 
 An election tag is any tag whose name or slug contains "election". Polymarket spreads
 elections over many such tags (the 2024 US Senate races, for example, carry "US Election" and
@@ -11,6 +12,7 @@ pulled until no new ones turn up.
 """
 
 import json
+import sys
 import time
 import urllib.error
 import urllib.parse
@@ -20,7 +22,8 @@ from pathlib import Path
 
 BASE = "https://gamma-api.polymarket.com"
 HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
-OUT = Path(__file__).resolve().parent / "data" / "polymarket_elections.json"
+OPEN = "--open" in sys.argv[1:]
+OUT = Path(__file__).resolve().parent / "data" / ("polymarket_elections_open.json" if OPEN else "polymarket_elections.json")
 
 # Election tags known to hold US races that the main "Elections" tag misses.
 SEED_TAGS = {
@@ -51,7 +54,7 @@ def get(path, params=None):
 def closed_events(tag_id):
     events, cursor, seen = [], None, set()
     while True:
-        params = {"tag_id": tag_id, "closed": "true", "include_markets": "true", "limit": 100}
+        params = {"tag_id": tag_id, "closed": "false" if OPEN else "true", "include_markets": "true", "limit": 100}
         if cursor:
             params["after_cursor"] = cursor
         try:
@@ -103,6 +106,6 @@ if __name__ == "__main__":
     for event in out:
         year = (event.get("endDate") or "")[:4] or "none"
         years[year] = years.get(year, 0) + 1
-    print(f"{len(out)} closed events, {markets} markets -> {OUT}")
+    print(f"{len(out)} {'open' if OPEN else 'closed'} events, {markets} markets -> {OUT}")
     print("events by end year:", dict(sorted(years.items())))
     print(f"{len(pulled)} election tags used:", "; ".join(sorted(set(names[t] for t in pulled))))

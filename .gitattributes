@@ -1,0 +1,5 @@
+# Keep data files byte for byte as written, so they match SHA256SUMS after a clone.
+*.csv -text
+*.json -text
+*.txt -text
+*.gz binary

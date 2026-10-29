@@ -1,9 +1,11 @@
 """Every settled market in Kalshi's Elections category, saved to data/kalshi_elections.json.
 
     python3 kalshi_elections.py
+    python3 kalshi_elections.py --open    # markets still open instead, to data/kalshi_elections_open.json
 """
 
 import json
+import sys
 import time
 import urllib.error
 import urllib.parse
@@ -21,7 +23,8 @@ HEADERS = {  # Kalshi rejects requests that do not look like a browser
     "Referer": "https://kalshi.com/",
     "Origin": "https://kalshi.com",
 }
-OUT = Path(__file__).resolve().parent / "data" / "kalshi_elections.json"
+OPEN = "--open" in sys.argv[1:]
+OUT = Path(__file__).resolve().parent / "data" / ("kalshi_elections_open.json" if OPEN else "kalshi_elections.json")
 
 
 class NotFound(Exception):
@@ -58,10 +61,11 @@ def pages(path, params, key):
 def series_markets(series_ticker):
     # Older markets are only on the historical endpoint, newer ones only on the live one.
     markets = {}
-    for path, params in (
+    queries = [("/markets", {"series_ticker": series_ticker, "status": "open", "limit": 1000})] if OPEN else [
         ("/historical/markets", {"series_ticker": series_ticker, "limit": 200}),
         ("/markets", {"series_ticker": series_ticker, "status": "settled", "limit": 1000}),
-    ):
+    ]
+    for path, params in queries:
         try:
             for market in pages(path, params, "markets"):
                 markets.setdefault(market["ticker"], dict(market, series_ticker=series_ticker))
@@ -92,6 +96,6 @@ if __name__ == "__main__":
 
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(markets))
-    print(f"{len(markets)} settled markets -> {OUT}")
+    print(f"{len(markets)} {'open' if OPEN else 'settled'} markets -> {OUT}")
     if failed:
         print(f"{len(failed)} series failed, run again:", *failed, sep="\n  ")

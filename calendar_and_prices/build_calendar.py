@@ -6,6 +6,8 @@ Reads   ../cleaning/kalshi_binary_elections.json, ../cleaning/polymarket_binary_
         us_primary_dates_2026.csv        FEC table of 2026 state primary and runoff dates
         us_other_elections.csv           US specials, local races and 2023-24 contests, one row each
         international_election_days.csv  one row per election day outside the US
+        midterm_contests.csv             contests of the 2026 midterms (3 November), listed before the vote
+                                         by list_midterm_contests.py; used once it exists
 Writes  contest_calendar.csv   one row per contest: election date, snapshot time (UTC), how it was dated
         election_days.csv      one row per election day: time zone, snapshot rule, snapshot time
 
@@ -97,13 +99,15 @@ INTERNATIONAL = {  # election-day key -> contests (Kalshi event tickers or Polym
 }
 CONTEST_TO_INTERNATIONAL = {cid: key for key, ids in INTERNATIONAL.items() for cid in ids.split()}
 NATIONAL_2024 = {"4076", "14267"}
-# Other states voting on pre-2026 days, so the snapshot respects the first closing in the country.
+# Other states voting on a day, so the snapshot respects the first closing in the country.
+MIDTERMS = "2026-11-03"
 OTHER_STATES_VOTING = {
     "2023-11-07": "KY MS NJ VA",   # 2023 off-year general elections
     "2024-06-18": "OK UT VA",      # 2024 primaries
     "2024-06-25": "CO NY UT",
     "2024-08-13": "CT MN VT WI",
-}  # national presidential winner by party; CO-8 (end date set to Dec 31)
+    MIDTERMS: " ".join(STATE_TZ),  # every state votes in the midterms
+}
 
 
 def read_csv(name):
@@ -180,6 +184,9 @@ def main():
         fec_by_state[row["state"]].append((day(row["date"]), row["type"], row["note"]))
     other = {row["contest_id"]: row for row in read_csv("us_other_elections.csv")}
     abroad = {row["key"]: row for row in read_csv("international_election_days.csv")}
+    midterms = {}
+    if (HERE / "midterm_contests.csv").exists():
+        midterms = {(row["platform"], row["contest_id"]): row for row in read_csv("midterm_contests.csv")}
 
     rows, problems = [], []
     for c in load_contests():
@@ -192,6 +199,10 @@ def main():
             info = abroad[CONTEST_TO_INTERNATIONAL[cid]]
             row.update(country=info["country"], election_key=info["key"], election_date=info["last_voting_day"],
                        how_dated="international election day table", source=info["source"])
+        elif (c["platform"], cid) in midterms:
+            row.update(kind="general", state=midterms[(c["platform"], cid)]["state"], election_date=MIDTERMS,
+                       how_dated="2026 US midterms (3 November); on the list made before the vote",
+                       source="midterm_contests.csv")
         elif cid in other:
             info = other[cid]
             row.update(state=info["state"], election_date=info["date"], how_dated=f"listed: {info['note']}",

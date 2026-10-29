@@ -1,0 +1,21 @@
+Midterm test, stage: self-test on 5 November 2024. Run 2026-10-29 19:00 UTC on US-2024-11-05.
+
+Kalshi: 60 contests kept in 29 states
+      60  kept
+      47  drop: favourite above 95% (scaled)
+    b = 1.972  (95%: 1.266 to 3.773)  -> underconfident
+    against the 2024 value 1.972  -> consistent with 2024
+    reading: Underconfidence persists in general elections: supports 'primaries are traded differently'.
+
+Polymarket: 35 contests kept in 26 states
+      60  drop: favourite above 95% (scaled)
+      35  kept
+       7  drop: another candidate priced above 5%
+       3  drop: prices of all options add up to more than 10 cents away from 1
+       1  drop: market opened after the snapshot
+       1  drop: neither candidate traded in the 24 hours before the snapshot
+    b = 1.828  (95%: 0.990 to no limit)  -> no detectable miscalibration
+    against the 2024 value 1.828  -> consistent with 2024
+    reading: Inconclusive.
+
+Self-test passed: the 2024 baseline is reproduced and reads as consistent with itself.
