@@ -1,0 +1,6 @@
+# The pull, cleaning, calendar and price scripts use only the Python standard library (3.10 or later).
+# The notebooks need these; the frozen outputs were made with the versions shown.
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+jupyter

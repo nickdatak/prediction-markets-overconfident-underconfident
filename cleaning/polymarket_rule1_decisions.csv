@@ -1,0 +1,432 @@
+event_id,keep,reason,title
+4076,true,candidate or party wins one named race,Which party wins 2024 US Presidential Election?
+10018,true,candidate or party wins one named race,Nevada Senate Election Winner
+10019,true,candidate or party wins one named race,Pennsylvania Senate Election Winner
+10020,true,candidate or party wins one named race,Wisconsin Senate Election Winner
+10021,true,candidate or party wins one named race,Montana Senate Election Winner
+10022,true,candidate or party wins one named race,Ohio Senate Election Winner
+10164,true,candidate or party wins one named race,Nebraska's 1st Congressional District Presidential Election Winner
+10166,true,candidate or party wins one named race,Delaware Presidential Election Winner
+10169,true,candidate or party wins one named race,New Mexico Presidential Election Winner
+10170,true,candidate or party wins one named race,New York Presidential Election Winner
+10172,true,candidate or party wins one named race,Nebraska's 2nd Congressional District Presidential Election Winner
+10173,true,candidate or party wins one named race,Nebraska's 3rd Congressional District Presidential Election Winner
+10174,true,candidate or party wins one named race,Maine's 1st Congressional District Presidential Election Winner
+10175,true,candidate or party wins one named race,Maine's 2nd Congressional District Presidential Election Winner
+10214,true,candidate or party wins one named race,Arizona Senate Election Winner
+10218,true,candidate or party wins one named race,Texas Senate Election Winner
+10219,true,candidate or party wins one named race,Maryland Senate Election Winner
+10231,true,candidate or party wins one named race,Florida Senate Election Winner
+10232,true,candidate or party wins one named race,California Senate Election Winner
+10234,true,candidate or party wins one named race,Washington Senate Election Winner
+10235,true,candidate or party wins one named race,Utah Senate Election Winner
+10236,true,candidate or party wins one named race,Wyoming Senate Election Winner
+10238,true,candidate or party wins one named race,New Mexico Senate Election Winner
+10240,true,candidate or party wins one named race,North Dakota Senate Election Winner
+10241,true,candidate or party wins one named race,Nebraska Senate Election Winner
+10242,true,candidate or party wins one named race,Minnesota Senate Election Winner
+10243,true,candidate or party wins one named race,Missouri Senate Election Winner
+10244,true,candidate or party wins one named race,Tennessee Senate Election Winner
+10245,true,candidate or party wins one named race,Mississippi Senate Election Winner
+10246,true,candidate or party wins one named race,Indiana Senate Election Winner
+10247,true,candidate or party wins one named race,West Virginia Senate Election Winner
+10249,true,candidate or party wins one named race,Virginia Senate Election Winner
+10250,true,candidate or party wins one named race,Delaware Senate Election Winner
+10251,true,candidate or party wins one named race,New Jersey Senate Election Winner
+10253,true,candidate or party wins one named race,New York Senate Election Winner
+10254,true,candidate or party wins one named race, Connecticut Senate Election Winner
+10255,true,candidate or party wins one named race,Rhode Island Senate Election Winner
+10257,true,candidate or party wins one named race,Massachusetts Senate Election Winner
+10258,true,candidate or party wins one named race,Vermont Senate Election Winner
+10260,true,candidate or party wins one named race,Maine Senate Election Winner
+10261,true,candidate or party wins one named race,Hawaii Senate Election Winner
+10267,true,candidate or party wins one named race,NY-16 Democratic Primary Winner
+10382,true,candidate or party wins one named race,Washington DC Presidential Election Winner
+10499,true,candidate or party wins one named race,North Macedonia Presidential Election Winner
+10556,true,candidate or party wins one named race,NY-14 Democratic Primary Winner
+10606,true,candidate or party wins one named race, Delaware Governor Election Winner
+10607,true,candidate or party wins one named race,Vermont Governor Election Winner
+11124,true,candidate or party wins one named race,VA-5 Republican Primary Winner
+11291,false,"vote comparison between options, not who wins",Biden vs Trump: who polls higher 1 week after debate?
+11460,false,"forecast, poll, odds or debate market",Trump vs. Biden: Who raised more in June?
+11527,false,"forecast, poll, odds or debate market",Who will 538 project as favorite on Friday?
+11572,false,"forecast, poll, odds or debate market",Who will 538 project as favorite on July 26?
+11586,false,"forecast, poll, odds or debate market",Lettuce vs. Biden - Who lasts longer?
+11729,false,"forecast, poll, odds or debate market",538 favorite when forecast is turned on? 
+11924,true,candidate or party wins one named race,WA-03 election: Glusenkamp Perez (D) vs. Kent (R)
+11995,true,candidate or party wins one named race,WI-3 Democratic Primary Winner
+12029,true,candidate or party wins one named race,NY-17 election: Jones (D) vs. Lawler (R)
+12031,true,candidate or party wins one named race,NY-19 election: Riley (D) vs. Molinaro (R)
+12032,true,candidate or party wins one named race,NY-04 election: Gillen (D) vs. D'Esposito (R)
+12056,true,candidate or party wins one named race,CA-22 election: Salas (D) vs. Valadao (R)
+12057,true,candidate or party wins one named race,CA-13 election: Gray (D) vs. Duarte (R)
+12058,true,candidate or party wins one named race,CA-41 election: Rollins (D) vs. Calvert (R)
+12059,true,candidate or party wins one named race,CA-27 election: Whitesides (D) vs. Garcia (R)
+12061,true,candidate or party wins one named race,AZ-01 election: Shah (D) vs. Schweikert (R)
+12063,true,candidate or party wins one named race,AZ-06 election: Engel (D) vs. Ciscomani (R)
+12120,false,"forecast, poll, odds or debate market",Favorite to win on Polymarket day before election?
+12125,false,"forecast, poll, odds or debate market","If RFK drops out, who will gain more in polls?"
+12130,false,"forecast, poll, odds or debate market",Kamala or Trump convention speech gets more viewers?
+12165,false,vote share or over/under threshold,Tim Walz DNC Speech: O/U 30 minutes?
+12246,true,candidate or party wins one named race,AK-1 election: Peltola (D) vs. Begich (R)
+12250,true,candidate or party wins one named race,PA-10 election: Stelson (D) vs. Perry (R)
+12271,false,"forecast, poll, odds or debate market",Who will win the debate according to polls?
+12306,false,"vote comparison between options, not who wins",Who will gain more in polls after the debate?
+12339,false,"forecast, poll, odds or debate market",Favorite to win on Polymarket week after debate?
+12374,false,"forecast, poll, odds or debate market",Favorite to win on Polymarket day after debate?
+12377,false,"forecast, poll, odds or debate market",Who will speak more at the debate?
+12682,true,candidate or party wins one named race,IA-03 election: Baccam (D) vs. Nunn (R)
+12683,true,candidate or party wins one named race,IA-01 election: Bohannan (D) vs. Miller-Meeks (R)
+12713,false,"seats, chamber or parliament control",Which party wins most seats in in Saskatchewan election?
+12719,true,candidate or party wins one named race,Nebraska Senate Special Election
+12798,false,"forecast, poll, odds or debate market",Who will speak more at VP Debate?
+12836,false,"forecast, poll, odds or debate market",Who will win the VP debate according to polls?
+13366,false,"forecast, poll, odds or debate market",Who will Nate Silver predict to win the election?
+13367,false,"forecast, poll, odds or debate market",Who will 538 predict to win the election?
+13390,false,"forecast, poll, odds or debate market",Who will lead on Silver Bulletin on Friday?
+13456,true,candidate or party wins one named race,Curitiba mayoral election 2024
+13458,true,candidate or party wins one named race,Fortaleza mayoral election 2024
+13459,true,candidate or party wins one named race,Belo Horizonte mayoral election 2024
+13461,true,candidate or party wins one named race,NJ-07 election: Altman (D) vs. Kean (R)
+13478,false,geographic or group breakdown,Who will win white women?
+13479,false,geographic or group breakdown,Who will win Latino men?
+13531,false,"forecast, poll, odds or debate market",Who will lead on Silver Bulletin on Friday?
+13532,false,"forecast, poll, odds or debate market",Who will lead on 538 on Friday?
+13533,false,"forecast, poll, odds or debate market",Who will go on Rogan first?
+13571,false,"vote comparison between options, not who wins",Will Trump do better in Florida or Alaska?
+13573,false,geographic or group breakdown,Who will win men?
+13588,false,geographic or group breakdown,Who will win women?
+13664,false,"vote comparison between options, not who wins",Will Kamala do better in Georgia or Wisconsin?
+13728,false,"seats, chamber or parliament control",Which party will win the most seats in Japanese general election?
+13808,false,geographic or group breakdown,Who will win late deciders?
+13908,true,candidate or party wins one named race,CA-45 election: Tran (D) vs. Steel (R)
+13909,true,candidate or party wins one named race,CA-47 election: Min (D) vs. Baugh (R)
+13911,false,"vote comparison between options, not who wins",Will Trump do better in Florida or Ohio?
+13912,false,"vote comparison between options, not who wins",Will Trump do better in Ohio or Texas?
+14095,true,candidate or party wins one named race,PA-07 election: Wild (D) vs. Mackenzie (R)
+14102,true,candidate or party wins one named race,NH-02 election: Goodlander (D) vs. Williams (R)
+14105,false,geographic or group breakdown,Who will win young men?
+14267,true,candidate or party wins one named race,CO-8 election: Caraveo (D) vs. Evans (R)
+14561,false,"seats, chamber or parliament control",Ghana Legislative Election
+20810,true,candidate or party wins one named race,Wisconsin Supreme Court election: Susan Crawford vs. Brad Schimel 
+21308,true,candidate or party wins one named race,FL-1 special election: Valimont (D) vs. Patronis (R)
+21311,true,candidate or party wins one named race,FL-6 special election: Weil (D) vs. Fine (R)
+22441,true,candidate or party wins one named race,Oakland mayoral special election
+23683,false,"seats, chamber or parliament control",Which party wins the most primary votes in Australian election?
+24304,false,geographic or group breakdown,Will Dan or Simion win the diaspora vote?
+24885,false,geographic or group breakdown,Will Trzaskowski or Nawrocki win the diaspora vote?
+28830,true,candidate or party wins one named race,Virginia Governor Election Winner
+33859,true,candidate or party wins one named race,Cleveland Mayoral Election
+38877,false,"seats, chamber or parliament control",Which Bloc Wins most seats in Norway election?
+42252,false,"vote comparison between options, not who wins",Will Sliwa or Adams get more votes?
+48328,false,"seats, chamber or parliament control",Which party wins Virginia House of Delegates?
+53212,false,"seats, chamber or parliament control",Netherlands Parliamentary Election: GL-PvdA vs CDA
+54928,true,candidate or party wins one named race,Virginia Attorney General Election Winner
+54987,false,"vote comparison between options, not who wins",Larger Margin of Victory: Virginia or New Jersey Governor?
+54991,false,"vote comparison between options, not who wins",Larger Margin of Victory: Mamdani vs Prop 50?
+54998,false,"vote comparison between options, not who wins",Larger Margin of Victory: Mamdani vs Spanberger?
+63128,false,not a public election,UK Labour Party Deputy Leadership Election Winner
+64788,false,"seats, chamber or parliament control",Netherlands Parliamentary Election: D66 vs VVD
+64789,false,"seats, chamber or parliament control",Netherlands Parliamentary Election: FVD vs SP
+64792,false,"seats, chamber or parliament control",Netherlands Parliamentary Election: DENK vs BBB
+80661,true,candidate or party wins one named race,Republika Srpska Presidential Election
+80854,true,candidate or party wins one named race,New York Democratic Governor Primary Winner
+90364,true,candidate or party wins one named race,TX-28 Democratic Primary Winner
+90400,true,candidate or party wins one named race,MO-01 Democratic Primary Winner
+90451,false,"timing, dropout, endorsement or other event",2026 U.S. House election: Republicans flip the Democrats by...?
+91232,true,candidate or party wins one named race,New Hampshire Democratic Senate Primary Winner
+91246,true,candidate or party wins one named race,Oregon Democratic Senate Primary Winner
+95101,true,candidate or party wins one named race,Rhode Island Democratic Senate Primary Winner
+95920,true,candidate or party wins one named race,Arkansas Democratic Senate Primary Winner
+95983,false,nominee settled before any primary vote (market resolved 10 June 2026; Virginia's primary moved to 4 August),Virginia Democratic Senate Primary Winner
+96038,true,candidate or party wins one named race,Nebraska Republican Senate Primary Winner
+96047,true,candidate or party wins one named race,Idaho Republican Senate Primary Winner
+96048,true,candidate or party wins one named race,Rhode Island Republican Senate Primary Winner
+97308,true,candidate or party wins one named race,Alabama Governor Republican Primary Winner
+97441,true,candidate or party wins one named race,Nevada Governor Democratic Primary Winner
+97443,true,candidate or party wins one named race,New Hampshire Governor Republican Primary Winner
+97464,true,candidate or party wins one named race,New York Governor Democratic Primary Winner
+97471,true,candidate or party wins one named race,Arkansas Governor Democratic Primary Winner
+97539,true,candidate or party wins one named race,Connecticut Governor Democratic Primary Winner
+97549,true,candidate or party wins one named race,Ohio Governor Democratic Primary Winner
+101823,true,candidate or party wins one named race,Vermont Governor Republican Primary Winner
+102978,true,candidate or party wins one named race,Delaware Democratic Senate Primary Winner
+107420,false,"seats, chamber or parliament control",Slovenian Parliamentary Election Winner
+108783,true,candidate or party wins one named race,ME-02 Republican Primary Winner
+108798,true,candidate or party wins one named race,MN-02 Republican Primary Winner
+111878,true,candidate or party wins one named race,IL-02 Democratic Primary Winner
+112252,true,candidate or party wins one named race,MN-05 Democratic Primary Winner
+147912,false,"timing, dropout, endorsement or other event",Will Mendes be flipped for Portugal Presidential Election by...?
+166322,false,"one candidate's market closed on the morning of the runoff, before any votes (no price at the snapshot)",Marseille Mayoral Election Winner
+197791,false,placement or first-round market,Texas Democratic Senate Primary: First Round Winner
+200777,false,"forecast, poll, odds or debate market",Republican House Odds Up or Down this week?
+205241,false,"seats, chamber or parliament control",Amsterdam Municipal Election Winner
+227940,true,candidate or party wins one named race,CO-03 Republican Primary Winner
+227989,true,candidate or party wins one named race,Delaware Republican Senate Primary Winner
+232524,true,candidate or party wins one named race,GA-08 Republican Primary Winner
+232778,true,candidate or party wins one named race,TX-15 Democratic Primary Winner
+246184,true,candidate or party wins one named race,Texas Attorney General Republican Primary Runoff Winner
+246787,false,"seats, chamber or parliament control",Hungary Parliamentary Election:  Popular Vote Winner
+248117,true,candidate or party wins one named race,Next Toulouse Mayor after municipal election?
+263185,false,placement or first-round market,Slovenian Parliamentary Election: 2nd Place
+287579,true,candidate or party wins one named race,Next President of Benin
+307034,false,"seats, chamber or parliament control",Liberals Up or Down for Canada Seats Polls this week?
+337688,false,not a public election,Next Premier of Quebec
+382118,true,candidate or party wins one named race,Nebraska Democratic Senate Primary Winner
+410826,true,candidate or party wins one named race,Jeonnam–Gwangju Mayoral Election Winner
+410827,true,candidate or party wins one named race,Daejeon Mayoral Election Winner
+410995,true,candidate or party wins one named race,Sejong Mayoral Election Winner
+428300,false,"timing, dropout, endorsement or other event",Will Eisenkot join the Bennett-Lapid alliance by...?
+428627,false,"timing, dropout, endorsement or other event",Netanyahu drops out of Israel election by...?
+452754,true,candidate or party wins one named race,2026 Gyeongsangnam Province Gubernatorial Election Winner
+479282,true,candidate or party wins one named race,2026 Gyeongsangbuk Province Gubernatorial Election Winner
+503398,true,candidate or party wins one named race,NY-21 Republican Primary Winner
+506789,true,candidate or party wins one named race,NJ-08 Democratic Primary Winner
+506841,true,candidate or party wins one named race,NJ-10 Democratic Primary Winner
+506875,true,candidate or party wins one named race,NJ-09 Republican Primary Winner
+510910,false,placement or first-round market,arch Who will place first in the CA-12 primary?
+514358,true,candidate or party wins one named race,SC-05 Democratic Primary Winner
+514392,true,candidate or party wins one named race,SC-06 Republican Primary Winner
+514455,false,placement or first-round market,Who will place first in the CA-12 primary?
+527379,true,candidate or party wins one named race,OK-03 Republican Primary Winner
+527423,true,candidate or party wins one named race,OK-04 Democratic Primary Winner
+548797,false,not a public election,Next Real Madrid President
+548887,true,candidate or party wins one named race,Agrigento Mayoral Election Winner
+548895,true,candidate or party wins one named race,Angri Mayoral Election Winner
+548896,true,candidate or party wins one named race,Arezzo Mayoral Election Winner
+548897,true,candidate or party wins one named race,Casalnuovo Di Napoli Mayoral Election Winner
+548913,true,candidate or party wins one named race,Castelfranco Veneto Mayoral Election Winner
+548914,true,candidate or party wins one named race,Castrovillari Mayoral Election Winner
+548917,true,candidate or party wins one named race,Cava De' Tirreni Mayoral Election Winner
+548925,true,candidate or party wins one named race,Chieti Mayoral Election Winner
+548926,true,candidate or party wins one named race,Frattamaggiore Mayoral Election Winner
+548927,true,candidate or party wins one named race,Lecco Mayoral Election Winner
+548928,true,candidate or party wins one named race,Legnano Mayoral Election Winner
+548929,true,candidate or party wins one named race,Macerata Mayoral Election Winner
+548930,true,candidate or party wins one named race,Molfetta Mayoral Election Winner
+548938,true,candidate or party wins one named race,Ottaviano Mayoral Election Winner
+548953,true,candidate or party wins one named race,Pompei Mayoral Election Winner
+548954,true,candidate or party wins one named race,San Giovanni Rotondo Mayoral Election Winner
+548962,true,candidate or party wins one named race,San Nicola La Strada Mayoral Election Winner
+563062,false,geographic or group breakdown,Colombia Presidential Election Runoff: Most votes from Bogotá
+563077,false,geographic or group breakdown,Colombia Presidential Election Runoff: Most votes from Antioquia
+570228,false,vote share or over/under threshold,LA Mayoral Election: Spencer Pratt receives Over/Under 25%?
+581316,true,candidate or party wins one named race,UT-02 Republican Primary Winner
+587428,true,candidate or party wins one named race,UT-03 Republican Primary Winner 
+627837,false,referendum,2026 Slovakia Referendum: What will pass?
+631082,true,candidate or party wins one named race,CO-05 Democratic Primary Winner
+631084,true,candidate or party wins one named race,CO-03 Democratic Primary Winner 
+637404,true,candidate or party wins one named race,2026 Chandler Mayoral Election Winner
+656320,true,candidate or party wins one named race,AZ-02 Democratic Primary Winner
+656321,true,candidate or party wins one named race,AZ-04 Democratic Primary Winner
+659974,true,candidate or party wins one named race,Arizona Attorney General Republican Primary Winner
+659975,true,candidate or party wins one named race,Arizona Secretary of State Republican Primary Winner
+674483,true,candidate or party wins one named race,Arizona State Treasurer Republican Primary Winner
+674528,true,candidate or party wins one named race,Arizona Superintendent of Public Instruction Republican Primary Winner
+674587,false,"timing, dropout, endorsement or other event",Who will Mallory McMorrow endorse in the Michigan Senate Primary?
+682073,true,candidate or party wins one named race,MI-04 Democratic Primary Winner
+686223,true,candidate or party wins one named race,MI-03 Republican Primary Winner
+700890,false,referendum,Switzerland’s September Referendum: What will pass?
+707761,true,candidate or party wins one named race,WI-03 Democratic Primary Winner
+726760,true,candidate or party wins one named race,WI-06 Democratic Primary Winner
+726872,true,candidate or party wins one named race,FL-05 Republican Primary Winner
+726903,false,geographic or group breakdown,Michigan Democratic Senate Primary: Wayne County (Detroit) Winner
+726911,false,geographic or group breakdown,Michigan Democratic Senate Primary: Washtenaw County (Ann Arbor) Winner
+730834,false,geographic or group breakdown,Michigan Democratic Senate Primary: Oakland County Winner
+730911,true,candidate or party wins one named race,PA House of Representatives District 12 Special Election Winner
+739933,true,candidate or party wins one named race,TN-05 Republican Primary Winner
+745540,false,"timing, dropout, endorsement or other event",Next UK by-election called by…?
+753267,true,candidate or party wins one named race,FL-27 Democratic Primary Winner
+753268,true,candidate or party wins one named race,FL-25 Democratic Primary Winner
+753284,true,candidate or party wins one named race,FL-21 Democratic Primary Winner
+753297,false,geographic or group breakdown,Michigan Democratic Senate Primary: Kent County (Grand Rapids) Winner
+758539,true,candidate or party wins one named race,MA-01 Democratic Primary Winner
+758555,true,candidate or party wins one named race,MA-04 Democratic Primary Winner
+758565,true,candidate or party wins one named race,MA-09 Democratic Primary Winner
+766107,false,geographic or group breakdown,Michigan Democratic Senate Primary: Macomb County Winner
+766108,false,geographic or group breakdown,Michigan Democratic Senate Primary: Genesee County (Flint) Winner
+766140,true,candidate or party wins one named race,"Providence, RI Democratic Mayoral Nominee"
+770149,true,candidate or party wins one named race,North Vancouver—Capilano By-Election Winner
+808740,false,turnout,Sachsen-Anhalt Parliamentary Election: Turnout Up or Down?
+808741,false,turnout,Mecklenburg-Vorpommern Parliamentary Election: Turnout Up or Down?
+808750,false,turnout,Berlin State Election: Turnout Up or Down?
+812699,false,geographic or group breakdown,Wisconsin Governor Democratic Primary: Milwaukee County Winner
+812700,false,geographic or group breakdown,Wisconsin Governor Democratic Primary: Waukesha County Winner
+812701,false,geographic or group breakdown,Wisconsin Governor Democratic Primary: Kenosha County Winner
+812718,false,geographic or group breakdown,Minnesota Senate Democratic Primary: Hennepin County (Minneapolis) Winner
+812719,false,geographic or group breakdown,Minnesota Senate Democratic Primary: Ramsey County (St. Paul) Winner
+812720,false,geographic or group breakdown,Minnesota Senate Democratic Primary: Dakota County Winner
+812724,false,geographic or group breakdown,Wisconsin Governor Democratic Primary: Dane County Winner (Madison)
+826324,true,candidate or party wins one named race,Victoria Mayoral Election
+826327,true,candidate or party wins one named race,Nanaimo Mayoral Election
+842971,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to SD or M?
+842996,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to V or MP?
+842997,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to V or C?
+842998,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to V or KD?
+843003,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to MP or C?
+843008,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to MP or KD?
+843014,false,"vote comparison between options, not who wins",Sweden Parliamentary Election: More Votes to C or KD?
+843015,false,vote share or over/under threshold,Sweden Parliamentary Election: S Over/Under 31%?
+843032,false,vote share or over/under threshold,Sweden Parliamentary Election: SD Over/Under 19%?
+843033,false,vote share or over/under threshold,Sweden Parliamentary Election: M Over/Under 17%?
+843034,false,vote share or over/under threshold,Sweden Parliamentary Election: V Over/Under 7%?
+843035,false,vote share or over/under threshold,Sweden Parliamentary Election: MP Over/Under 7%?
+843036,false,vote share or over/under threshold,Sweden Parliamentary Election: C Over/Under 6%?
+843038,false,vote share or over/under threshold,Sweden Parliamentary Election: KD Over/Under 6%?
+844783,true,candidate or party wins one named race,Wyoming State Senate District 1 Republican Primary Winner
+881688,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to CDU or Linke?
+881689,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to CDU or AfD?
+881690,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to CDU or Grüne?
+881691,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to CDU or SPD?
+881692,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to Linke or AfD?
+881693,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to Linke or Grüne?
+881694,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to Linke or SPD?
+881695,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to AfD or Grüne?
+881704,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to AfD or SPD?
+881705,false,"vote comparison between options, not who wins",Berlin State Election: More Votes to Grüne or SPD?
+881706,false,vote share or over/under threshold,Berlin State Election: CDU Over/Under 20%?
+881707,false,vote share or over/under threshold,Berlin State Election: Linke Over/Under 20%?
+881708,false,vote share or over/under threshold,Berlin State Election: AfD Over/Under 17%?
+881709,false,vote share or over/under threshold,Berlin State Election: Grüne Over/Under 17%?
+881710,false,vote share or over/under threshold,Berlin State Election: SPD Over/Under 13%?
+881716,false,"vote comparison between options, not who wins",Sachsen-Anhalt Parliamentary Election: More Votes to SPD or Grüne?
+881717,false,"vote comparison between options, not who wins",Sachsen-Anhalt Parliamentary Election: More Votes to SPD or BSW?
+881718,false,"vote comparison between options, not who wins",Sachsen-Anhalt Parliamentary Election: More Votes to Grüne or BSW?
+881724,false,vote share or over/under threshold,Sachsen-Anhalt Parliamentary Election: AfD Over/Under 42%?
+881737,false,vote share or over/under threshold,Sachsen-Anhalt Parliamentary Election: CDU Over/Under 23%?
+881740,false,vote share or over/under threshold,Sachsen-Anhalt Parliamentary Election: Linke Over/Under 12%?
+881741,false,vote share or over/under threshold,Sachsen-Anhalt Parliamentary Election: SPD Over/Under 6%?
+881742,false,vote share or over/under threshold,Sachsen-Anhalt Parliamentary Election: Grüne Over/Under 5%?
+881743,false,vote share or over/under threshold,Sachsen-Anhalt Parliamentary Election: BSW Over/Under 5%?
+881772,false,"vote comparison between options, not who wins",Mecklenburg-Vorpommern Parliamentary Election: More Votes to AfD or SPD?
+881773,false,"vote comparison between options, not who wins",Mecklenburg-Vorpommern Parliamentary Election: More Votes to CDU or Linke?
+881774,false,"vote comparison between options, not who wins",Mecklenburg-Vorpommern Parliamentary Election: More Votes to BSW or Grüne?
+881775,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: AfD Over/Under 35%?
+881776,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: SPD Over/Under 28%?
+881777,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 10%?
+881778,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: Linke Over/Under 11%?
+881779,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: BSW Over/Under 5%?
+881780,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: Grüne Over/Under 5%?
+882611,true,candidate or party wins one named race,Oklahoma Commissioner of Insurance Republican Primary Winner
+882612,true,candidate or party wins one named race,Oklahoma Commissioner of Labor Republican Primary Winner
+882621,true,candidate or party wins one named race,Oklahoma Superintendent of Public Instruction Republican Primary Winner
+886835,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: York County Winner
+886854,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: Lexington County Winner
+886855,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: Spartanburg County Winner
+886856,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: Horry County Winner
+886859,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: Richland County Winner
+886876,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: Charleston County Winner
+886877,false,geographic or group breakdown,South Carolina Republican Senate Special Primary Runoff: Greenville County Winner
+886931,true,candidate or party wins one named race,RI-02 Republican Primary Winner
+902253,false,"timing, dropout, endorsement or other event",Biden impeachment by...?
+902520,false,"seats, chamber or parliament control",Senate control after 2024 election?
+902823,true,candidate or party wins one named race,Mississippi gubernatorial election: Presley (D) vs. Reeves (R)
+902869,false,margin,Margin in Argentina Presidential Election?
+903179,false,"vote comparison between options, not who wins",Who will get more votes in Taiwan Election: Hou Yu-ih (侯友宜) or Ko Wen-je (柯文哲)?
+903278,true,candidate or party wins one named race,NY-3 Special Election for Santos seat: Suozzi (D) vs. Pilip (R)
+903344,true,candidate or party wins one named race,Istanbul Mayoral Election 2024: Which party will win?
+903432,false,"timing, dropout, endorsement or other event",Will Biden or Haley drop out first?
+903514,false,"seats, chamber or parliament control",House control after 2024 election?
+903631,true,candidate or party wins one named race,Alabama Presidential Election Winner
+903633,true,candidate or party wins one named race,Montana Presidential Election Winner
+903634,true,candidate or party wins one named race,Nebraska Presidential Election Winner
+903635,true,candidate or party wins one named race,Alaska Presidential Election Winner
+903636,true,candidate or party wins one named race,Who will win Arizona?
+903637,true,candidate or party wins one named race,Who will win Nevada?
+903638,true,candidate or party wins one named race,Arkansas Presidential Election Winner
+903639,true,candidate or party wins one named race,California Presidential Election Winner
+903640,true,candidate or party wins one named race,New Hampshire Presidential Election Winner
+903641,true,candidate or party wins one named race,Colorado Presidential Election Winner
+903642,true,candidate or party wins one named race,Connecticut Presidential Election Winner
+903643,true,candidate or party wins one named race,New Jersey Presidential Election Winner
+903646,true,candidate or party wins one named race,Florida Presidential Election Winner
+903648,true,candidate or party wins one named race,Who will win Georgia?
+903649,true,candidate or party wins one named race,Hawaii Presidential Election Winner
+903650,true,candidate or party wins one named race,Who will win North Carolina?
+903651,true,candidate or party wins one named race,Idaho Presidential Election Winner
+903652,true,candidate or party wins one named race,North Dakota Presidential Election Winner
+903653,true,candidate or party wins one named race,Illinois Presidential Election Winner
+903654,true,candidate or party wins one named race,Indiana Presidential Election Winner
+903655,true,candidate or party wins one named race,Iowa Presidential Election Winner
+903656,true,candidate or party wins one named race,Ohio Presidential Election Winner
+903657,true,candidate or party wins one named race,Kansas Presidential Election Winner
+903658,true,candidate or party wins one named race,Kentucky Presidential Election Winner
+903659,true,candidate or party wins one named race,Louisiana Presidential Election Winner
+903660,true,candidate or party wins one named race,Maine Presidential Election Winner
+903661,true,candidate or party wins one named race,Oklahoma Presidential Election Winner
+903662,true,candidate or party wins one named race,Massachusetts Presidential Election Winner
+903663,true,candidate or party wins one named race,Maryland Presidential Election Winner
+903664,true,candidate or party wins one named race,Oregon Presidential Election Winner
+903665,true,candidate or party wins one named race,Who will win Michigan?
+903666,true,candidate or party wins one named race,Minnesota Presidential Election Winner
+903667,true,candidate or party wins one named race,Who will win Pennsylvania?
+903668,true,candidate or party wins one named race,Mississippi Presidential Election Winner
+903669,true,candidate or party wins one named race,Missouri Presidential Election Winner
+903670,true,candidate or party wins one named race,Rhode Island Presidential Election Winner
+903671,true,candidate or party wins one named race,South Carolina Presidential Election Winner
+903672,true,candidate or party wins one named race,South Dakota Presidential Election Winner
+903673,true,candidate or party wins one named race,Tennessee Presidential Election Winner
+903674,true,candidate or party wins one named race,Texas Presidential Election Winner
+903676,true,candidate or party wins one named race,Utah Presidential Election Winner
+903677,true,candidate or party wins one named race,Vermont Presidential Election Winner
+903679,true,candidate or party wins one named race,Virginia Presidential Election Winner
+903681,true,candidate or party wins one named race,Washington Presidential Election Winner
+903682,true,candidate or party wins one named race,West Virginia Presidential Election Winner
+903683,true,candidate or party wins one named race,Who will win Wisconsin?
+903684,true,candidate or party wins one named race,Wyoming Presidential Election Winner
+903697,false,"seats, chamber or parliament control",South Korea election: Which party wins the most seats?
+903757,true,candidate or party wins one named race,North Carolina Governor Election Winner
+903759,true,candidate or party wins one named race,New Hampshire Governor Election Winner
+903761,true,candidate or party wins one named race,Indiana Governor Election Winner
+903763,true,candidate or party wins one named race,Missouri Governor Election Winner
+903764,true,candidate or party wins one named race,Montana Governor Election Winner
+903765,true,candidate or party wins one named race,North Dakota Governor Election Winner
+903766,true,candidate or party wins one named race,Utah Governor Election Winner
+903768,true,candidate or party wins one named race,Washington Governor Election Winner
+903769,true,candidate or party wins one named race,West Virginia Governor Election Winner
+903799,true,candidate or party wins one named race,Michigan Senate Election Winner
+905554,true,candidate or party wins one named race,"Langley Township, BC Mayoral Election Winner"
+905555,true,candidate or party wins one named race,"New Westminster, BC Mayoral Election Winner"
+905556,true,candidate or party wins one named race,"West Vancouver, BC Mayoral Election Winner"
+905557,true,candidate or party wins one named race,"Vernon, BC Mayoral Election Winner"
+905558,true,candidate or party wins one named race,"Fernie, BC Mayoral Election Winner"
+905572,true,candidate or party wins one named race,"Markham, ON Mayoral Election Winner"
+905679,true,candidate or party wins one named race,"Brandon, MB Mayoral Election Winner"
+943055,true,candidate or party wins one named race,Bratislava Region Governor Election Winner
+943057,true,candidate or party wins one named race,Trenčín Region Governor Election Winner
+943559,true,candidate or party wins one named race,Mulka By-Election Winner
+948680,true,candidate or party wins one named race,NH-02 Democratic Primary Winner
+960893,true,candidate or party wins one named race,Devonport Mayoral Election Winner
+960903,true,candidate or party wins one named race,Central Coast Mayoral Election Winner
+999883,false,vote share or over/under threshold,Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%?
+1075612,false,"timing, dropout, endorsement or other event",Lula flips Bolsonaro for Brazil president by...?
+1137666,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Acre
+1137667,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Alagoas
+1137668,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Amapá
+1137669,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Amazonas
+1137671,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Bahia
+1137672,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Ceará
+1137681,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Espírito Santo
+1137682,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Federal District
+1137683,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Goiás
+1137684,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Maranhão
+1137685,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Mato Grosso
+1137686,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Mato Grosso do Sul
+1137687,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Minas Gerais
+1137688,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Pará
+1137689,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Paraíba
+1137690,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Paraná
+1137691,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Pernambuco
+1137692,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Piauí
+1137781,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Rio de Janeiro
+1137782,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Rio Grande do Norte
+1137783,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Rio Grande do Sul
+1137784,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Rondônia
+1137785,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Roraima
+1137791,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Santa Catarina
+1137795,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in São Paulo
+1137796,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Sergipe
+1137797,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place in Tocantins
+1137817,false,placement or first-round market,Brazil Presidential Election Second Round: 1st Place Abroad
+1220827,false,geographic or group breakdown,Brazil Presidential Election Second Round: Winner in São Paulo City
+1220828,false,geographic or group breakdown,Brazil Presidential Election Second Round: Winner in Rio de Janeiro City

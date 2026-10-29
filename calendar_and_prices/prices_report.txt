@@ -1,0 +1,13 @@
+Kalshi: 169 of 367 contests kept (78 primaries, 91 other)
+  184	drop: favourite above 95% (scaled)
+  11	drop: no quote within 10 cents and no trade in the hour before the snapshot
+  2	drop: prices of all options add up to more than 10 cents away from 1
+  1	drop: market opened after the snapshot
+  kept candidates priced by midpoint 332, by last trade 6
+Polymarket: 84 of 224 contests kept (23 primaries, 61 other)
+  105	drop: favourite above 95% (scaled)
+  17	drop: another candidate priced above 5%
+  9	drop: neither candidate traded in the 24 hours before the snapshot
+  8	drop: prices of all options add up to more than 10 cents away from 1
+  1	drop: market opened after the snapshot
+Both: 253 of 591 contests kept

@@ -1,0 +1,133 @@
+Kalshi binary election cleaning report
+Input events: 2062
+Events kept after duplicate removal: 391
+Events dropped: 1671
+Dropped because only a third traded option disqualified an otherwise valid contest, and the least-traded option was under 2% of event volume: 35
+
+Events dropped by primary reason:
+  376	drop: non-null floor_strike or cap_strike
+  226	drop: 3 traded markets (requires exactly 2)
+  175	drop: 4 traded markets (requires exactly 2)
+  174	drop: 1 traded markets (requires exactly 2)
+  150	drop: 5 traded markets (requires exactly 2)
+  124	drop: 6 traded markets (requires exactly 2)
+  79	drop: 8 traded markets (requires exactly 2)
+  76	drop: 7 traded markets (requires exactly 2)
+  61	drop: 9 traded markets (requires exactly 2)
+  35	drop: 12 traded markets (requires exactly 2)
+  32	drop: 10 traded markets (requires exactly 2)
+  30	drop: 0 traded markets (requires exactly 2)
+  23	drop: 11 traded markets (requires exactly 2)
+  16	drop: 13 traded markets (requires exactly 2)
+  14	drop: 15 traded markets (requires exactly 2)
+  10	drop: traded markets have no yes result
+  8	drop: 14 traded markets (requires exactly 2)
+  7	drop: finishing-place market
+  6	drop: margin or margin of victory
+  5	drop: 17 traded markets (requires exactly 2)
+  4	drop: traded option is a basket (Other/Field/Someone else)
+  4	drop: most seats or seat gains
+  4	drop: 16 traded markets (requires exactly 2)
+  3	drop: 20 traded markets (requires exactly 2)
+  3	drop: event contains a scalar market
+  3	drop: 21 traded markets (requires exactly 2)
+  2	drop: 24 traded markets (requires exactly 2)
+  2	drop: 23 traded markets (requires exactly 2)
+  2	drop: 18 traded markets (requires exactly 2)
+  2	drop: 25 traded markets (requires exactly 2)
+  2	drop: chamber control
+  1	drop: multiple traded markets have yes results
+  1	drop: popular vote
+  1	drop: seat count or range
+  1	drop: 29 traded markets (requires exactly 2)
+  1	drop: 22 traded markets (requires exactly 2)
+  1	drop: government formation / next prime minister
+  1	drop: 36 traded markets (requires exactly 2)
+  1	drop: duplicate contest; kept SENATENE-24 (greater total event volume)
+  1	drop: whether an election is called
+  1	drop: 48 traded markets (requires exactly 2)
+  1	drop: 19 traded markets (requires exactly 2)
+  1	drop: next officeholder
+  1	drop: manual rule 1 review — This market is about how Missouri selects nominees across eight House districts, not a candidate or party winning one specific race.
+
+Kept events by year opened:
+  2024	117
+  2025	53
+  2026	221
+
+30 random kept events (seed 20261029):
+  KXTXPRIMARY-13R26 | Will Ronny Jackson be the Republican nominee for TX-13? | keep: candidate or party wins a named contest
+  KXCOPRIMARY-04D26 | Will Jenna Preston be the Democratic nominee for CO-04? | keep: candidate or party wins a named contest
+  PRESPARTYTX-24 | Will the Republican party win Texas in the presidential election? | keep: candidate or party wins a named contest
+  KXSEYCHELLESPRES-25 | Who will win the next Seychellois presidential election? | keep: explicit candidate or party election winner
+  PRESPARTYCO-24 | Will the Republican party win Colorado in the presidential election? | keep: candidate or party wins a named contest
+  KXHOUSERACE-CA07-26 | Will Republican win the House race for CA-07? | keep: candidate or party wins a named contest
+  KXNJPRIMARY-10D26 | Will Lawrence Poster be the Democratic nominee for NJ-10? | keep: candidate or party wins a named contest
+  PRESPARTYWV-24 | Will the Democratic party win West Virginia in the presidential election? | keep: candidate or party wins a named contest
+  KXSDPRIMARY-ALD26 | Will Scott Schlagel be the Democratic nominee for SD-AL? | keep: candidate or party wins a named contest
+  SENATENV-24 | Will Republicans win the Senate race in Nevada? | keep: candidate or party wins a named contest
+  KXHOUSERACE-CA11-26 | Will Republican win the House race for CA-11? | keep: candidate or party wins a named contest
+  HOUSEAZ1-24 | Will Republican win the House race for AZ-1? | keep: candidate or party wins a named contest
+  KXIAPRIMARY-01R26 | Will Mariannette Miller-Meeks be the Republican nominee for IA-01? | keep: candidate or party wins a named contest
+  KXCTPRIMARY-02R26 | Will Sean Randall be the Republican nominee for CT-02? | keep: candidate or party wins a named contest
+  KXINPRIMARY-06R26 | Will Sarah Janisse Brown be the Republican nominee for IN-06? | keep: candidate or party wins a named contest
+  KXGOVARNOMD-26 | Will Supha Xayprasith-Mays be the Democratic nominee for Governor in Arkansas? | keep: candidate or party wins a named contest
+  KXWARRENSEAT-26 | Who will win the 2026 nonpartisan election for the Georgia Supreme Court seat currently held by Sarah Hawkins Warren? | keep: explicit candidate or party election winner
+  KXGOVHINOMR-26 | Will Ken Fujiyama be the Republican nominee for Governor in Hawaii? | keep: candidate or party wins a named contest
+  KXIAPRIMARY-01D26 | Will Travis Terrell be the Democratic nominee for IA-01? | keep: candidate or party wins a named contest
+  KXMOPRIMARY-03R26 | Will John G Fraser be the Republican nominee for MO-03? | keep: candidate or party wins a named contest
+  PRESPARTYSD-24 | Will the Republicn party win South Dakota in the presidential election? | keep: candidate or party wins a named contest
+  PRESPARTYAL-24 | Will the Democratic party win Alabama in the presidential election? | keep: candidate or party wins a named contest
+  KXMNPRIMARY-07R26 | Will Michelle Fischbach be the Republican nominee for MN-07? | keep: candidate or party wins a named contest
+  KXIDPRIMARY-02D26 | Will Julie Wiley be the Democratic nominee for ID-02? | keep: candidate or party wins a named contest
+  KXILPRIMARY-13R26 | Will Jeff Wilson be the Republican nominee for IL-13? | keep: candidate or party wins a named contest
+  KXTNPRIMARY-07R26 | Will Matt Van Epps be the Republican nominee for TN-07? | keep: candidate or party wins a named contest
+  KXWINNIPEGCENTRE-25 | Which party will win Winnipeg Centre in the Canadian election? | keep: explicit candidate or party election winner
+  KXRIPRIMARY-02R26 | Will Victor Mellor be the Republican nominee for RI-02? | keep: candidate or party wins a named contest
+  KXCTPRIMARY-03D26 | Will Rosa L DeLauro be the Democratic nominee for CT-03? | keep: candidate or party wins a named contest
+  KXHIPRIMARY-01R26 | Will Maxwell Frazier be the Republican nominee for HI-01? | keep: candidate or party wins a named contest
+
+30 random dropped events (seed 20261029):
+  KXMISSISSAUGAMAYOR-26OCT26 | Will Mike Matulewicz win the 2026 Mississauga mayoral election? | drop: 14 traded markets (requires exactly 2)
+  KXGAPRIMARY-11R26 | Will William Brown be the Republican nominee for GA-11? | drop: 8 traded markets (requires exactly 2)
+  KXVOTEPRIMARY-GOVGANOMR26BRBRAF | Will Brad Raffensperger receive between 5% and 10% of the popular vote in the first round of the 2026 Georgia Republican gubernatorial primary? | drop: non-null floor_strike or cap_strike
+  KXMIDTERMMOV-TXSENPKPAX | Will the margin of victory for Ken Paxton in the U.S. Senate primary election in Texas be at least 36 percentage points? | drop: non-null floor_strike or cap_strike
+  KXPRIMARYMOV-NY7D26 | Will the margin of victory for Claire Valdez in the 2026 NY-07 Democratic primary be between 6% and 9%? | drop: 12 traded markets (requires exactly 2)
+  KXVOTEPRIMARY-26JUN02ESWA | Will Eric Swalwell receive at least 32% of the popular vote in the 2026 California gubernatorial primary? | drop: non-null floor_strike or cap_strike
+  KXVOTEPRIMARY-KY4R26EGALEGAL | Will Ed Gallrein receive at least 60% of the popular vote in the 2026 Kentucky 4th Congressional District Republican primary? | drop: non-null floor_strike or cap_strike
+  KXVOTEBERLIN-26SEP20CDU | Will CDU receive at least 25% of valid second votes in the 2026 Berlin state election? | drop: non-null floor_strike or cap_strike
+  KXCHILE1ROUND-25 | Will a candidate win outright in Chile’s first round? | drop: 1 traded markets (requires exactly 2)
+  KXVAPRIMARY-08D26 | Will Mo Seifeldein be the Democratic nominee for VA-08? | drop: 7 traded markets (requires exactly 2)
+  KXMAKERFIELDBY-27JAN01 | Will Restore Britain win the 2026 Makerfield by-election? | drop: 6 traded markets (requires exactly 2)
+  KXVOTEPRIMARY-CA11PRIMARY26SWIESWIE | Will Scott Wiener receive at least 60% of the popular vote in the 2026 CA-11 primary? | drop: non-null floor_strike or cap_strike
+  KXTN7SMOV-25NOV07 | Will Matt Van Epps's margin in the Tennessee's 7th congressional district special election runoff be between 5 and 9.99? | drop: non-null floor_strike or cap_strike
+  KXHUNGARYPARLI-26 | Who will win the next Hungarian general election? | drop: traded option is a basket (Other/Field/Someone else)
+  KXHUNGARYTURNOUT-26APR12 | Will the total vote count for all participants in the 2026 Hungarian parliamentary election be above 6600000? | drop: non-null floor_strike or cap_strike
+  KXMAUBER | Will Massachusetts vote to allow ride-sharing unions? | drop: 1 traded markets (requires exactly 2)
+  KXMAMDANIREDSTRICT-25NOV04 | Will California Proposition 50 have the largest margin of victory in New York City mayoral election and California Proposition 50? | drop: margin or margin of victory
+  KXBBGMAYOR-25 | Will Michael Bloomberg run for NYC Mayor? | drop: 1 traded markets (requires exactly 2)
+  KXFL19R-26 | Will Jim Schwartzel be the Republican nominee for FL-19? | drop: 8 traded markets (requires exactly 2)
+  KXMNPRIMARY-08D26 | Will Wendell Smith be the Democratic nominee for MN-08? | drop: 6 traded markets (requires exactly 2)
+  KXCLACTON4TH-CLACTONBYELECTION26SEP01-4 | Will Social Democratic Party finish 4th in the 2026 Clacton by-election? | drop: 16 traded markets (requires exactly 2)
+  KXLOUDOUNMOVVAGOV-25NOV04 | Will Abigail Spanberger win by 30% or more in Loudoun County in the Virginia governor election? | drop: non-null floor_strike or cap_strike
+  KXPRESPOLAND | Will Grzegorz Braun win the 2025 Polish presidential election? | drop: 6 traded markets (requires exactly 2)
+  KXSURREYMAYOR-26OCT17 | Will Troy Van Vliet win the 2026 Surrey mayoral election? | drop: 6 traded markets (requires exactly 2)
+  KXILPRIMARY-05R26 | Will Tommy Hanson be the Republican nominee for IL-05? | drop: 3 traded markets (requires exactly 2)
+  KXMT01D-26 | Will Ryan Busse be the Democratic nominee for MT-01? | drop: 4 traded markets (requires exactly 2)
+  KXHUNGARYPRES-27JAN01 | Will Tamás Fabiny be the next President of Hungary before Jan 1, 2027? | drop: 11 traded markets (requires exactly 2)
+  KXPRIMARYMOV-SENATENJR26 | Will the margin of victory for Richard Tabor in the 2026 New Jersey Republican Senate primary be between 5% and 10%? | drop: 8 traded markets (requires exactly 2)
+  KXVENTRURAVOTE-26JAN18 | Will André Ventura receive between 0% and 14.99% of the percentage points in Portugal? | drop: non-null floor_strike or cap_strike
+  KXMOLDOVAMAJORITY-25SEP28 | Will Party of Action and Solidarity (PAS) win at least 51 seats in 2025 Moldovan parliamentary election? | drop: 1 traded markets (requires exactly 2)
+
+Fixes applied after the first pass
+Events dropped by these fixes: 24
+  9	drop: decided by the top-two primary leaving one party out, not by a vote between the two options
+  7	drop: nominee settled before any primary vote (market resolved before the state's primary date)
+  6	drop: control of a whole chamber or parliament, not one race
+  2	drop: internal party vote, not a public election
+Events kept now: 367 (734 markets)
+  primaries 204, other contests 163
+Kept events by year opened:
+  2024	116
+  2025	49
+  2026	202

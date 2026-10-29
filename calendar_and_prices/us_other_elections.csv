@@ -1,0 +1,31 @@
+contest_id,date,state,note,source
+KXFL6D-25,2025-01-28,FL,FL-6 special primary,https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+KXFL6R-25,2025-01-28,FL,FL-6 special primary,https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+KXFL1D-25,2025-01-28,FL,FL-1 special primary (held with FL-6),https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+HOUSEFL6-25,2025-04-01,FL,FL-6 special general,https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+HOUSEFL1-25,2025-04-01,FL,FL-1 special general (held with FL-6),https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+21308,2025-04-01,FL,FL-1 special general,https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+21311,2025-04-01,FL,FL-6 special general,https://ballotpedia.org/Florida's_6th_Congressional_District_special_election,_2025
+KXWISCOTUS-25,2025-04-01,WI,Wisconsin Supreme Court,Polymarket description of the same race
+20810,2025-04-01,WI,Wisconsin Supreme Court,market description
+22441,2025-04-15,CA,Oakland mayoral special election,market description
+KXUSELECTIONARIZONA7-25,2025-09-23,AZ,AZ-7 special general,https://azcleanelections.gov/september-23-2025-election/pinal
+HOUSETN7S-25,2025-12-02,TN,TN-7 special general,https://ballotpedia.org/Tennessee's_7th_Congressional_District_special_election,_2025
+KXMAYORMIA-25,2025-12-09,FL,Miami mayoral runoff,https://www.miami.gov/My-Government/Elections/Run-Off-Election-December-9-2025
+KXUSELECTIONTEXAS18-25,2026-01-31,TX,TX-18 special runoff,https://www.tpr.org/government-politics/2026-02-01/christian-menefee-beats-amanda-edwards-in-18th-congressional-district-runoff
+KXMAMDANISEAT-26MAR01,2026-02-03,NY,NY Assembly District 36 special,https://ballotpedia.org/New_York_state_legislative_special_elections,_2026
+KXMAINE94-26,2026-02-24,ME,Maine House District 94 special,https://www.maine.gov/sos/news/special-election-set-february-24-fill-house-district-94-seat
+KXFLHD87-26,2026-03-24,FL,Florida House District 87 special general,https://ballotpedia.org/Florida_state_legislative_special_elections,_2026
+KXFLSD14-26,2026-03-24,FL,Florida Senate District 14 special general,https://ballotpedia.org/Florida_state_legislative_special_elections,_2026
+KXHOUSENJ11SPECIAL-26,2026-04-16,NJ,NJ-11 special general,https://www.montclairnjusa.org/News-articles/Special-General-Election-on-April-16-2026-Early-Voting-Information
+KXBETHELSEAT-26,2026-05-19,GA,Georgia Supreme Court (nonpartisan; with the primary),Georgia's 2026 primary date (FEC); market closed the next day
+KXWARRENSEAT-26,2026-05-19,GA,Georgia Supreme Court (nonpartisan; with the primary),Georgia's 2026 primary date (FEC); market closed the next day
+KXSIOUXFALLSMAYOR-26,2026-06-23,SD,Sioux Falls mayoral runoff,https://www.siouxfalls.gov/news/2026/06/05/20260605-runoff_election
+637404,2026-07-21,AZ,Chandler mayor won outright in the city primary,https://hoodline.com/2026/07/chandler-power-shakeup-as-matt-orlando-rolls-past-weninger-in-mayor-race/
+730911,2026-08-18,PA,Pennsylvania House District 12 special,https://en.wikipedia.org/wiki/2026_Pennsylvania_House_of_Representatives_election
+902823,2023-11-07,MS,Mississippi governor,market description
+903278,2024-02-13,NY,NY-3 special,market description
+11124,2024-06-18,VA,VA-5 Republican primary,market end date
+10267,2024-06-25,NY,NY-16 Democratic primary,market end date
+10556,2024-06-25,NY,NY-14 Democratic primary,market end date
+11995,2024-08-13,WI,WI-3 Democratic primary,market end date

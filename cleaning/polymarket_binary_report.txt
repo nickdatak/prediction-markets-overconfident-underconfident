@@ -1,0 +1,103 @@
+Polymarket two-candidate election contests
+Input: polymarket_elections.json (2777 events)
+Kept: 224   Dropped: 2553
+
+Kept by end year (with an 'Other' basket market):
+  2023: 1 (0)
+  2024: 117 (109)
+  2025: 8 (5)
+  2026: 97 (97)
+  none: 1 (1)
+
+Dropped, by first rule failed:
+   1281  5+ named candidates traded (needs exactly 2)
+    650  1 named candidates traded (needs exactly 2)
+    207  4 named candidates traded (needs exactly 2)
+    149  3 named candidates traded (needs exactly 2)
+     66  0 named candidates traded (needs exactly 2)
+     34  vote comparison between options, not who wins
+     32  geographic or group breakdown
+     32  placement or first-round market
+     27  vote share or over/under threshold
+     21  forecast, poll, odds or debate market
+     17  seats, chamber or parliament control
+      9  timing, dropout, endorsement or other event
+      9  not every market closed and settled at 1 or 0
+      6  markets are not all yes/no
+      3  not a public election
+      3  turnout
+      2  never traded
+      2  referendum
+      1  margin
+      1  one candidate's market closed on the morning of the runoff, before any votes (no price at the snapshot)
+      1  nominee settled before any primary vote (market resolved 10 June 2026; Virginia's primary moved to 4 August)
+
+Dropped because an option nobody traded won (depends on the result, disclose): 0
+
+Duplicate listings dropped: 0
+
+Need a title review before they can be kept: 0
+
+30 random kept:
+  232524 | GA-08 Republican Primary Winner
+  903766 | Utah Governor Election Winner
+  10254 |  Connecticut Senate Election Winner
+  548953 | Pompei Mayoral Election Winner
+  903659 | Louisiana Presidential Election Winner
+  4076 | Which party wins 2024 US Presidential Election?
+  903633 | Montana Presidential Election Winner
+  10241 | Nebraska Senate Election Winner
+  682073 | MI-04 Democratic Primary Winner
+  227940 | CO-03 Republican Primary Winner
+  943057 | Trenčín Region Governor Election Winner
+  631084 | CO-03 Democratic Primary Winner 
+  903757 | North Carolina Governor Election Winner
+  903764 | Montana Governor Election Winner
+  882621 | Oklahoma Superintendent of Public Instruction Republican Primary Winner
+  14095 | PA-07 election: Wild (D) vs. Mackenzie (R)
+  656320 | AZ-02 Democratic Primary Winner
+  12057 | CA-13 election: Gray (D) vs. Duarte (R)
+  10218 | Texas Senate Election Winner
+  826327 | Nanaimo Mayoral Election
+  514392 | SC-06 Republican Primary Winner
+  10257 | Massachusetts Senate Election Winner
+  90364 | TX-28 Democratic Primary Winner
+  10174 | Maine's 1st Congressional District Presidential Election Winner
+  10607 | Vermont Governor Election Winner
+  903662 | Massachusetts Presidential Election Winner
+  548887 | Agrigento Mayoral Election Winner
+  10021 | Montana Senate Election Winner
+  10261 | Hawaii Senate Election Winner
+  903674 | Texas Presidential Election Winner
+
+30 random dropped:
+  264148 | Who will advance to 2026 Paris municipal election 2nd round? | 0 named candidates traded (needs exactly 2)
+  28449 | Will Kamala Harris announce California Governor run in 2025? | 1 named candidates traded (needs exactly 2)
+  22991 | Will any candidate win outright in 1st round of Poland Election? | 1 named candidates traded (needs exactly 2)
+  101822 | Vermont Governor Democratic Primary Winner | 5+ named candidates traded (needs exactly 2)
+  514336 | SC-01 Democratic Primary Winner | 5+ named candidates traded (needs exactly 2)
+  24880 | South Korea Presidential Election Margin of Victory | 5+ named candidates traded (needs exactly 2)
+  24885 | Will Trzaskowski or Nawrocki win the diaspora vote? | geographic or group breakdown
+  1030992 | Brazil Presidential Election First Round: Renan Santos Vote Share? | 5+ named candidates traded (needs exactly 2)
+  999883 | Mecklenburg-Vorpommern Parliamentary Election: CDU Over/Under 5%? | vote share or over/under threshold
+  10415 | Trump wins a solid blue state? | 1 named candidates traded (needs exactly 2)
+  13683 | What will Trump say during New York rally? | 5+ named candidates traded (needs exactly 2)
+  22049 | Which party wins most seats in Prince Edward Island? | 3 named candidates traded (needs exactly 2)
+  211859 | Nepal House of Representatives Election: 3rd Place | 0 named candidates traded (needs exactly 2)
+  13888 | What will Trump say during Hannity interview? | 5+ named candidates traded (needs exactly 2)
+  23681 | # of seats Liberal–National Coalition wins in Australian Election? | 5+ named candidates traded (needs exactly 2)
+  843032 | Sweden Parliamentary Election: SD Over/Under 19%? | vote share or over/under threshold
+  177721 | Will LDP win a majority in the 2026 Japanese snap election? | 1 named candidates traded (needs exactly 2)
+  648860 | AZ-01 Democratic Primary Winner | 4 named candidates traded (needs exactly 2)
+  12121 | Will Nate Silver correctly call the Presidential Election? | 1 named candidates traded (needs exactly 2)
+  13464 | Turnout in 2024 Presidential election? | 5+ named candidates traded (needs exactly 2)
+  864383 | Rio de Janeiro Senate Election: 1st Place | 5+ named candidates traded (needs exactly 2)
+  101859 | Guam Governor Republican Primary Winner | 5+ named candidates traded (needs exactly 2)
+  246015 | Texas Democratic Senate Primary Margin of Victory (Smaller Brackets) | 1 named candidates traded (needs exactly 2)
+  743520 | Zambia National Assembly Election: Party Winner | 4 named candidates traded (needs exactly 2)
+  761816 | Vologda Oblast Parliament Election: Party Winner | 5+ named candidates traded (needs exactly 2)
+  881724 | Sachsen-Anhalt Parliamentary Election: AfD Over/Under 42%? | vote share or over/under threshold
+  563121 | Colombia Presidential Election Runoff: Margin of Victory | 5+ named candidates traded (needs exactly 2)
+  26087 | Which Party wins 2nd most seats in Netherlands election? | 5+ named candidates traded (needs exactly 2)
+  902867 | Will Manchin announce presidential run by Mar 5? | 1 named candidates traded (needs exactly 2)
+  843053 | Sweden Parliamentary Election: SD Vote Share? | 4 named candidates traded (needs exactly 2)
