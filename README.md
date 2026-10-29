@@ -2,6 +2,8 @@
 
 Nikita Kirillov, Maastricht University
 
+Archived before the vote: code and frozen results [10.5281/zenodo.23776845](https://doi.org/10.5281/zenodo.23776845) (release `v1.0-preregistration`); raw pulls in `pull/data` [10.5281/zenodo.23776979](https://doi.org/10.5281/zenodo.23776979).
+
 We pulled every settled election market on Kalshi and Polymarket, kept contests with exactly two candidates and one
 clear winner, and priced each one at a fixed moment before the vote ended: 17:00 in the easternmost US time zone voting
 that day. For each platform we then fitted one number, the stretch `b`, which turns the favourite's price `p` into the
