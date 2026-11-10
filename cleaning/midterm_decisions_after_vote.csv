@@ -1,0 +1,1094 @@
+platform,contest_id,state,reason,title
+Kalshi,KXGOVPARTYAK-26,AK,not settled yet,Will the Republican party win the governorship in Alaska
+Kalshi,SENATEAK-26,AK,not settled yet,Will Democratics win the Senate race in Alaska?
+Kalshi,GOVPARTYAL-26,AL,kept,Will the Republican party win the governorship in Alabama
+Kalshi,KXATTYGENAL-26,AL,kept,Will the Republican party win the Attorney General race in Alabama?
+Kalshi,KXHOUSERACE-AL01-26,AL,kept,Will Republican win the House race for AL-01?
+Kalshi,KXHOUSERACE-AL02-26,AL,kept,Will Republican win the House race for AL-02?
+Kalshi,KXHOUSERACE-AL03-26,AL,kept,Will Republican win the House race for AL-03?
+Kalshi,KXHOUSERACE-AL04-26,AL,kept,Will Republican win the House race for AL-04?
+Kalshi,KXHOUSERACE-AL05-26,AL,kept,Will Republican win the House race for AL-05?
+Kalshi,KXHOUSERACE-AL06-26,AL,kept,Will Republican win the House race for AL-06?
+Kalshi,KXHOUSERACE-AL07-26,AL,kept,Will Republican win the House race for AL-07?
+Kalshi,KXLTGOVAL-26,AL,kept,Will the Republican party win the Lt. Gov race in Alabama?
+Kalshi,SENATEAL-26,AL,kept,Will Republicans win the Senate race in Alabama?
+Kalshi,GOVPARTYAR-26,AR,kept,Will the Republican party win the governorship in Arkansas
+Kalshi,KXATTYGENAR-26,AR,kept,Will the Republican party win the Attorney General race in Arkansas?
+Kalshi,KXHOUSERACE-AR01-26,AR,kept,Will Republican win the House race for AR-01?
+Kalshi,KXHOUSERACE-AR02-26,AR,kept,Will Republican win the House race for AR-02?
+Kalshi,KXHOUSERACE-AR03-26,AR,kept,Will Republican win the House race for AR-03?
+Kalshi,KXHOUSERACE-AR04-26,AR,kept,Will Republican win the House race for AR-04?
+Kalshi,KXSECSTATEAR-26NOV03,AR,kept,Will Michael Pakko win the 2026 Arkansas Secretary of State election?
+Kalshi,SENATEAR-26,AR,kept,Will Republicans win the Senate race in Arkansas?
+Kalshi,GOVPARTYAZ-26,AZ,kept,Will the Republican party win the governorship in Arizona
+Kalshi,HOUSEAZ1-26,AZ,kept,Will Republican win the House race for AZ-1?
+Kalshi,HOUSEAZ2-26,AZ,kept,Will Republican win the House race for AZ-2?
+Kalshi,HOUSEAZ6-26,AZ,kept,Will Republican win the House race for AZ-6?
+Kalshi,KXATTYGENAZ-26,AZ,kept,Will the Republican party win the Attorney General race in Arizona?
+Kalshi,KXAZMINEINSPECTOR-26NOV03,AZ,kept,"Will Walter ""Les"" Presmyk win the 2026 Arizona State Mine Inspector election?"
+Kalshi,KXAZTREASRGEN-26NOV03,AZ,kept,Will Nick Mansour win the 2026 Arizona State Treasurer general election?
+Kalshi,KXHOUSERACE-AZ03-26,AZ,kept,Will Republican win the House race for AZ-03?
+Kalshi,KXHOUSERACE-AZ04-26,AZ,kept,Will Republican win the House race for AZ-04?
+Kalshi,KXHOUSERACE-AZ05-26,AZ,kept,Will Republican win the House race for AZ-05?
+Kalshi,KXHOUSERACE-AZ07-26,AZ,kept,Will Republican win the House race for AZ-07?
+Kalshi,KXHOUSERACE-AZ08-26,AZ,kept,Will Republican win the House race for AZ-08?
+Kalshi,KXHOUSERACE-AZ09-26,AZ,kept,Will Republican win the House race for AZ-09?
+Kalshi,KXSECSTATEAZ-26,AZ,kept,Will the Republican party win the Secretary of State election in Arizona?
+Kalshi,HOUSECA13-26,CA,kept,Will Republican win the House race for CA-13?
+Kalshi,HOUSECA21-26,CA,kept,Will a Republican win the House race for CA-21?
+Kalshi,HOUSECA22-26,CA,kept,Will Republican win the House race for CA-22?
+Kalshi,HOUSECA27-26,CA,kept,Will Republican win the House race for CA-27?
+Kalshi,HOUSECA3-26,CA,kept,Will Republican win the House race for CA-3?
+Kalshi,HOUSECA41-26,CA,kept,Will Republican win the House race for CA-41?
+Kalshi,HOUSECA45-26,CA,kept,Will Republican win the House race for CA-45?
+Kalshi,HOUSECA47-26,CA,kept,Will Republican win the House race for CA-47?
+Kalshi,HOUSECA49-26,CA,kept,Will a Republican win the House race for CA-49?
+Kalshi,HOUSECA9-26,CA,kept,Will Republican win the House race for CA-9?
+Kalshi,KXCA11PERSON-26,CA,kept,Who will win the CA-11 House election?
+Kalshi,KXCAATTORNEYGENERAL-26,CA,kept,Who will win the 2026 California Attorney General election?
+Kalshi,KXCAELECTION-2604,CA,not settled yet,Who will win the 2026 CA-04 House election?
+Kalshi,KXCAELECTION-2607,CA,not settled yet,Who will win the 2026 CA-07 House election?
+Kalshi,KXCAELECTION-2612,CA,kept,Who will win the 2026 CA-12 House election?
+Kalshi,KXCAELECTION-2614,CA,kept,Who will win the 2026 CA-14 House election?
+Kalshi,KXCAELECTION-2629,CA,kept,Who will win the 2026 CA-29 House election?
+Kalshi,KXCAELECTION-2634,CA,kept,Who will win the 2026 CA-34 House election?
+Kalshi,KXCAELECTION-2637,CA,kept,Who will win the 2026 CA-37 House election?
+Kalshi,KXCAELECTION-2640,CA,kept,Who will win the 2026 CA-40 House election?
+Kalshi,KXCAINSCOMGEN-26,CA,kept,Who will win the 2026 California Insurance Commissioner general election?
+Kalshi,KXCALIEUTENANTGOV-26NOV03,CA,kept,Will Gloria Romero win the 2026 California Lieutenant Governor election?
+Kalshi,KXCASUPT-26NOV03,CA,kept,Will Sonja Shaw win the 2026 California Superintendent of Public Instruction election?
+Kalshi,KXGOVCA-26,CA,kept,Who will win the governorship in California?
+Kalshi,KXHOUSERACE-CA01-26,CA,kept,Will Republican win the House race for CA-01?
+Kalshi,KXHOUSERACE-CA02-26,CA,kept,Will Republican win the House race for CA-02?
+Kalshi,KXHOUSERACE-CA05-26,CA,kept,Will Republican win the House race for CA-05?
+Kalshi,KXHOUSERACE-CA08-26,CA,kept,Will Republican win the House race for CA-08?
+Kalshi,KXHOUSERACE-CA10-26,CA,kept,Will Republican win the House race for CA-10?
+Kalshi,KXHOUSERACE-CA15-26,CA,kept,Will Republican win the House race for CA-15?
+Kalshi,KXHOUSERACE-CA16-26,CA,kept,Will Republican win the House race for CA-16?
+Kalshi,KXHOUSERACE-CA17-26,CA,kept,Will Republican win the House race for CA-17?
+Kalshi,KXHOUSERACE-CA18-26,CA,kept,Will Republican win the House race for CA-18?
+Kalshi,KXHOUSERACE-CA19-26,CA,kept,Will Republican win the House race for CA-19?
+Kalshi,KXHOUSERACE-CA20-26,CA,kept,Will Republican win the House race for CA-20?
+Kalshi,KXHOUSERACE-CA23-26,CA,not settled yet,Will Republican win the House race for CA-23?
+Kalshi,KXHOUSERACE-CA24-26,CA,kept,Will Republican win the House race for CA-24?
+Kalshi,KXHOUSERACE-CA25-26,CA,kept,Will Republican win the House race for CA-25?
+Kalshi,KXHOUSERACE-CA26-26,CA,kept,Will Republican win the House race for CA-26?
+Kalshi,KXHOUSERACE-CA28-26,CA,kept,Will Republican win the House race for CA-28?
+Kalshi,KXHOUSERACE-CA30-26,CA,kept,Will Republican win the House race for CA-30?
+Kalshi,KXHOUSERACE-CA31-26,CA,kept,Will Republican win the House race for CA-31?
+Kalshi,KXHOUSERACE-CA32-26,CA,kept,Will Republican win the House race for CA-32?
+Kalshi,KXHOUSERACE-CA33-26,CA,kept,Will Republican win the House race for CA-33?
+Kalshi,KXHOUSERACE-CA35-26,CA,kept,Will Republican win the House race for CA-35?
+Kalshi,KXHOUSERACE-CA36-26,CA,kept,Will Republican win the House race for CA-36?
+Kalshi,KXHOUSERACE-CA38-26,CA,kept,Will Republican win the House race for CA-38?
+Kalshi,KXHOUSERACE-CA39-26,CA,kept,Will Republican win the House race for CA-39?
+Kalshi,KXHOUSERACE-CA42-26,CA,kept,Will Republican win the House race for CA-42?
+Kalshi,KXHOUSERACE-CA43-26,CA,kept,Will Republican win the House race for CA-43?
+Kalshi,KXHOUSERACE-CA44-26,CA,kept,Will Republican win the House race for CA-44?
+Kalshi,KXHOUSERACE-CA46-26,CA,kept,Will Republican win the House race for CA-46?
+Kalshi,KXHOUSERACE-CA48-26,CA,kept,Will Republican win the House race for CA-48?
+Kalshi,KXHOUSERACE-CA50-26,CA,kept,Will Republican win the House race for CA-50?
+Kalshi,KXHOUSERACE-CA51-26,CA,kept,Will Republican win the House race for CA-51?
+Kalshi,KXHOUSERACE-CA52-26,CA,kept,Will Republican win the House race for CA-52?
+Kalshi,KXOAKLANDMAYOR-26,CA,kept,Who will win the 2026 Oakland mayoral election?
+Kalshi,KXSECSTATECA-26NOV03,CA,kept,Will Shirley N. Weber win the 2026 California Secretary of State election?
+Kalshi,GOVPARTYCO-26,CO,kept,Will the Republican party win the governorship in Colorado
+Kalshi,HOUSECO3-26,CO,kept,Will Republican win the House race for CO-3?
+Kalshi,HOUSECO8-26,CO,kept,Will Republican win the House race for CO-8?
+Kalshi,KXATTYGENCO-26,CO,kept,Will the Republican party win the Attorney General race in Colorado?
+Kalshi,KXHOUSERACE-CO01-26,CO,kept,Will Republican win the House race for CO-01?
+Kalshi,KXHOUSERACE-CO02-26,CO,kept,Will Republican win the House race for CO-02?
+Kalshi,KXHOUSERACE-CO04-26,CO,not settled yet,Will Republican win the House race for CO-04?
+Kalshi,KXHOUSERACE-CO05-26,CO,kept,Will Republican win the House race for CO-05?
+Kalshi,KXHOUSERACE-CO06-26,CO,kept,Will Republican win the House race for CO-06?
+Kalshi,KXHOUSERACE-CO07-26,CO,kept,Will Republican win the House race for CO-07?
+Kalshi,SENATECO-26,CO,kept,Will Democratics win the Senate race in Colorado?
+Kalshi,GOVPARTYCT-26,CT,kept,Will the Republican party win the governorship in Connecticut
+Kalshi,HOUSECT5-26,CT,kept,Will a Republican win the House race for CT-5?
+Kalshi,KXATTYGENCT-26,CT,kept,Will the Republican party win the Attorney General race in Connecticut?
+Kalshi,KXHOUSERACE-CT01-26,CT,kept,Will Republican win the House race for CT-01?
+Kalshi,KXHOUSERACE-CT02-26,CT,kept,Will Republican win the House race for CT-02?
+Kalshi,KXHOUSERACE-CT03-26,CT,kept,Will Republican win the House race for CT-03?
+Kalshi,KXHOUSERACE-CT04-26,CT,kept,Will Republican win the House race for CT-04?
+Kalshi,KXATTYGENDE-26,DE,kept,Will the Republican party win the Attorney General race in Delaware?
+Kalshi,KXHOUSERACE-DEAL-26,DE,kept,Will Republican win the House race for DE-AL?
+Kalshi,SENATEDE-26,DE,kept,Will Republicans win the Senate race in Delaware?
+Kalshi,GOVPARTYFL-26,FL,kept,Will the Republican party win the governorship in Florida
+Kalshi,HOUSEFL13-26,FL,kept,Will Republican win the House race for FL-13?
+Kalshi,HOUSEFL23-26,FL,kept,Will Republican win the House race for FL-23?
+Kalshi,KXATTYGENFL-26,FL,kept,Will the Republican party win the Attorney General race in Florida?
+Kalshi,KXFLCFO-26NOV03,FL,kept,Will Blaise Ingoglia win the 2026 Florida Chief Financial Officer election?
+Kalshi,KXHOUSERACE-FL01-26,FL,kept,Will Republican win the House race for FL-01?
+Kalshi,KXHOUSERACE-FL02-26,FL,kept,Will Republican win the House race for FL-02?
+Kalshi,KXHOUSERACE-FL03-26,FL,kept,Will Republican win the House race for FL-03?
+Kalshi,KXHOUSERACE-FL04-26,FL,kept,Will Republican win the House race for FL-04?
+Kalshi,KXHOUSERACE-FL05-26,FL,kept,Will Republican win the House race for FL-05?
+Kalshi,KXHOUSERACE-FL06-26,FL,kept,Will Republican win the House race for FL-06?
+Kalshi,KXHOUSERACE-FL07-26,FL,kept,Will Republican win the House race for FL-07?
+Kalshi,KXHOUSERACE-FL08-26,FL,kept,Will Republican win the House race for FL-08?
+Kalshi,KXHOUSERACE-FL09-26,FL,kept,Will Republican win the House race for FL-09?
+Kalshi,KXHOUSERACE-FL10-26,FL,kept,Will Republican win the House race for FL-10?
+Kalshi,KXHOUSERACE-FL11-26,FL,kept,Will Republican win the House race for FL-11?
+Kalshi,KXHOUSERACE-FL12-26,FL,kept,Will Republican win the House race for FL-12?
+Kalshi,KXHOUSERACE-FL14-26,FL,kept,Will Republican win the House race for FL-14?
+Kalshi,KXHOUSERACE-FL15-26,FL,kept,Will Republican win the House race for FL-15?
+Kalshi,KXHOUSERACE-FL16-26,FL,kept,Will Republican win the House race for FL-16?
+Kalshi,KXHOUSERACE-FL17-26,FL,kept,Will Republican win the House race for FL-17?
+Kalshi,KXHOUSERACE-FL18-26,FL,kept,Will Republican win the House race for FL-18?
+Kalshi,KXHOUSERACE-FL19-26,FL,kept,Will Republican win the House race for FL-19?
+Kalshi,KXHOUSERACE-FL20-26,FL,kept,Will Republican win the House race for FL-20?
+Kalshi,KXHOUSERACE-FL21-26,FL,kept,Will Republican win the House race for FL-21?
+Kalshi,KXHOUSERACE-FL22-26,FL,kept,Will Republican win the House race for FL-22?
+Kalshi,KXHOUSERACE-FL24-26,FL,kept,Will Republican win the House race for FL-24?
+Kalshi,KXHOUSERACE-FL25-26,FL,kept,Will Republican win the House race for FL-25?
+Kalshi,KXHOUSERACE-FL26-26,FL,kept,Will Republican win the House race for FL-26?
+Kalshi,KXHOUSERACE-FL27-26,FL,not settled yet,Will Republican win the House race for FL-27?
+Kalshi,KXHOUSERACE-FL28-26,FL,kept,Will Republican win the House race for FL-28?
+Kalshi,KXSTPETERSBURGMAYOR-26,FL,kept,"Who will win the 2026 St. Petersburg, Florida mayoral election?"
+Kalshi,KXTALLAHASSEEMAYOR-26,FL,not settled yet,"Who will win the 2026 Tallahassee, Florida mayoral election?"
+Kalshi,SENATEFLS-26,FL,kept,Will Republicans win the Senate race in Florida?
+Kalshi,GOVPARTYGA-26,GA,kept,Will the Republican party win the governorship in Georgia
+Kalshi,KXATTYGENGA-26,GA,kept,Will the Republican party win the Attorney General race in Georgia?
+Kalshi,KXGAAGRICOMM-26NOV03,GA,kept,Will Tyler Harper win the 2026 Georgia Agriculture Commissioner election?
+Kalshi,KXHOUSERACE-GA01-26,GA,kept,Will Republican win the House race for GA-01?
+Kalshi,KXHOUSERACE-GA02-26,GA,kept,Will Republican win the House race for GA-02?
+Kalshi,KXHOUSERACE-GA03-26,GA,kept,Will Republican win the House race for GA-03?
+Kalshi,KXHOUSERACE-GA04-26,GA,kept,Will Republican win the House race for GA-04?
+Kalshi,KXHOUSERACE-GA05-26,GA,kept,Will Republican win the House race for GA-05?
+Kalshi,KXHOUSERACE-GA06-26,GA,kept,Will Republican win the House race for GA-06?
+Kalshi,KXHOUSERACE-GA07-26,GA,kept,Will Republican win the House race for GA-07?
+Kalshi,KXHOUSERACE-GA08-26,GA,kept,Will Republican win the House race for GA-08?
+Kalshi,KXHOUSERACE-GA09-26,GA,kept,Will Republican win the House race for GA-09?
+Kalshi,KXHOUSERACE-GA10-26,GA,kept,Will Republican win the House race for GA-10?
+Kalshi,KXHOUSERACE-GA11-26,GA,kept,Will Republican win the House race for GA-11?
+Kalshi,KXHOUSERACE-GA12-26,GA,kept,Will Republican win the House race for GA-12?
+Kalshi,KXHOUSERACE-GA13-26,GA,kept,Will Republican win the House race for GA-13?
+Kalshi,KXHOUSERACE-GA14-26,GA,kept,Will Republican win the House race for GA-14?
+Kalshi,KXLTGOVGA-26,GA,kept,Will the Republican party win the Lt. Gov race in Georgia?
+Kalshi,KXSECSTATEGA-26,GA,kept,Will the Republican party win the Secretary of State election in Georgia?
+Kalshi,SENATEGA-26,GA,kept,Will Democratics win the Senate race in Georgia?
+Kalshi,GOVPARTYHI-26,HI,kept,Will the Republican party win the governorship in Hawaii
+Kalshi,KXHOUSERACE-HI01-26,HI,kept,Will Republican win the House race for HI-01?
+Kalshi,KXHOUSERACE-HI02-26,HI,kept,Will Republican win the House race for HI-02?
+Kalshi,GOVPARTYIA-26,IA,kept,Will the Republican party win the governorship in Iowa
+Kalshi,HOUSEIA3-26,IA,kept,Will Republican win the House race for IA-3?
+Kalshi,KXATTYGENIA-26,IA,kept,Will the Republican party win the Attorney General race in Iowa?
+Kalshi,KXHOUSERACE-IA02-26,IA,kept,Will Republican win the House race for IA-02?
+Kalshi,KXHOUSERACE-IA04-26,IA,kept,Will Republican win the House race for IA-04?
+Kalshi,KXIAAGSEC-26NOV03,IA,kept,Will Mike Naig win the 2026 Iowa Secretary of Agriculture election?
+Kalshi,KXSECSTATEIA-26NOV03,IA,kept,Will Ryan Peterman win the 2026 Iowa Secretary of State election?
+Kalshi,SENATEIA-26,IA,kept,Will Republicans win the Senate race in Iowa?
+Kalshi,GOVPARTYID-26,ID,kept,Will the Republican party win the governorship in Idaho
+Kalshi,KXATTYGENID-26,ID,kept,Will the Republican party win the Attorney General race in Idaho?
+Kalshi,KXHOUSERACE-ID01-26,ID,kept,Will Republican win the House race for ID-01?
+Kalshi,KXHOUSERACE-ID02-26,ID,kept,Will Republican win the House race for ID-02?
+Kalshi,GOVPARTYIL-26,IL,kept,Will the Republican party win the governorship in Illinois
+Kalshi,HOUSEIL17-26,IL,kept,Will a Republican win the House race for IL-17?
+Kalshi,KXATTYGENIL-26,IL,kept,Will the Republican party win the Attorney General race in Illinois?
+Kalshi,KXHOUSERACE-IL01-26,IL,kept,Will Republican win the House race for IL-01?
+Kalshi,KXHOUSERACE-IL02-26,IL,kept,Will Republican win the House race for IL-02?
+Kalshi,KXHOUSERACE-IL03-26,IL,kept,Will Republican win the House race for IL-03?
+Kalshi,KXHOUSERACE-IL05-26,IL,kept,Will Republican win the House race for IL-05?
+Kalshi,KXHOUSERACE-IL06-26,IL,kept,Will Republican win the House race for IL-06?
+Kalshi,KXHOUSERACE-IL07-26,IL,kept,Will Republican win the House race for IL-07?
+Kalshi,KXHOUSERACE-IL08-26,IL,kept,Will Republican win the House race for IL-08?
+Kalshi,KXHOUSERACE-IL09-26,IL,kept,Will Republican win the House race for IL-09?
+Kalshi,KXHOUSERACE-IL10-26,IL,kept,Will Republican win the House race for IL-10?
+Kalshi,KXHOUSERACE-IL11-26,IL,kept,Will Republican win the House race for IL-11?
+Kalshi,KXHOUSERACE-IL12-26,IL,kept,Will Republican win the House race for IL-12?
+Kalshi,KXHOUSERACE-IL13-26,IL,kept,Will Republican win the House race for IL-13?
+Kalshi,KXHOUSERACE-IL14-26,IL,kept,Will Republican win the House race for IL-14?
+Kalshi,KXHOUSERACE-IL15-26,IL,kept,Will Republican win the House race for IL-15?
+Kalshi,KXHOUSERACE-IL16-26,IL,kept,Will Republican win the House race for IL-16?
+Kalshi,SENATEIL-26,IL,kept,Will Republicans win the Senate race in Illinois?
+Kalshi,HOUSEIN1-26,IN,kept,Will a Republican win the House race for IN-1?
+Kalshi,KXHOUSEIN7-26,IN,kept,Will Republicans win the House race for IN-07?
+Kalshi,KXHOUSERACE-IN02-26,IN,kept,Will Republican win the House race for IN-02?
+Kalshi,KXHOUSERACE-IN03-26,IN,kept,Will Republican win the House race for IN-03?
+Kalshi,KXHOUSERACE-IN04-26,IN,kept,Will Republican win the House race for IN-04?
+Kalshi,KXHOUSERACE-IN05-26,IN,kept,Will Republican win the House race for IN-05?
+Kalshi,KXHOUSERACE-IN06-26,IN,kept,Will Republican win the House race for IN-06?
+Kalshi,KXHOUSERACE-IN08-26,IN,kept,Will Republican win the House race for IN-08?
+Kalshi,KXHOUSERACE-IN09-26,IN,kept,Will Republican win the House race for IN-09?
+Kalshi,KXSECSTATEIN-26,IN,kept,Indiana Secretary of State winner?
+Kalshi,GOVPARTYKS-27,KS,not settled yet,Will the Republican party win the governorship in Kansas
+Kalshi,KXATTYGENKS-26,KS,kept,Will the Republican party win the Attorney General race in Kansas?
+Kalshi,KXHOUSERACE-KS01-26,KS,kept,Will Republican win the House race for KS-01?
+Kalshi,KXHOUSERACE-KS02-26,KS,kept,Will Republican win the House race for KS-02?
+Kalshi,KXHOUSERACE-KS03-26,KS,kept,Will Republican win the House race for KS-03?
+Kalshi,KXHOUSERACE-KS04-26,KS,kept,Will Republican win the House race for KS-04?
+Kalshi,SENATEKS-26,KS,kept,Will Republicans win the Senate race in Kansas?
+Kalshi,KXHOUSERACE-KY01-26,KY,kept,Will Republican win the House race for KY-01?
+Kalshi,KXHOUSERACE-KY02-26,KY,kept,Will Republican win the House race for KY-02?
+Kalshi,KXHOUSERACE-KY03-26,KY,kept,Will Republican win the House race for KY-03?
+Kalshi,KXHOUSERACE-KY04-26,KY,kept,Will Republican win the House race for KY-04?
+Kalshi,KXHOUSERACE-KY05-26,KY,kept,Will Republican win the House race for KY-05?
+Kalshi,KXHOUSERACE-KY06-26,KY,kept,Will Republican win the House race for KY-06?
+Kalshi,KXLEXMAYOR-26,KY,kept,"Who will win the 2026 Lexington, Kentucky mayoral election?"
+Kalshi,SENATELA-26,KY,kept,Will Republicans win the Senate race in Kentucky?
+Kalshi,KXHOUSERACE-LA01-26,LA,kept,Will Republican win the House race for LA-01?
+Kalshi,KXHOUSERACE-LA02-26,LA,kept,Will Republican win the House race for LA-02?
+Kalshi,KXHOUSERACE-LA03-26,LA,kept,Will Republican win the House race for LA-03?
+Kalshi,KXHOUSERACE-LA04-26,LA,kept,Will Republican win the House race for LA-04?
+Kalshi,KXHOUSERACE-LA05-26,LA,drop: 0 of the two listed candidates found,Will Republican win the House race for LA-05?
+Kalshi,KXHOUSERACE-LA06-26,LA,drop: 0 of the two listed candidates found,Will Republican win the House race for LA-06?
+Kalshi,KXSENATELA-26NOV,LA,kept,Will Republicans win the Senate race in Louisiana?
+Kalshi,GOVPARTYMA-26,MA,kept,Will the Republican party win the governorship in Massachusetts
+Kalshi,KXATTYGENMA-26,MA,kept,Will the Republican party win the Attorney General race in Massachusetts?
+Kalshi,KXHOUSERACE-MA01-26,MA,kept,Will Republican win the House race for MA-01?
+Kalshi,KXHOUSERACE-MA02-26,MA,kept,Will Republican win the House race for MA-02?
+Kalshi,KXHOUSERACE-MA03-26,MA,kept,Will Republican win the House race for MA-03?
+Kalshi,KXHOUSERACE-MA04-26,MA,kept,Will Republican win the House race for MA-04?
+Kalshi,KXHOUSERACE-MA05-26,MA,kept,Will Republican win the House race for MA-05?
+Kalshi,KXHOUSERACE-MA06-26,MA,kept,Will Republican win the House race for MA-06?
+Kalshi,KXHOUSERACE-MA07-26,MA,kept,Will Republican win the House race for MA-07?
+Kalshi,KXHOUSERACE-MA08-26,MA,kept,Will Republican win the House race for MA-08?
+Kalshi,KXHOUSERACE-MA09-26,MA,kept,Will Republican win the House race for MA-09?
+Kalshi,KXSECSTATEMA-26NOV03,MA,kept,Will William Francis Galvin win the 2026 Massachusetts Secretary of State election?
+Kalshi,SENATEMA-26,MA,kept,Will Republicans win the Senate race in Massachusetts?
+Kalshi,GOVPARTYMD-26,MD,kept,Will the Republican party win the governorship in Maryland
+Kalshi,KXATTYGENMD-26,MD,kept,Will the Republican party win the Attorney General race in Maryland?
+Kalshi,KXHOUSERACE-MD01-26,MD,kept,Will Republican win the House race for MD-01?
+Kalshi,KXHOUSERACE-MD02-26,MD,kept,Will Republican win the House race for MD-02?
+Kalshi,KXHOUSERACE-MD03-26,MD,kept,Will Republican win the House race for MD-03?
+Kalshi,KXHOUSERACE-MD04-26,MD,kept,Will Republican win the House race for MD-04?
+Kalshi,KXHOUSERACE-MD05-26,MD,kept,Will Republican win the House race for MD-05?
+Kalshi,KXHOUSERACE-MD06-26,MD,kept,Will Republican win the House race for MD-06?
+Kalshi,KXHOUSERACE-MD07-26,MD,kept,Will Republican win the House race for MD-07?
+Kalshi,KXHOUSERACE-MD08-26,MD,kept,Will Republican win the House race for MD-08?
+Kalshi,KXMDSD2-26,MD,kept,Who will win the 2026 Maryland State Senate District 2 general election?
+Kalshi,HOUSEME2-26,ME,not settled yet,Will Republican win the House race for ME-2?
+Kalshi,KXHOUSERACE-ME01-26,ME,kept,Will Republican win the House race for ME-01?
+Kalshi,SENATEME-26,ME,kept,Will Republicans win the Senate race in Maine?
+Kalshi,HOUSEMI10-26,MI,kept,Will Republican win the House race for MI-10?
+Kalshi,HOUSEMI3-26,MI,kept,Will a Republican win the House race for MI-3?
+Kalshi,HOUSEMI4-26,MI,kept,Will Republican win the House race for MI-4?
+Kalshi,HOUSEMI7-26,MI,kept,Will Republican win the House race for MI-7?
+Kalshi,HOUSEMI8-26,MI,kept,Will Republican win the House race for MI-8?
+Kalshi,KXATTYGENMI-26,MI,kept,Will the Republican party win the Attorney General race in Michigan?
+Kalshi,KXFLINTMAYOR-26,MI,kept,"Who will win the Flint, Michigan mayoral election?"
+Kalshi,KXHOUSERACE-MI01-26,MI,kept,Will Republican win the House race for MI-01?
+Kalshi,KXHOUSERACE-MI02-26,MI,kept,Will Republican win the House race for MI-02?
+Kalshi,KXHOUSERACE-MI05-26,MI,kept,Will Republican win the House race for MI-05?
+Kalshi,KXHOUSERACE-MI06-26,MI,kept,Will Republican win the House race for MI-06?
+Kalshi,KXHOUSERACE-MI09-26,MI,kept,Will Republican win the House race for MI-09?
+Kalshi,KXHOUSERACE-MI11-26,MI,kept,Will Republican win the House race for MI-11?
+Kalshi,KXHOUSERACE-MI12-26,MI,kept,Will Republican win the House race for MI-12?
+Kalshi,KXHOUSERACE-MI13-26,MI,kept,Will Republican win the House race for MI-13?
+Kalshi,KXSECSTATEMI-26,MI,kept,Michigan Secretary of State winner?
+Kalshi,SENATEMI-26,MI,kept,Will Republicans win the Senate race in Michigan?
+Kalshi,GOVPARTYMN-26,MN,kept,Will the Republican party win the governorship in Minnesota
+Kalshi,HOUSEMN2-26,MN,kept,Will a Republican win the House race for MN-2?
+Kalshi,KXATTYGENMN-26,MN,kept,Will the Republican party win the Attorney General race in Minnesota?
+Kalshi,KXHOUSERACE-MN01-26,MN,not settled yet,Will Republican win the House race for MN-01?
+Kalshi,KXHOUSERACE-MN03-26,MN,kept,Will Republican win the House race for MN-03?
+Kalshi,KXHOUSERACE-MN04-26,MN,kept,Will Republican win the House race for MN-04?
+Kalshi,KXHOUSERACE-MN06-26,MN,kept,Will Republican win the House race for MN-06?
+Kalshi,KXHOUSERACE-MN07-26,MN,kept,Will Republican win the House race for MN-07?
+Kalshi,KXHOUSERACE-MN08-26,MN,kept,Will Republican win the House race for MN-08?
+Kalshi,SENATEMN-26,MN,kept,Will Republicans win the Senate race in Minnesota?
+Kalshi,KXHOUSEMO5-26,MO,kept,Will Republican win the House race for MO-05?
+Kalshi,KXHOUSERACE-MO01-26,MO,kept,Will Republican win the House race for MO-01?
+Kalshi,KXHOUSERACE-MO02-26,MO,kept,Will Republican win the House race for MO-02?
+Kalshi,KXHOUSERACE-MO03-26,MO,kept,Will Republican win the House race for MO-03?
+Kalshi,KXHOUSERACE-MO04-26,MO,kept,Will Republican win the House race for MO-04?
+Kalshi,KXHOUSERACE-MO06-26,MO,kept,Will Republican win the House race for MO-06?
+Kalshi,KXHOUSERACE-MO07-26,MO,kept,Will Republican win the House race for MO-07?
+Kalshi,KXHOUSERACE-MO08-26,MO,kept,Will Republican win the House race for MO-08?
+Kalshi,KXMOSD30-26,MO,kept,Who will win the 2026 Missouri State Senate District 30 general election?
+Kalshi,KXMOSD8-26,MO,kept,Who will win the 2026 Missouri State Senate District 8 general election?
+Kalshi,KXHOUSERACE-MS01-26,MS,kept,Will Republican win the House race for MS-01?
+Kalshi,KXHOUSERACE-MS02-26,MS,kept,Will Republican win the House race for MS-02?
+Kalshi,KXHOUSERACE-MS03-26,MS,kept,Will Republican win the House race for MS-03?
+Kalshi,KXHOUSERACE-MS04-26,MS,kept,Will Republican win the House race for MS-04?
+Kalshi,SENATEMS-26,MS,not settled yet,Will Republicans win the Senate race in Mississippi?
+Kalshi,HOUSEMT1-26,MT,kept,Will Republican win the House race for MT-1?
+Kalshi,KXHOUSERACE-MT02-26,MT,kept,Will Republican win the House race for MT-02?
+Kalshi,KXMTCOURT-26,MT,kept,Who will win the Supreme Court race in Montana?
+Kalshi,HOUSENC1-26,NC,kept,Will Republican win the House race for NC-1?
+Kalshi,KXHOUSENC11-26,NC,kept,Will Republican win the House race for NC-11?
+Kalshi,KXHOUSERACE-NC02-26,NC,kept,Will Republican win the House race for NC-02?
+Kalshi,KXHOUSERACE-NC03-26,NC,not settled yet,Will Republican win the House race for NC-03?
+Kalshi,KXHOUSERACE-NC04-26,NC,kept,Will Republican win the House race for NC-04?
+Kalshi,KXHOUSERACE-NC05-26,NC,not settled yet,Will Republican win the House race for NC-05?
+Kalshi,KXHOUSERACE-NC06-26,NC,kept,Will Republican win the House race for NC-06?
+Kalshi,KXHOUSERACE-NC07-26,NC,not settled yet,Will Republican win the House race for NC-07?
+Kalshi,KXHOUSERACE-NC08-26,NC,kept,Will Republican win the House race for NC-08?
+Kalshi,KXHOUSERACE-NC09-26,NC,kept,Will Republican win the House race for NC-09?
+Kalshi,KXHOUSERACE-NC10-26,NC,not settled yet,Will Republican win the House race for NC-10?
+Kalshi,KXHOUSERACE-NC12-26,NC,kept,Will Republican win the House race for NC-12?
+Kalshi,KXHOUSERACE-NC13-26,NC,kept,Will Republican win the House race for NC-13?
+Kalshi,KXHOUSERACE-NC14-26,NC,kept,Will Republican win the House race for NC-14?
+Kalshi,KXNCCOURT-26,NC,kept,Who will win the Supreme Court race in North Carolina?
+Kalshi,SENATENC-26,NC,kept,Will Republicans win the Senate race in North Carolina?
+Kalshi,KXATTYGENND-26,ND,kept,Will the Republican party win the Attorney General race in North Dakota?
+Kalshi,KXHOUSERACE-NDAL-26,ND,kept,Will Republican win the House race for ND-AL?
+Kalshi,GOVPARTYNE-26,NE,kept,Will the Republican party win the governorship in Nebraska
+Kalshi,HOUSENE2-26,NE,kept,Will Republican win the House race for NE-2?
+Kalshi,KXATTYGENNE-26,NE,kept,Will the Republican party win the Attorney General race in Nebraska?
+Kalshi,KXHOUSERACE-NE03-26,NE,kept,Will Republican win the House race for NE-03?
+Kalshi,GOVPARTYNH-28,NH,kept,Will the Republican party win the governorship in New Hampshire
+Kalshi,HOUSENH1-26,NH,kept,Will a Republican win the House race for NH-1?
+Kalshi,KXHOUSERACE-NH02-26,NH,kept,Will Republican win the House race for NH-02?
+Kalshi,SENATENH-26,NH,kept,Will Republicans win the Senate race in New Hampshire?
+Kalshi,HOUSENJ5-26,NJ,kept,Will a Republican win the House race for NJ-5?
+Kalshi,HOUSENJ7-26,NJ,kept,Will Republican win the House race for NJ-7?
+Kalshi,HOUSENJ9-26,NJ,kept,Will Republican win the House race for NJ-9?
+Kalshi,KXHOUSERACE-NJ01-26,NJ,kept,Will Republican win the House race for NJ-01?
+Kalshi,KXHOUSERACE-NJ02-26,NJ,kept,Will Republican win the House race for NJ-02?
+Kalshi,KXHOUSERACE-NJ03-26,NJ,kept,Will Republican win the House race for NJ-03?
+Kalshi,KXHOUSERACE-NJ04-26,NJ,kept,Will Republican win the House race for NJ-04?
+Kalshi,KXHOUSERACE-NJ06-26,NJ,kept,Will Republican win the House race for NJ-06?
+Kalshi,KXHOUSERACE-NJ08-26,NJ,kept,Will Republican win the House race for NJ-08?
+Kalshi,KXHOUSERACE-NJ10-26,NJ,kept,Will Republican win the House race for NJ-10?
+Kalshi,KXHOUSERACE-NJ11-26,NJ,kept,Will Republican win the House race for NJ-11?
+Kalshi,KXHOUSERACE-NJ12-26,NJ,kept,Will Republican win the House race for NJ-12?
+Kalshi,SENATENJ-26,NJ,kept,Will Democratics win the Senate race in New Jersey?
+Kalshi,GOVPARTYNM-26,NM,kept,Will the Republican party win the governorship in New Mexico
+Kalshi,HOUSENM2-26,NM,kept,Will Republican win the House race for NM-2?
+Kalshi,KXATTYGENNM-26,NM,kept,Will the Republican party win the Attorney General race in New Mexico?
+Kalshi,KXHOUSERACE-NM01-26,NM,kept,Will Republican win the House race for NM-01?
+Kalshi,KXHOUSERACE-NM03-26,NM,kept,Will Republican win the House race for NM-03?
+Kalshi,SENATENM-26,NM,kept,Will Republicans win the Senate race in New Mexico?
+Kalshi,GOVPARTYNV-26,NV,kept,Will the Republican party win the governorship in Nevada
+Kalshi,HOUSENV1-26,NV,kept,Will a Republican win the House race for NV-1?
+Kalshi,HOUSENV3-26,NV,kept,Will Republican win the House race for NV-3?
+Kalshi,HOUSENV4-26,NV,kept,Will a Republican win the House race for NV-4?
+Kalshi,KXATTYGENNV-26,NV,kept,Will the Republican party win the Attorney General race in Nevada?
+Kalshi,KXHENDERSONMAYOR-26,NV,kept,"Who will win the 2026 Henderson, Nevada mayoral election?"
+Kalshi,KXHOUSERACE-NV02-26,NV,kept,Will Republican win the House race for NV-02?
+Kalshi,KXNVCONTROLLER-26NOV03,NV,kept,Will Michael MacDougall win the 2026 Nevada State Controller election?
+Kalshi,KXNVTREASR-26NOV03,NV,kept,Will Tya Mathis-Coleman win the 2026 Nevada State Treasurer election?
+Kalshi,KXRENOMAYOR-26,NV,not settled yet,"Who will win the 2026 Reno, Nevada mayoral election?"
+Kalshi,KXSECSTATENV-26,NV,kept,Will the Republican party win the Secretary of State election in Nevada?
+Kalshi,GOVPARTYNY-26,NY,kept,Will the Republican party win the governorship in New York
+Kalshi,HOUSENY17-26,NY,kept,Will Republican win the House race for NY-17?
+Kalshi,HOUSENY18-26,NY,kept,Will a Republican win the House race for NY-18?
+Kalshi,HOUSENY19-26,NY,kept,Will Republican win the House race for NY-19?
+Kalshi,HOUSENY22-26,NY,kept,Will a Republican win the House race for NY-22?
+Kalshi,HOUSENY3-26,NY,kept,Will a Republican win the House race for NY-3?
+Kalshi,HOUSENY4-26,NY,kept,Will Republican win the House race for NY-4?
+Kalshi,KXATTYGENNY-26,NY,kept,Will the Republican party win the Attorney General race in New York?
+Kalshi,KXHOUSERACE-NY01-26,NY,kept,Will Republican win the House race for NY-01?
+Kalshi,KXHOUSERACE-NY02-26,NY,kept,Will Republican win the House race for NY-02?
+Kalshi,KXHOUSERACE-NY05-26,NY,kept,Will Republican win the House race for NY-05?
+Kalshi,KXHOUSERACE-NY06-26,NY,kept,Will Republican win the House race for NY-06?
+Kalshi,KXHOUSERACE-NY07-26,NY,kept,Will Republican win the House race for NY-07?
+Kalshi,KXHOUSERACE-NY08-26,NY,kept,Will Republican win the House race for NY-08?
+Kalshi,KXHOUSERACE-NY09-26,NY,kept,Will Republican win the House race for NY-09?
+Kalshi,KXHOUSERACE-NY10-26,NY,kept,Will Republican win the House race for NY-10?
+Kalshi,KXHOUSERACE-NY11-26,NY,kept,Will Republican win the House race for NY-11?
+Kalshi,KXHOUSERACE-NY12-26,NY,kept,Will Republican win the House race for NY-12?
+Kalshi,KXHOUSERACE-NY13-26,NY,drop: 1 of the two listed candidates found,Will Republican win the House race for NY-13?
+Kalshi,KXHOUSERACE-NY14-26,NY,kept,Will Republican win the House race for NY-14?
+Kalshi,KXHOUSERACE-NY15-26,NY,kept,Will Republican win the House race for NY-15?
+Kalshi,KXHOUSERACE-NY16-26,NY,kept,Will Republican win the House race for NY-16?
+Kalshi,KXHOUSERACE-NY20-26,NY,kept,Will Republican win the House race for NY-20?
+Kalshi,KXHOUSERACE-NY21-26,NY,kept,Will Republican win the House race for NY-21?
+Kalshi,KXHOUSERACE-NY23-26,NY,kept,Will Republican win the House race for NY-23?
+Kalshi,KXHOUSERACE-NY24-26,NY,kept,Will Republican win the House race for NY-24?
+Kalshi,KXHOUSERACE-NY25-26,NY,kept,Will Republican win the House race for NY-25?
+Kalshi,KXHOUSERACE-NY26-26,NY,kept,Will Republican win the House race for NY-26?
+Kalshi,GOVPARTYOH-26,OH,kept,Will the Republican party win the governorship in Ohio
+Kalshi,HOUSEOH1-26,OH,kept,Will a Republican win the House race for OH-1?
+Kalshi,HOUSEOH13-26,OH,kept,Will Republican win the House race for OH-13?
+Kalshi,HOUSEOH9-26,OH,kept,Will Republican win the House race for OH-9?
+Kalshi,KXATTYGENOH-26,OH,not settled yet,Will the Republican party win the Attorney General race in Ohio?
+Kalshi,KXHOUSERACE-OH02-26,OH,kept,Will Republican win the House race for OH-02?
+Kalshi,KXHOUSERACE-OH03-26,OH,kept,Will Republican win the House race for OH-03?
+Kalshi,KXHOUSERACE-OH04-26,OH,kept,Will Republican win the House race for OH-04?
+Kalshi,KXHOUSERACE-OH05-26,OH,kept,Will Republican win the House race for OH-05?
+Kalshi,KXHOUSERACE-OH06-26,OH,kept,Will Republican win the House race for OH-06?
+Kalshi,KXHOUSERACE-OH07-26,OH,kept,Will Republican win the House race for OH-07?
+Kalshi,KXHOUSERACE-OH08-26,OH,kept,Will Republican win the House race for OH-08?
+Kalshi,KXHOUSERACE-OH10-26,OH,kept,Will Republican win the House race for OH-10?
+Kalshi,KXHOUSERACE-OH11-26,OH,kept,Will Republican win the House race for OH-11?
+Kalshi,KXHOUSERACE-OH12-26,OH,kept,Will Republican win the House race for OH-12?
+Kalshi,KXHOUSERACE-OH14-26,OH,kept,Will Republican win the House race for OH-14?
+Kalshi,KXHOUSERACE-OH15-26,OH,kept,Will Republican win the House race for OH-15?
+Kalshi,KXOHAUDITOR-26NOV03,OH,kept,Will Frank LaRose win the 2026 Ohio State Auditor election?
+Kalshi,KXOHBRUNNER-26,OH,kept,"Who will win the 2026 Ohio Supreme Court election for the full term commencing January 2, 2027?"
+Kalshi,KXOHHAWKINS-26,OH,kept,"Who will win the 2026 Ohio Supreme Court election for the full term commencing January 1, 2027?"
+Kalshi,KXOHTREASR-26NOV03,OH,kept,Will Seth Walsh win the 2026 Ohio Treasurer of State election?
+Kalshi,KXSECSTATEOH-26,OH,kept,Will the Republican party win the Secretary of State election in Ohio?
+Kalshi,SENATEOHS-26,OH,kept,Will Democratics win the Senate race in Ohio?
+Kalshi,GOVPARTYOK-26,OK,kept,Will the Republican party win the governorship in Oklahoma
+Kalshi,KXATTYGENOK-26,OK,kept,Will the Republican party win the Attorney General race in Oklahoma?
+Kalshi,KXHOUSERACE-OK01-26,OK,kept,Will Republican win the House race for OK-01?
+Kalshi,KXHOUSERACE-OK02-26,OK,kept,Will Republican win the House race for OK-02?
+Kalshi,KXHOUSERACE-OK03-26,OK,kept,Will Republican win the House race for OK-03?
+Kalshi,KXHOUSERACE-OK04-26,OK,kept,Will Republican win the House race for OK-04?
+Kalshi,KXHOUSERACE-OK05-26,OK,kept,Will Republican win the House race for OK-05?
+Kalshi,KXLTGOVOK-26,OK,kept,Will the Republican party win the Lt. Gov race in Oklahoma?
+Kalshi,SENATEOK-26,OK,kept,Will Democratics win the Senate race in Oklahoma?
+Kalshi,GOVPARTYOR-26,OR,kept,Will the Republican party win the governorship in Oregon
+Kalshi,SENATEOR-26,OR,kept,Will Republicans win the Senate race in Oregon?
+Kalshi,GOVPARTYPA-26,PA,kept,Will the Republican party win the governorship in Pennsylvania
+Kalshi,HOUSEPA1-26,PA,kept,Will Republican win the House race for PA-1?
+Kalshi,HOUSEPA10-26,PA,kept,Will Republican win the House race for PA-10?
+Kalshi,HOUSEPA17-26,PA,kept,Will Republican win the House race for PA-17?
+Kalshi,HOUSEPA7-26,PA,kept,Will Republican win the House race for PA-7?
+Kalshi,HOUSEPA8-26,PA,kept,Will Republican win the House race for PA-8?
+Kalshi,KXHOUSERACE-PA02-26,PA,kept,Will Republican win the House race for PA-02?
+Kalshi,KXHOUSERACE-PA03-26,PA,kept,Will Republican win the House race for PA-03?
+Kalshi,KXHOUSERACE-PA04-26,PA,kept,Will Republican win the House race for PA-04?
+Kalshi,KXHOUSERACE-PA05-26,PA,kept,Will Republican win the House race for PA-05?
+Kalshi,KXHOUSERACE-PA06-26,PA,kept,Will Republican win the House race for PA-06?
+Kalshi,KXHOUSERACE-PA09-26,PA,kept,Will Republican win the House race for PA-09?
+Kalshi,KXHOUSERACE-PA11-26,PA,kept,Will Republican win the House race for PA-11?
+Kalshi,KXHOUSERACE-PA12-26,PA,kept,Will Republican win the House race for PA-12?
+Kalshi,KXHOUSERACE-PA13-26,PA,kept,Will Republican win the House race for PA-13?
+Kalshi,KXHOUSERACE-PA14-26,PA,kept,Will Republican win the House race for PA-14?
+Kalshi,KXHOUSERACE-PA15-26,PA,kept,Will Republican win the House race for PA-15?
+Kalshi,KXHOUSERACE-PA16-26,PA,kept,Will Republican win the House race for PA-16?
+Kalshi,KXPAHD12-26,PA,kept,Who will win the Pennsylvania State House District 12 general election?
+Kalshi,KXATTYGENRI-26,RI,kept,Will the Republican party win the Attorney General race in Rhode Island?
+Kalshi,KXHOUSERACE-RI01-26,RI,kept,Will Republican win the House race for RI-01?
+Kalshi,KXHOUSERACE-RI02-26,RI,kept,Will Republican win the House race for RI-02?
+Kalshi,KXLTGOVRI-26,RI,kept,Will the Republican party win the Lt. Gov race in Rhode Island?
+Kalshi,SENATERI-26,RI,kept,Will Democratics win the Senate race in Rhode Island?
+Kalshi,GOVPARTYSC-26,SC,kept,Will the Republican party win the governorship in South Carolina
+Kalshi,KXATTYGENSC-26,SC,kept,Will the Republican party win the Attorney General race in South Carolina?
+Kalshi,KXHOUSERACE-SC01-26,SC,kept,Will Republican win the House race for SC-01?
+Kalshi,KXHOUSERACE-SC02-26,SC,not settled yet,Will Republican win the House race for SC-02?
+Kalshi,KXHOUSERACE-SC03-26,SC,kept,Will Republican win the House race for SC-03?
+Kalshi,KXHOUSERACE-SC04-26,SC,kept,Will Republican win the House race for SC-04?
+Kalshi,KXHOUSERACE-SC05-26,SC,kept,Will Republican win the House race for SC-05?
+Kalshi,KXHOUSERACE-SC06-26,SC,kept,Will Republican win the House race for SC-06?
+Kalshi,KXHOUSERACE-SC07-26,SC,kept,Will Republican win the House race for SC-07?
+Kalshi,SENATESC-26,SC,kept,Will Republicans win the Senate race in South Carolina?
+Kalshi,GOVPARTYSD-26,SD,kept,Will the Republican party win the governorship in South Dakota
+Kalshi,KXATTYGENSD-26,SD,kept,Will the Republican party win the Attorney General race in South Dakota?
+Kalshi,KXHOUSERACE-SDAL-26,SD,kept,Will Republican win the House race for SD-AL?
+Kalshi,KXHOUSERACE-TN01-26,TN,kept,Will Republican win the House race for TN-01?
+Kalshi,KXHOUSERACE-TN02-26,TN,kept,Will Republican win the House race for TN-02?
+Kalshi,KXHOUSERACE-TN03-26,TN,kept,Will Republican win the House race for TN-03?
+Kalshi,KXHOUSERACE-TN04-26,TN,not settled yet,Will Republican win the House race for TN-04?
+Kalshi,KXHOUSERACE-TN05-26,TN,kept,Will Republican win the House race for TN-05?
+Kalshi,KXHOUSERACE-TN06-26,TN,kept,Will Republican win the House race for TN-06?
+Kalshi,KXHOUSERACE-TN07-26,TN,kept,Will Republican win the House race for TN-07?
+Kalshi,KXHOUSERACE-TN08-26,TN,kept,Will Republican win the House race for TN-08?
+Kalshi,KXHOUSERACE-TN09-26,TN,kept,Will Republican win the House race for TN-09?
+Kalshi,SENATETN-26,TN,kept,Will Republicans win the Senate race in Tennessee?
+Kalshi,GOVPARTYTX-26,TX,kept,Will the Republican party win the governorship in Texas
+Kalshi,HOUSETX15-26,TX,kept,Will Republican win the House race for TX-15?
+Kalshi,HOUSETX28-26,TX,kept,Will Republican win the House race for TX-28?
+Kalshi,HOUSETX34-26,TX,kept,Will Republican win the House race for TX-34?
+Kalshi,KXATTYGENTX-26,TX,kept,Will the Republican party win the Attorney General race in Texas?
+Kalshi,KXHOUSERACE-TX01-26,TX,kept,Will Republican win the House race for TX-01?
+Kalshi,KXHOUSERACE-TX02-26,TX,kept,Will Republican win the House race for TX-02?
+Kalshi,KXHOUSERACE-TX03-26,TX,kept,Will Republican win the House race for TX-03?
+Kalshi,KXHOUSERACE-TX04-26,TX,kept,Will Republican win the House race for TX-04?
+Kalshi,KXHOUSERACE-TX05-26,TX,kept,Will Republican win the House race for TX-05?
+Kalshi,KXHOUSERACE-TX06-26,TX,kept,Will Republican win the House race for TX-06?
+Kalshi,KXHOUSERACE-TX07-26,TX,kept,Will Republican win the House race for TX-07?
+Kalshi,KXHOUSERACE-TX08-26,TX,kept,Will Republican win the House race for TX-08?
+Kalshi,KXHOUSERACE-TX10-26,TX,kept,Will Republican win the House race for TX-10?
+Kalshi,KXHOUSERACE-TX11-26,TX,kept,Will Republican win the House race for TX-11?
+Kalshi,KXHOUSERACE-TX12-26,TX,kept,Will Republican win the House race for TX-12?
+Kalshi,KXHOUSERACE-TX13-26,TX,kept,Will Republican win the House race for TX-13?
+Kalshi,KXHOUSERACE-TX14-26,TX,kept,Will Republican win the House race for TX-14?
+Kalshi,KXHOUSERACE-TX16-26,TX,kept,Will Republican win the House race for TX-16?
+Kalshi,KXHOUSERACE-TX17-26,TX,kept,Will Republican win the House race for TX-17?
+Kalshi,KXHOUSERACE-TX18-26,TX,kept,Will Republican win the House race for TX-18?
+Kalshi,KXHOUSERACE-TX19-26,TX,kept,Will Republican win the House race for TX-19?
+Kalshi,KXHOUSERACE-TX20-26,TX,kept,Will Republican win the House race for TX-20?
+Kalshi,KXHOUSERACE-TX21-26,TX,kept,Will Republican win the House race for TX-21?
+Kalshi,KXHOUSERACE-TX22-26,TX,kept,Will Republican win the House race for TX-22?
+Kalshi,KXHOUSERACE-TX23-26,TX,kept,Will Republican win the House race for TX-23?
+Kalshi,KXHOUSERACE-TX24-26,TX,kept,Will Republican win the House race for TX-24?
+Kalshi,KXHOUSERACE-TX25-26,TX,kept,Will Republican win the House race for TX-25?
+Kalshi,KXHOUSERACE-TX26-26,TX,kept,Will Republican win the House race for TX-26?
+Kalshi,KXHOUSERACE-TX27-26,TX,kept,Will Republican win the House race for TX-27?
+Kalshi,KXHOUSERACE-TX29-26,TX,kept,Will Republican win the House race for TX-29?
+Kalshi,KXHOUSERACE-TX30-26,TX,kept,Will Republican win the House race for TX-30?
+Kalshi,KXHOUSERACE-TX31-26,TX,kept,Will Republican win the House race for TX-31?
+Kalshi,KXHOUSERACE-TX33-26,TX,kept,Will Republican win the House race for TX-33?
+Kalshi,KXHOUSERACE-TX36-26,TX,kept,Will Republican win the House race for TX-36?
+Kalshi,KXHOUSERACE-TX37-26,TX,kept,Will Republican win the House race for TX-37?
+Kalshi,KXHOUSERACE-TX38-26,TX,kept,Will Republican win the House race for TX-38?
+Kalshi,KXHOUSETX32-26,TX,kept,Will Republican win the House race for TX-32?
+Kalshi,KXHOUSETX35-26,TX,kept,Will Republican win the House race for TX-35?
+Kalshi,KXHOUSETX9-26,TX,kept,Will Republican win the House race for TX-09?
+Kalshi,KXLTGOVTX-26,TX,kept,Will the Republican party win the Lieutenant Governor race in Texas?
+Kalshi,KXMONTGOMERYCOUNTYJUDGE-26,TX,not settled yet,"Who will win the 2026 Montgomery County, Texas, County Judge general election?"
+Kalshi,KXTXAGCOM-26,TX,kept,Who will win the 2026 Texas Commissioner of Agriculture election?
+Kalshi,KXTXCOMPTROLLER-26,TX,kept,Who will win the 2026 Texas Comptroller of Public Accounts election?
+Kalshi,KXTXGLO-26,TX,kept,Who will win the 2026 Texas Commissioner of General Land Office election?
+Kalshi,KXTXRAILROAD-26,TX,kept,Who will win the 2026 Texas Railroad Commissioner Election?
+Kalshi,KXTXSUPREME2-26NOV03,TX,kept,"Will James P. Sullivan win the 2026 Texas Supreme Court Justice, Place 2 (unexpired term) election?"
+Kalshi,KXTXSUPREME7-26NOV03,TX,kept,"Will Kyle Hawkins win the 2026 Texas Supreme Court Justice, Place 7 election?"
+Kalshi,KXTXSUPREME8-26NOV03,TX,kept,"Will Gisela D. Triana win the 2026 Texas Supreme Court Justice, Place 8 election?"
+Kalshi,KXTXSUPREMECHIEF-26NOV03,TX,kept,Will Maggie Ellis win the 2026 Texas Supreme Court Chief Justice election?
+Kalshi,SENATETX-26,TX,kept,Will Democratics win the Senate race in Texas?
+Kalshi,KXHOUSERACE-UT04-26,UT,kept,Will Republican win the House race for UT-04?
+Kalshi,KXHOUSEUT01-26,UT,kept,Will Republican win the House race for UT-01?
+Kalshi,KXHOUSEUT02-26,UT,kept,Will Republican win the House race for UT-02?
+Kalshi,KXHOUSEUT03-26,UT,kept,Will Republican win the House race for UT-03?
+Kalshi,HOUSEVA1-26,VA,kept,Will Republican win the House race for VA-1?
+Kalshi,HOUSEVA2-26,VA,kept,Will Republican win the House race for VA-2?
+Kalshi,HOUSEVA7-26,VA,kept,Will Republican win the House race for VA-7?
+Kalshi,KXHOUSERACE-VA03-26,VA,kept,Will Republican win the House race for VA-03?
+Kalshi,KXHOUSERACE-VA04-26,VA,kept,Will Republican win the House race for VA-04?
+Kalshi,KXHOUSERACE-VA05-26,VA,kept,Will Republican win the House race for VA-05?
+Kalshi,KXHOUSERACE-VA06-26,VA,kept,Will Republican win the House race for VA-06?
+Kalshi,KXHOUSERACE-VA08-26,VA,kept,Will Republican win the House race for VA-08?
+Kalshi,KXHOUSERACE-VA09-26,VA,kept,Will Republican win the House race for VA-09?
+Kalshi,KXHOUSERACE-VA11-26,VA,kept,Will Republican win the House race for VA-11?
+Kalshi,KXHOUSEVA10-26,VA,kept,Will a Republican win the House race for VA-10?
+Kalshi,SENATEVA-26,VA,kept,Will Democratics win the Senate race in Virginia?
+Kalshi,GOVPARTYVT-26,VT,kept,Will the Republican party win the governorship in Vermont
+Kalshi,KXATTYGENVT-26,VT,kept,Will the Republican party win the Attorney General race in Vermont?
+Kalshi,KXHOUSERACE-VTAL-26,VT,kept,Will Republican win the House race for VT-AL?
+Kalshi,KXLTGOVVT-26,VT,kept,Will the Republican party win the Lt. Gov race in Vermont?
+Kalshi,KXSECSTATEVT-26NOV03,VT,kept,Will Sarah Copeland Hanzas win the 2026 Vermont Secretary of State election?
+Kalshi,HOUSEWA3-26,WA,kept,Will Republican win the House race for WA-3?
+Kalshi,KXHOUSERACE-WA01-26,WA,kept,Will Republican win the House race for WA-01?
+Kalshi,KXHOUSERACE-WA02-26,WA,kept,Will Republican win the House race for WA-02?
+Kalshi,KXHOUSERACE-WA04-26,WA,kept,Will Republican win the House race for WA-04?
+Kalshi,KXHOUSERACE-WA05-26,WA,kept,Will Republican win the House race for WA-05?
+Kalshi,KXHOUSERACE-WA06-26,WA,kept,Will Republican win the House race for WA-06?
+Kalshi,KXHOUSERACE-WA07-26,WA,kept,Will Republican win the House race for WA-07?
+Kalshi,KXHOUSERACE-WA09-26,WA,kept,Will Republican win the House race for WA-09?
+Kalshi,KXHOUSERACE-WA10-26,WA,kept,Will Republican win the House race for WA-10?
+Kalshi,KXHOUSEWA8-26,WA,kept,Will a Republican win the House race for WA-08?
+Kalshi,KXWASUPREME3-26NOV03,WA,kept,Will Jaime Michelle Hawk win the 2026 Washington Supreme Court Justice Position 3 election?
+Kalshi,GOVPARTYWI-26,WI,kept,Will the Republican party win the governorship in Wisconsin
+Kalshi,HOUSEWI1-26,WI,kept,Will Republican win the House race for WI-1?
+Kalshi,HOUSEWI3-26,WI,kept,Will a Republican win the House race for WI-3?
+Kalshi,KXATTYGENWI-26,WI,kept,Will the Republican party win the Attorney General race in Wisconsin?
+Kalshi,KXHOUSERACE-WI02-26,WI,kept,Will Republican win the House race for WI-02?
+Kalshi,KXHOUSERACE-WI04-26,WI,kept,Will Republican win the House race for WI-04?
+Kalshi,KXHOUSERACE-WI05-26,WI,kept,Will Republican win the House race for WI-05?
+Kalshi,KXHOUSERACE-WI06-26,WI,kept,Will Republican win the House race for WI-06?
+Kalshi,KXHOUSERACE-WI07-26,WI,kept,Will Republican win the House race for WI-07?
+Kalshi,KXHOUSERACE-WI08-26,WI,kept,Will Republican win the House race for WI-08?
+Kalshi,KXSECSTATEWI-26,WI,kept,Will the Republican party win the Secretary of State election in Wisconsin?
+Kalshi,KXWITREASURER-26NOV03,WI,kept,Will Yee Leng Xiong win the 2026 Wisconsin State Treasurer election?
+Kalshi,KXHOUSERACE-WV01-26,WV,kept,Will Republican win the House race for WV-01?
+Kalshi,KXHOUSERACE-WV02-26,WV,kept,Will Republican win the House race for WV-02?
+Kalshi,SENATEWV-26,WV,kept,Will Republicans win the Senate race in West Virginia?
+Kalshi,GOVPARTYWY-26,WY,kept,Will the Republican party win the governorship in Wyoming
+Kalshi,KXHOUSERACE-WYAL-26,WY,kept,Will Republican win the House race for WY-AL?
+Kalshi,SENATEWY-26,WY,kept,Will Democratics win the Senate race in Wyoming?
+Polymarket,190871,AL,kept,AL-01 House Election Winner
+Polymarket,190872,AL,kept,AL-02 House Election Winner
+Polymarket,190873,AL,kept,AL-03 House Election Winner
+Polymarket,190874,AL,kept,AL-04 House Election Winner
+Polymarket,190875,AL,kept,AL-05 House Election Winner
+Polymarket,190876,AL,kept,AL-06 House Election Winner
+Polymarket,190877,AL,kept,AL-07 House Election Winner
+Polymarket,57154,AL,kept,Alabama Governor Election Winner
+Polymarket,57637,AL,kept,Alabama Senate Election Winner
+Polymarket,190878,AR,kept,AR-01 House Election Winner
+Polymarket,190879,AR,kept,AR-02 House Election Winner
+Polymarket,190880,AR,kept,AR-03 House Election Winner
+Polymarket,190881,AR,kept,AR-04 House Election Winner
+Polymarket,57155,AR,kept,Arkansas Governor Election Winner
+Polymarket,57639,AR,kept,Arkansas Senate Election Winner
+Polymarket,106050,AZ,kept,AZ-01 House Election Winner
+Polymarket,106055,AZ,kept,AZ-02 House Election Winner
+Polymarket,106056,AZ,kept,AZ-06 House Election Winner
+Polymarket,190882,AZ,kept,AZ-03 House Election Winner
+Polymarket,190884,AZ,kept,AZ-04 House Election Winner
+Polymarket,190888,AZ,kept,AZ-05 House Election Winner
+Polymarket,190889,AZ,kept,AZ-07 House Election Winner
+Polymarket,190890,AZ,kept,AZ-08 House Election Winner
+Polymarket,190891,AZ,kept,AZ-09 House Election Winner
+Polymarket,57141,AZ,kept,Arizona Governor Election Winner
+Polymarket,735571,AZ,not settled yet,Arizona Secretary of State Election Winner
+Polymarket,965432,AZ,kept,Arizona Attorney General Election Winner
+Polymarket,106057,CA,kept,CA-13 House Election Winner
+Polymarket,131745,CA,kept,CA-17 House Election Winner
+Polymarket,190892,CA,kept,CA-01 House Election Winner
+Polymarket,190893,CA,kept,CA-02 House Election Winner
+Polymarket,190894,CA,kept,CA-03 House Election Winner
+Polymarket,190896,CA,kept,CA-05 House Election Winner
+Polymarket,190897,CA,kept,CA-06 House Election Winner
+Polymarket,190899,CA,kept,CA-08 House Election Winner
+Polymarket,190900,CA,kept,CA-09 House Election Winner
+Polymarket,190901,CA,kept,CA-10 House Election Winner
+Polymarket,190905,CA,kept,CA-15 House Election Winner
+Polymarket,190906,CA,kept,CA-16 House Election Winner
+Polymarket,190907,CA,kept,CA-18 House Election Winner
+Polymarket,190908,CA,kept,CA-19 House Election Winner
+Polymarket,190909,CA,kept,CA-20 House Election Winner
+Polymarket,190910,CA,kept,CA-21 House Election Winner
+Polymarket,190911,CA,not settled yet,CA-23 House Election Winner
+Polymarket,190912,CA,kept,CA-24 House Election Winner
+Polymarket,190913,CA,kept,CA-25 House Election Winner
+Polymarket,190914,CA,kept,CA-26 House Election Winner
+Polymarket,190915,CA,kept,CA-28 House Election Winner
+Polymarket,190917,CA,kept,CA-30 House Election Winner
+Polymarket,190918,CA,kept,CA-31 House Election Winner
+Polymarket,190919,CA,kept,CA-32 House Election Winner
+Polymarket,190920,CA,kept,CA-33 House Election Winner
+Polymarket,190922,CA,kept,CA-35 House Election Winner
+Polymarket,190923,CA,kept,CA-36 House Election Winner
+Polymarket,190925,CA,kept,CA-38 House Election Winner
+Polymarket,190926,CA,kept,CA-39 House Election Winner
+Polymarket,191376,CA,kept,CA-41 House Election Winner
+Polymarket,191377,CA,kept,CA-42 House Election Winner
+Polymarket,191378,CA,kept,CA-43 House Election Winner
+Polymarket,191379,CA,kept,CA-44 House Election Winner
+Polymarket,191380,CA,kept,CA-45 House Election Winner
+Polymarket,191381,CA,kept,CA-46 House Election Winner
+Polymarket,191382,CA,kept,CA-47 House Election Winner
+Polymarket,191383,CA,kept,CA-48 House Election Winner
+Polymarket,191384,CA,kept,CA-49 House Election Winner
+Polymarket,191385,CA,kept,CA-50 House Election Winner
+Polymarket,191386,CA,kept,CA-51 House Election Winner
+Polymarket,191387,CA,kept,CA-52 House Election Winner
+Polymarket,674583,CA,not settled yet,CA-04 House Election Winner (by individual)
+Polymarket,674585,CA,not settled yet,CA-07 House Election Winner (by individual)
+Polymarket,686285,CA,kept,CA-11 House Election Winner (Individual)
+Polymarket,686300,CA,kept,CA-12 House Election Winner (Individual)
+Polymarket,686301,CA,kept,CA-14 House Election Winner (Individual)
+Polymarket,686303,CA,kept,CA-29 House Election Winner (Individual)
+Polymarket,686319,CA,kept,CA-34 House Election Winner (Individual)
+Polymarket,686320,CA,kept,CA-37 House Election Winner (Individual)
+Polymarket,686321,CA,kept,CA-40 House Election Winner (Individual)
+Polymarket,758831,CA,kept,Oakland Mayoral Election
+Polymarket,90270,CA,kept,CA-22 House Election Winner
+Polymarket,90272,CA,kept,CA-27 House Election Winner
+Polymarket,106058,CO,kept,CO-03 House Election Winner
+Polymarket,106059,CO,kept,CO-08 House Election Winner
+Polymarket,191388,CO,kept,CO-01 House Election Winner
+Polymarket,191389,CO,kept,CO-02 House Election Winner
+Polymarket,191390,CO,not settled yet,CO-04 House Election Winner
+Polymarket,191391,CO,kept,CO-05 House Election Winner
+Polymarket,191392,CO,kept,CO-06 House Election Winner
+Polymarket,191393,CO,kept,CO-07 House Election Winner
+Polymarket,57156,CO,kept,Colorado Governor Election Winner
+Polymarket,57640,CO,kept,Colorado Senate Election Winner
+Polymarket,106067,CT,kept,CT-05 House Election Winner
+Polymarket,191394,CT,kept,CT-01 House Election Winner
+Polymarket,191395,CT,kept,CT-02 House Election Winner
+Polymarket,191396,CT,kept,CT-03 House Election Winner
+Polymarket,191397,CT,kept,CT-04 House Election Winner
+Polymarket,57159,CT,kept,Connecticut Governor Election Winner
+Polymarket,191398,DE,kept,DE-AL House Election Winner
+Polymarket,57641,DE,kept,Delaware Senate Election Winner
+Polymarket,106073,FL,kept,FL-13 House Election Winner
+Polymarket,106074,FL,kept,FL-23 House Election Winner
+Polymarket,191399,FL,kept,FL-01 House Election Winner
+Polymarket,191400,FL,kept,FL-02 House Election Winner
+Polymarket,191401,FL,kept,FL-03 House Election Winner
+Polymarket,191402,FL,kept,FL-04 House Election Winner
+Polymarket,191403,FL,kept,FL-05 House Election Winner
+Polymarket,191404,FL,kept,FL-06 House Election Winner
+Polymarket,191405,FL,not settled yet,FL-07 House Election Winner
+Polymarket,191406,FL,kept,FL-08 House Election Winner
+Polymarket,191407,FL,not settled yet,FL-09 House Election Winner
+Polymarket,191408,FL,kept,FL-10 House Election Winner
+Polymarket,191409,FL,kept,FL-11 House Election Winner
+Polymarket,191410,FL,kept,FL-12 House Election Winner
+Polymarket,191411,FL,kept,FL-14 House Election Winner
+Polymarket,191412,FL,kept,FL-15 House Election Winner
+Polymarket,191413,FL,kept,FL-16 House Election Winner
+Polymarket,191414,FL,kept,FL-17 House Election Winner
+Polymarket,191415,FL,kept,FL-18 House Election Winner
+Polymarket,191416,FL,kept,FL-19 House Election Winner
+Polymarket,191417,FL,kept,FL-20 House Election Winner
+Polymarket,191418,FL,kept,FL-21 House Election Winner
+Polymarket,191419,FL,kept,FL-22 House Election Winner
+Polymarket,191420,FL,kept,FL-24 House Election Winner
+Polymarket,191421,FL,kept,FL-25 House Election Winner
+Polymarket,191422,FL,kept,FL-26 House Election Winner
+Polymarket,191423,FL,not settled yet,FL-27 House Election Winner
+Polymarket,191424,FL,kept,FL-28 House Election Winner
+Polymarket,57160,FL,kept,Florida Governor Election Winner
+Polymarket,57681,FL,kept,Florida Senate Election Winner
+Polymarket,965434,FL,kept,Florida Attorney General Election Winner
+Polymarket,191425,GA,kept,GA-01 House Election Winner
+Polymarket,191426,GA,kept,GA-02 House Election Winner
+Polymarket,191427,GA,kept,GA-03 House Election Winner
+Polymarket,191428,GA,kept,GA-04 House Election Winner
+Polymarket,191429,GA,kept,GA-05 House Election Winner
+Polymarket,191430,GA,kept,GA-06 House Election Winner
+Polymarket,191431,GA,kept,GA-07 House Election Winner
+Polymarket,191432,GA,kept,GA-08 House Election Winner
+Polymarket,191433,GA,kept,GA-09 House Election Winner
+Polymarket,191434,GA,kept,GA-10 House Election Winner
+Polymarket,191435,GA,kept,GA-11 House Election Winner
+Polymarket,191436,GA,kept,GA-12 House Election Winner
+Polymarket,191437,GA,kept,GA-13 House Election Winner
+Polymarket,191438,GA,kept,GA-14 House Election Winner
+Polymarket,57161,GA,kept,Georgia Governor Election Winner
+Polymarket,57642,GA,kept,Georgia Senate Election Winner
+Polymarket,965463,GA,kept,Georgia Attorney General Election Winner
+Polymarket,965509,GA,kept,Georgia Secretary of State Election Winner
+Polymarket,965553,GA,kept,Georgia Lieutenant Governor Election Winner
+Polymarket,191439,HI,kept,HI-01 House Election Winner
+Polymarket,191440,HI,kept,HI-02 House Election Winner
+Polymarket,57162,HI,kept,Hawaii Governor Election Winner
+Polymarket,106077,IA,kept,IA-01 House Election Winner
+Polymarket,106082,IA,kept,IA-03 House Election Winner
+Polymarket,191441,IA,kept,IA-02 House Election Winner
+Polymarket,191442,IA,kept,IA-04 House Election Winner
+Polymarket,57169,IA,kept,Iowa Governor Election Winner
+Polymarket,57647,IA,kept,Iowa Senate Election Winner
+Polymarket,965481,IA,kept,Iowa Attorney General Election Winner
+Polymarket,191443,ID,kept,ID-01 House Election Winner
+Polymarket,191444,ID,kept,ID-02 House Election Winner
+Polymarket,57163,ID,kept,Idaho Governor Election Winner
+Polymarket,106075,IL,kept,IL-17 House Election Winner
+Polymarket,191445,IL,kept,IL-01 House Election Winner
+Polymarket,191446,IL,kept,IL-02 House Election Winner
+Polymarket,191447,IL,kept,IL-03 House Election Winner
+Polymarket,191448,IL,kept,IL-04 House Election Winner
+Polymarket,191449,IL,kept,IL-05 House Election Winner
+Polymarket,191450,IL,kept,IL-06 House Election Winner
+Polymarket,191451,IL,kept,IL-07 House Election Winner
+Polymarket,191452,IL,kept,IL-08 House Election Winner
+Polymarket,191453,IL,kept,IL-09 House Election Winner
+Polymarket,191454,IL,kept,IL-10 House Election Winner
+Polymarket,191455,IL,kept,IL-11 House Election Winner
+Polymarket,191456,IL,kept,IL-12 House Election Winner
+Polymarket,191457,IL,kept,IL-13 House Election Winner
+Polymarket,191458,IL,kept,IL-14 House Election Winner
+Polymarket,191459,IL,kept,IL-15 House Election Winner
+Polymarket,191460,IL,kept,IL-16 House Election Winner
+Polymarket,57164,IL,kept,Illinois Governor Election Winner
+Polymarket,57646,IL,kept,Illinois Senate Election Winner
+Polymarket,106076,IN,kept,IN-01 House Election Winner
+Polymarket,191461,IN,kept,IN-02 House Election Winner
+Polymarket,191462,IN,kept,IN-03 House Election Winner
+Polymarket,191463,IN,kept,IN-04 House Election Winner
+Polymarket,191464,IN,kept,IN-05 House Election Winner
+Polymarket,191465,IN,kept,IN-06 House Election Winner
+Polymarket,191466,IN,kept,IN-07 House Election Winner
+Polymarket,191467,IN,kept,IN-08 House Election Winner
+Polymarket,191468,IN,kept,IN-09 House Election Winner
+Polymarket,965527,IN,kept,Indiana Secretary of State Election Winner
+Polymarket,191469,KS,kept,KS-01 House Election Winner
+Polymarket,191470,KS,kept,KS-02 House Election Winner
+Polymarket,191471,KS,kept,KS-03 House Election Winner
+Polymarket,191472,KS,kept,KS-04 House Election Winner
+Polymarket,57172,KS,not settled yet,Kansas Governor Election Winner
+Polymarket,57648,KS,kept,Kansas Senate Election Winner
+Polymarket,965482,KS,kept,Kansas Attorney General Election Winner
+Polymarket,191473,KY,kept,KY-01 House Election Winner
+Polymarket,191474,KY,kept,KY-02 House Election Winner
+Polymarket,191475,KY,kept,KY-03 House Election Winner
+Polymarket,191476,KY,kept,KY-04 House Election Winner
+Polymarket,191477,KY,kept,KY-05 House Election Winner
+Polymarket,191478,KY,kept,KY-06 House Election Winner
+Polymarket,57649,KY,kept,Kentucky Senate Election Winner
+Polymarket,191479,LA,kept,LA-01 House Election Winner
+Polymarket,191480,LA,kept,LA-02 House Election Winner
+Polymarket,191481,LA,kept,LA-03 House Election Winner
+Polymarket,191482,LA,kept,LA-04 House Election Winner
+Polymarket,191483,LA,not settled yet,LA-05 House Election Winner
+Polymarket,191484,LA,not settled yet,LA-06 House Election Winner
+Polymarket,59203,LA,kept,Louisiana Senate Election Winner
+Polymarket,191485,MA,kept,MA-01 House Election Winner
+Polymarket,191486,MA,kept,MA-02 House Election Winner
+Polymarket,191487,MA,kept,MA-03 House Election Winner
+Polymarket,191488,MA,kept,MA-04 House Election Winner
+Polymarket,191489,MA,kept,MA-05 House Election Winner
+Polymarket,191490,MA,kept,MA-06 House Election Winner
+Polymarket,191491,MA,kept,MA-07 House Election Winner
+Polymarket,191492,MA,kept,MA-08 House Election Winner
+Polymarket,191493,MA,kept,MA-09 House Election Winner
+Polymarket,57175,MA,kept,Massachusetts Governor Election Winner
+Polymarket,57655,MA,kept,Massachusetts Senate Election Winner
+Polymarket,191494,MD,kept,MD-01 House Election Winner
+Polymarket,191495,MD,kept,MD-02 House Election Winner
+Polymarket,191496,MD,kept,MD-03 House Election Winner
+Polymarket,191497,MD,kept,MD-04 House Election Winner
+Polymarket,191498,MD,kept,MD-05 House Election Winner
+Polymarket,191499,MD,kept,MD-06 House Election Winner
+Polymarket,191500,MD,kept,MD-07 House Election Winner
+Polymarket,191501,MD,kept,MD-08 House Election Winner
+Polymarket,57174,MD,kept,Maryland Governor Election Winner
+Polymarket,191502,ME,kept,ME-01 House Election Winner
+Polymarket,57173,ME,kept,Maine Governor Election Winner
+Polymarket,57650,ME,kept,Maine Senate Election Winner
+Polymarket,726881,ME,not settled yet,ME-02 House Election Winner
+Polymarket,106096,MI,kept,MI-03 House Election Winner
+Polymarket,106097,MI,kept,MI-04 House Election Winner
+Polymarket,106102,MI,kept,MI-07 House Election Winner
+Polymarket,106104,MI,kept,MI-08 House Election Winner
+Polymarket,106106,MI,kept,MI-10 House Election Winner
+Polymarket,191503,MI,kept,MI-01 House Election Winner
+Polymarket,191504,MI,kept,MI-02 House Election Winner
+Polymarket,191505,MI,kept,MI-05 House Election Winner
+Polymarket,191506,MI,kept,MI-06 House Election Winner
+Polymarket,191507,MI,kept,MI-09 House Election Winner
+Polymarket,191508,MI,kept,MI-11 House Election Winner
+Polymarket,191509,MI,kept,MI-12 House Election Winner
+Polymarket,191510,MI,kept,MI-13 House Election Winner
+Polymarket,57658,MI,kept,Michigan Senate Election Winner
+Polymarket,965483,MI,kept,Michigan Attorney General Election Winner
+Polymarket,965528,MI,kept,Michigan Secretary of State Election Winner
+Polymarket,106107,MN,kept,MN-02 House Election Winner
+Polymarket,191511,MN,not settled yet,MN-01 House Election Winner
+Polymarket,191512,MN,kept,MN-03 House Election Winner
+Polymarket,191513,MN,kept,MN-04 House Election Winner
+Polymarket,191514,MN,kept,MN-05 House Election Winner
+Polymarket,191515,MN,kept,MN-06 House Election Winner
+Polymarket,191516,MN,kept,MN-07 House Election Winner
+Polymarket,191517,MN,kept,MN-08 House Election Winner
+Polymarket,57177,MN,kept,Minnesota Governor Election Winner
+Polymarket,57659,MN,kept,Minnesota Senate Election Winner
+Polymarket,965484,MN,kept,Minnesota Attorney General Election Winner
+Polymarket,106112,MO,kept,MO-05 House Election Winner
+Polymarket,191518,MO,kept,MO-01 House Election Winner
+Polymarket,191519,MO,kept,MO-02 House Election Winner
+Polymarket,191520,MO,kept,MO-03 House Election Winner
+Polymarket,191521,MO,kept,MO-04 House Election Winner
+Polymarket,191522,MO,kept,MO-06 House Election Winner
+Polymarket,191523,MO,kept,MO-07 House Election Winner
+Polymarket,191524,MO,kept,MO-08 House Election Winner
+Polymarket,191525,MS,kept,MS-01 House Election Winner
+Polymarket,191526,MS,kept,MS-02 House Election Winner
+Polymarket,191527,MS,kept,MS-03 House Election Winner
+Polymarket,191528,MS,kept,MS-04 House Election Winner
+Polymarket,57678,MS,not settled yet,Mississippi Senate Election Winner
+Polymarket,106114,MT,kept,MT-01 House Election Winner
+Polymarket,191529,MT,kept,MT-02 House Election Winner
+Polymarket,106174,NC,kept,NC-01 House Election Winner
+Polymarket,106177,NC,kept,NC-11 House Election Winner
+Polymarket,191530,NC,kept,NC-02 House Election Winner
+Polymarket,191531,NC,not settled yet,NC-03 House Election Winner
+Polymarket,191532,NC,kept,NC-04 House Election Winner
+Polymarket,191533,NC,not settled yet,NC-05 House Election Winner
+Polymarket,191534,NC,kept,NC-06 House Election Winner
+Polymarket,191535,NC,not settled yet,NC-07 House Election Winner
+Polymarket,191536,NC,kept,NC-08 House Election Winner
+Polymarket,191537,NC,kept,NC-09 House Election Winner
+Polymarket,191538,NC,not settled yet,NC-10 House Election Winner
+Polymarket,191539,NC,kept,NC-12 House Election Winner
+Polymarket,191540,NC,kept,NC-13 House Election Winner
+Polymarket,191541,NC,kept,NC-14 House Election Winner
+Polymarket,57664,NC,kept,North Carolina Senate Election Winner
+Polymarket,961305,NC,not settled yet,North Carolina Supreme Court Election Winner
+Polymarket,191542,ND,kept,ND-AL House Election Winner
+Polymarket,106115,NE,kept,NE-02 House Election Winner
+Polymarket,191543,NE,kept,NE-01 House Election Winner
+Polymarket,191544,NE,kept,NE-03 House Election Winner
+Polymarket,57178,NE,kept,Nebraska Governor Election Winner
+Polymarket,106119,NH,kept,NH-01 House Election Winner
+Polymarket,106130,NH,kept,NH-02 House Election Winner
+Polymarket,57182,NH,kept,New Hampshire Governor Election Winner
+Polymarket,57661,NH,kept,New Hampshire Senate Election Winner
+Polymarket,106134,NJ,kept,NJ-05 House Election Winner
+Polymarket,106135,NJ,kept,NJ-07 House Election Winner
+Polymarket,106136,NJ,kept,NJ-09 House Election Winner
+Polymarket,191545,NJ,kept,NJ-01 House Election Winner
+Polymarket,191546,NJ,kept,NJ-02 House Election Winner
+Polymarket,191547,NJ,kept,NJ-03 House Election Winner
+Polymarket,191548,NJ,kept,NJ-04 House Election Winner
+Polymarket,191549,NJ,kept,NJ-06 House Election Winner
+Polymarket,191550,NJ,kept,NJ-08 House Election Winner
+Polymarket,191551,NJ,kept,NJ-10 House Election Winner
+Polymarket,191552,NJ,kept,NJ-11 House Election Winner
+Polymarket,191553,NJ,kept,NJ-12 House Election Winner
+Polymarket,57662,NJ,kept,New Jersey Senate Election Winner
+Polymarket,106137,NM,kept,NM-02 House Election Winner
+Polymarket,191554,NM,kept,NM-01 House Election Winner
+Polymarket,191555,NM,kept,NM-03 House Election Winner
+Polymarket,57183,NM,kept,New Mexico Governor Election Winner
+Polymarket,57663,NM,kept,New Mexico Senate Election Winner
+Polymarket,106116,NV,kept,NV-01 House Election Winner
+Polymarket,106117,NV,kept,NV-03 House Election Winner
+Polymarket,106118,NV,kept,NV-04 House Election Winner
+Polymarket,191556,NV,kept,NV-02 House Election Winner
+Polymarket,57181,NV,kept,Nevada Governor Election Winner
+Polymarket,965493,NV,kept,Nevada Attorney General Election Winner
+Polymarket,965537,NV,kept,Nevada Secretary of State Election Winner
+Polymarket,106138,NY,kept,NY-03 House Election Winner
+Polymarket,106169,NY,kept,NY-04 House Election Winner
+Polymarket,106170,NY,kept,NY-17 House Election Winner
+Polymarket,106171,NY,kept,NY-18 House Election Winner
+Polymarket,106172,NY,kept,NY-19 House Election Winner
+Polymarket,106173,NY,kept,NY-22 House Election Winner
+Polymarket,191557,NY,kept,NY-01 House Election Winner
+Polymarket,191558,NY,kept,NY-02 House Election Winner
+Polymarket,191559,NY,kept,NY-05 House Election Winner
+Polymarket,191560,NY,kept,NY-06 House Election Winner
+Polymarket,191561,NY,kept,NY-07 House Election Winner
+Polymarket,191562,NY,kept,NY-08 House Election Winner
+Polymarket,191563,NY,kept,NY-09 House Election Winner
+Polymarket,191564,NY,kept,NY-10 House Election Winner
+Polymarket,191565,NY,kept,NY-11 House Election Winner
+Polymarket,191566,NY,kept,NY-12 House Election Winner
+Polymarket,191567,NY,kept,NY-13 House Election Winner
+Polymarket,191568,NY,kept,NY-14 House Election Winner
+Polymarket,191569,NY,kept,NY-15 House Election Winner
+Polymarket,191570,NY,kept,NY-16 House Election Winner
+Polymarket,191571,NY,kept,NY-20 House Election Winner
+Polymarket,191572,NY,kept,NY-21 House Election Winner
+Polymarket,191573,NY,kept,NY-23 House Election Winner
+Polymarket,191574,NY,kept,NY-24 House Election Winner
+Polymarket,191575,NY,kept,NY-25 House Election Winner
+Polymarket,191576,NY,kept,NY-26 House Election Winner
+Polymarket,57184,NY,kept,New York Governor Election Winner
+Polymarket,965494,NY,kept,New York Attorney General Election Winner
+Polymarket,106178,OH,kept,OH-01 House Election Winner
+Polymarket,106183,OH,kept,OH-09 House Election Winner
+Polymarket,106184,OH,kept,OH-13 House Election Winner
+Polymarket,191577,OH,kept,OH-02 House Election Winner
+Polymarket,191578,OH,kept,OH-03 House Election Winner
+Polymarket,191579,OH,kept,OH-04 House Election Winner
+Polymarket,191580,OH,kept,OH-05 House Election Winner
+Polymarket,191581,OH,kept,OH-06 House Election Winner
+Polymarket,191582,OH,kept,OH-07 House Election Winner
+Polymarket,191583,OH,kept,OH-08 House Election Winner
+Polymarket,191584,OH,kept,OH-10 House Election Winner
+Polymarket,191585,OH,kept,OH-11 House Election Winner
+Polymarket,191586,OH,kept,OH-12 House Election Winner
+Polymarket,191587,OH,kept,OH-14 House Election Winner
+Polymarket,191588,OH,kept,OH-15 House Election Winner
+Polymarket,57185,OH,kept,Ohio Governor Election Winner
+Polymarket,57682,OH,kept,Ohio Senate Election Winner
+Polymarket,965506,OH,not settled yet,Ohio Attorney General Election Winner
+Polymarket,965538,OH,kept,Ohio Secretary of State Election Winner
+Polymarket,191589,OK,kept,OK-01 House Election Winner
+Polymarket,191594,OK,kept,OK-02 House Election Winner
+Polymarket,191595,OK,kept,OK-03 House Election Winner
+Polymarket,191596,OK,kept,OK-04 House Election Winner
+Polymarket,191597,OK,kept,OK-05 House Election Winner
+Polymarket,57186,OK,kept,Oklahoma Governor Election Winner
+Polymarket,57679,OK,kept,Oklahoma Senate Election Winner
+Polymarket,106185,OR,kept,OR-05 House Election Winner
+Polymarket,191598,OR,kept,OR-01 House Election Winner
+Polymarket,191599,OR,kept,OR-02 House Election Winner
+Polymarket,191600,OR,kept,OR-03 House Election Winner
+Polymarket,191601,OR,kept,OR-04 House Election Winner
+Polymarket,191602,OR,kept,OR-06 House Election Winner
+Polymarket,57187,OR,kept,Oregon Governor Election Winner
+Polymarket,57667,OR,kept,Oregon Senate Election Winner
+Polymarket,106186,PA,kept,PA-01 House Election Winner
+Polymarket,106187,PA,kept,PA-07 House Election Winner
+Polymarket,106211,PA,kept,PA-08 House Election Winner
+Polymarket,106216,PA,kept,PA-10 House Election Winner
+Polymarket,106217,PA,kept,PA-17 House Election Winner
+Polymarket,191603,PA,kept,PA-02 House Election Winner
+Polymarket,191604,PA,kept,PA-03 House Election Winner
+Polymarket,191605,PA,kept,PA-04 House Election Winner
+Polymarket,191606,PA,kept,PA-05 House Election Winner
+Polymarket,191607,PA,kept,PA-06 House Election Winner
+Polymarket,191608,PA,kept,PA-09 House Election Winner
+Polymarket,191609,PA,kept,PA-11 House Election Winner
+Polymarket,191610,PA,kept,PA-12 House Election Winner
+Polymarket,191611,PA,kept,PA-13 House Election Winner
+Polymarket,191612,PA,kept,PA-14 House Election Winner
+Polymarket,191613,PA,kept,PA-15 House Election Winner
+Polymarket,191614,PA,kept,PA-16 House Election Winner
+Polymarket,57206,PA,kept,Pennsylvania Governor Election Winner
+Polymarket,191615,RI,kept,RI-01 House Election Winner
+Polymarket,191616,RI,kept,RI-02 House Election Winner
+Polymarket,57668,RI,kept,Rhode Island Senate Election Winner
+Polymarket,191617,SC,kept,SC-01 House Election Winner
+Polymarket,191618,SC,not settled yet,SC-02 House Election Winner
+Polymarket,191619,SC,kept,SC-03 House Election Winner
+Polymarket,191620,SC,kept,SC-04 House Election Winner
+Polymarket,191621,SC,kept,SC-05 House Election Winner
+Polymarket,191622,SC,kept,SC-06 House Election Winner
+Polymarket,191623,SC,kept,SC-07 House Election Winner
+Polymarket,57208,SC,kept,South Carolina Governor Election Winner
+Polymarket,57669,SC,kept,South Carolina Senate Election Winner
+Polymarket,191624,SD,kept,SD-AL House Election Winner
+Polymarket,57209,SD,kept,South Dakota Governor Election Winner
+Polymarket,191625,TN,kept,TN-01 House Election Winner
+Polymarket,191626,TN,kept,TN-02 House Election Winner
+Polymarket,191627,TN,kept,TN-03 House Election Winner
+Polymarket,191628,TN,not settled yet,TN-04 House Election Winner
+Polymarket,191629,TN,kept,TN-05 House Election Winner
+Polymarket,191630,TN,kept,TN-06 House Election Winner
+Polymarket,191631,TN,kept,TN-07 House Election Winner
+Polymarket,191632,TN,kept,TN-08 House Election Winner
+Polymarket,191633,TN,kept,TN-09 House Election Winner
+Polymarket,57210,TN,kept,Tennessee Governor Election Winner
+Polymarket,57671,TN,kept,Tennessee Senate Election Winner
+Polymarket,1023494,TX,kept,Texas Railroad Commissioner Election Winner
+Polymarket,106218,TX,kept,TX-09 House Election Winner
+Polymarket,106219,TX,kept,TX-15 House Election Winner
+Polymarket,106220,TX,kept,TX-18 House Election Winner
+Polymarket,106221,TX,kept,TX-28 House Election Winner
+Polymarket,106222,TX,kept,TX-32 House Election Winner
+Polymarket,106223,TX,kept,TX-34 House Election Winner
+Polymarket,106228,TX,kept,TX-35 House Election Winner
+Polymarket,191634,TX,kept,TX-01 House Election Winner
+Polymarket,191635,TX,kept,TX-02 House Election Winner
+Polymarket,191636,TX,kept,TX-03 House Election Winner
+Polymarket,191637,TX,kept,TX-04 House Election Winner
+Polymarket,191638,TX,kept,TX-05 House Election Winner
+Polymarket,191639,TX,kept,TX-06 House Election Winner
+Polymarket,191640,TX,kept,TX-07 House Election Winner
+Polymarket,191641,TX,kept,TX-08 House Election Winner
+Polymarket,191642,TX,kept,TX-10 House Election Winner
+Polymarket,191643,TX,kept,TX-11 House Election Winner
+Polymarket,191644,TX,kept,TX-12 House Election Winner
+Polymarket,191645,TX,kept,TX-13 House Election Winner
+Polymarket,191646,TX,kept,TX-14 House Election Winner
+Polymarket,191647,TX,kept,TX-16 House Election Winner
+Polymarket,191648,TX,kept,TX-17 House Election Winner
+Polymarket,191649,TX,kept,TX-19 House Election Winner
+Polymarket,191650,TX,kept,TX-20 House Election Winner
+Polymarket,191651,TX,kept,TX-21 House Election Winner
+Polymarket,191652,TX,kept,TX-22 House Election Winner
+Polymarket,191653,TX,kept,TX-23 House Election Winner
+Polymarket,191654,TX,kept,TX-24 House Election Winner
+Polymarket,191655,TX,kept,TX-25 House Election Winner
+Polymarket,191656,TX,kept,TX-26 House Election Winner
+Polymarket,191657,TX,kept,TX-27 House Election Winner
+Polymarket,191658,TX,kept,TX-29 House Election Winner
+Polymarket,191659,TX,kept,TX-30 House Election Winner
+Polymarket,191660,TX,kept,TX-31 House Election Winner
+Polymarket,191661,TX,kept,TX-33 House Election Winner
+Polymarket,191662,TX,kept,TX-36 House Election Winner
+Polymarket,191663,TX,kept,TX-37 House Election Winner
+Polymarket,191664,TX,kept,TX-38 House Election Winner
+Polymarket,57222,TX,kept,Texas Governor Election Winner
+Polymarket,57672,TX,kept,Texas Senate Election Winner
+Polymarket,965507,TX,kept,Texas Attorney General Election Winner
+Polymarket,965554,TX,kept,Texas Lieutenant Governor Election Winner
+Polymarket,106229,UT,kept,UT-01 House Election Winner
+Polymarket,106230,UT,kept,UT-02 House Election Winner
+Polymarket,106231,UT,kept,UT-03 House Election Winner
+Polymarket,191665,UT,kept,UT-04 House Election Winner
+Polymarket,106232,VA,kept,VA-01 House Election Winner
+Polymarket,106233,VA,kept,VA-02 House Election Winner
+Polymarket,106234,VA,kept,VA-07 House Election Winner
+Polymarket,106235,VA,kept,VA-10 House Election Winner
+Polymarket,191666,VA,kept,VA-03 House Election Winner
+Polymarket,191667,VA,kept,VA-04 House Election Winner
+Polymarket,191668,VA,kept,VA-05 House Election Winner
+Polymarket,191669,VA,kept,VA-06 House Election Winner
+Polymarket,191670,VA,kept,VA-08 House Election Winner
+Polymarket,191671,VA,kept,VA-09 House Election Winner
+Polymarket,191672,VA,kept,VA-11 House Election Winner
+Polymarket,57673,VA,kept,Virginia Senate Election Winner
+Polymarket,191673,VT,kept,VT-AL House Election Winner
+Polymarket,57225,VT,kept,Vermont Governor Election Winner
+Polymarket,965555,VT,kept,Vermont Lieutenant Governor Election Winner
+Polymarket,106236,WA,kept,WA-03 House Election Winner
+Polymarket,106241,WA,kept,WA-08 House Election Winner
+Polymarket,191674,WA,kept,WA-01 House Election Winner
+Polymarket,191675,WA,kept,WA-02 House Election Winner
+Polymarket,191676,WA,kept,WA-04 House Election Winner
+Polymarket,191677,WA,kept,WA-05 House Election Winner
+Polymarket,191678,WA,kept,WA-06 House Election Winner
+Polymarket,191679,WA,kept,WA-07 House Election Winner
+Polymarket,191680,WA,kept,WA-09 House Election Winner
+Polymarket,191681,WA,kept,WA-10 House Election Winner
+Polymarket,106242,WI,kept,WI-01 House Election Winner
+Polymarket,106243,WI,kept,WI-03 House Election Winner
+Polymarket,191682,WI,kept,WI-02 House Election Winner
+Polymarket,191683,WI,kept,WI-04 House Election Winner
+Polymarket,191684,WI,kept,WI-05 House Election Winner
+Polymarket,191685,WI,kept,WI-06 House Election Winner
+Polymarket,191686,WI,kept,WI-07 House Election Winner
+Polymarket,191687,WI,kept,WI-08 House Election Winner
+Polymarket,57226,WI,kept,Wisconsin Governor Election Winner
+Polymarket,965508,WI,kept,Wisconsin Attorney General Election Winner
+Polymarket,965552,WI,kept,Wisconsin Secretary of State Election Winner
+Polymarket,191688,WV,kept,WV-01 House Election Winner
+Polymarket,191690,WV,kept,WV-02 House Election Winner
+Polymarket,57674,WV,kept,West Virginia Senate Election Winner
+Polymarket,191691,WY,kept,WY-AL House Election Winner
+Polymarket,57227,WY,kept,Wyoming Governor Election Winner
+Polymarket,57675,WY,kept,Wyoming Senate Election Winner

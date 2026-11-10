@@ -8,8 +8,10 @@ there is one, the "another candidate" basket):
   price   the last point of Polymarket's recorded price history at or before the snapshot, looked
           for at 1-minute spacing over the 6 hours before, then hourly over 2 days. The history has
           a point every minute even when nothing trades, so it says nothing about staleness.
-  trade   (candidates only) the last trade in the candidate's market at or before the snapshot,
-          looked for in the hour before, then the day before.
+  trade   (candidates only) the last trade in the candidate's market at or before the snapshot, if it
+          was in the day before. Polymarket retired the version 1 trades endpoint on 24 October 2026 (it
+          answers 410 Gone); version 2 ignores time limits for a market, so its trades are paged through
+          until the walk passes the snapshot. Version 2 leaves out trades under 0.01 shares.
 Every API response is kept in raw/polymarket_responses.jsonl.gz. Standard library only.
 """
 
@@ -42,6 +44,7 @@ HEADERS = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Apple
 PRICE_SEARCH = [(1, timedelta(hours=6)), (60, timedelta(days=2))]
 TRADE_SEARCH = [(timedelta(0), timedelta(hours=1)), (timedelta(hours=1), timedelta(days=1))]
 TRADE_PAGE = 1000
+MAX_TRADE_PAGES = 500  # a safety stop: 500,000 trades in one market
 FIELDS = ["contest_id", "market_id", "role", "candidate", "won", "snapshot_utc", "price_utc", "price_age_minutes",
           "price", "price_minutes", "last_trade_utc", "last_trade_price", "minutes_since_trade", "token_id",
           "condition_id", "error"]
@@ -179,22 +182,32 @@ def price_at(token, snapshot):
     return None
 
 
-def trades_page(condition_id, start, end):
-    return get(f"{DATA_API}/trades", {"market": condition_id, "start": unix(start), "end": unix(end),
-                                      "limit": TRADE_PAGE, "offset": 0, "takerOnly": "true"})
-
-
 def last_trade(condition_id, snapshot):
-    for near, far in TRADE_SEARCH:
+    """The last trade at or before the snapshot, if it was in the day before (TRADE_SEARCH's widest window)."""
+    cutoff, earliest = unix(snapshot), unix(snapshot - TRADE_SEARCH[-1][1])
+    filters = {"condition": condition_id, "limit": TRADE_PAGE, "taker_only": "true"}  # sent again on every page
+    best, cursor = None, None
+    for _ in range(MAX_TRADE_PAGES):
         try:
-            trades = trades_page(condition_id, snapshot - far, snapshot - near)
+            body = get(f"{DATA_API}/v2/trades", dict(filters, cursor=cursor) if cursor else filters) or {}
         except NotFound:
-            continue
-        trades = [(epoch(t["timestamp"]), number(t.get("price"))) for t in (trades or []) if t.get("timestamp")]
-        trades = [t for t in trades if t[0] <= unix(snapshot)]
-        if trades:  # a full page still has a trade inside the window, which is all the rules need
-            moment, price = max(trades)
-            return datetime.fromtimestamp(moment, timezone.utc), price
+            return None
+        trades = [(epoch(t["timestamp"]), number(t.get("price"))) for t in (body.get("data") or [])
+                  if t.get("timestamp") is not None]
+        at_or_before = [t for t in trades if t[0] <= cutoff]
+        if at_or_before:
+            best = max([t for t in (best, *at_or_before) if t], key=lambda t: t[0])
+        if trades:  # stop once the walk has passed the snapshot, whichever way the feed runs
+            newest_first = trades[0][0] >= trades[-1][0]
+            if (at_or_before if newest_first else any(t[0] > cutoff for t in trades)):
+                break
+        cursor = (body.get("pagination") or {}).get("next_cursor")
+        if not cursor:
+            break
+    else:
+        raise RuntimeError(f"more than {MAX_TRADE_PAGES} pages of trades for {condition_id}")
+    if best and best[0] >= earliest:
+        return datetime.fromtimestamp(best[0], timezone.utc), best[1]
     return None
 
 
