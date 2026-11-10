@@ -1,6 +1,7 @@
 """Polymarket prices and last trade at each contest's snapshot, saved to polymarket_prices.csv.
 
     python3 polymarket_prices.py
+    python3 polymarket_prices.py --midterms   # the 2026 midterms, into midterm_* files; the frozen files are untouched
 
 For each option of every Polymarket contest in contest_calendar.csv (the two candidates and, where
 there is one, the "another candidate" basket):
@@ -16,6 +17,7 @@ import csv
 import gzip
 import json
 import re
+import sys
 import threading
 import time
 import urllib.error
@@ -26,10 +28,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-EVENTS = HERE.parent / "cleaning" / "polymarket_binary_elections.json"
-CALENDAR = HERE / "contest_calendar.csv"
-OUT = HERE / "polymarket_prices.csv"
-RAW = HERE / "raw" / "polymarket_responses.jsonl.gz"
+MIDTERMS = "--midterms" in sys.argv[1:]
+EVENTS = HERE.parent / "cleaning" / ("midterm_polymarket_binary.json" if MIDTERMS else "polymarket_binary_elections.json")
+CALENDAR = HERE / ("midterm_calendar.csv" if MIDTERMS else "contest_calendar.csv")
+OUT = HERE / ("midterm_polymarket_prices.csv" if MIDTERMS else "polymarket_prices.csv")
+RAW = HERE / "raw" / ("midterm_polymarket_responses.jsonl.gz" if MIDTERMS else "polymarket_responses.jsonl.gz")
 
 CLOB = "https://clob.polymarket.com"
 DATA_API = "https://data-api.polymarket.com"

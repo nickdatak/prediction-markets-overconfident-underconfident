@@ -1,6 +1,7 @@
 """Kalshi quotes and last trade at each contest's snapshot, saved to kalshi_prices.csv.
 
     python3 kalshi_prices.py
+    python3 kalshi_prices.py --midterms   # the 2026 midterms, into midterm_* files; the frozen files are untouched
 
 For each market of every Kalshi contest in contest_calendar.csv:
   quote   best YES bid and ask at the snapshot: the close of the last candle ending at or before
@@ -14,6 +15,7 @@ import csv
 import gzip
 import json
 import re
+import sys
 import threading
 import time
 import urllib.error
@@ -24,10 +26,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-MARKETS = HERE.parent / "cleaning" / "kalshi_binary_elections.json"
-CALENDAR = HERE / "contest_calendar.csv"
-OUT = HERE / "kalshi_prices.csv"
-RAW = HERE / "raw" / "kalshi_responses.jsonl.gz"
+MIDTERMS = "--midterms" in sys.argv[1:]
+MARKETS = HERE.parent / "cleaning" / ("midterm_kalshi_binary.json" if MIDTERMS else "kalshi_binary_elections.json")
+CALENDAR = HERE / ("midterm_calendar.csv" if MIDTERMS else "contest_calendar.csv")
+OUT = HERE / ("midterm_kalshi_prices.csv" if MIDTERMS else "kalshi_prices.csv")
+RAW = HERE / "raw" / ("midterm_kalshi_responses.jsonl.gz" if MIDTERMS else "kalshi_responses.jsonl.gz")
 
 BASE = "https://api.elections.kalshi.com/trade-api/v2"
 HEADERS = {  # Kalshi rejects requests that do not look like a browser
@@ -169,7 +172,8 @@ def price_row(market, snapshot, cutoff):
     row = {"contest_id": market["event_ticker"], "ticker": market["ticker"], "candidate": market.get("yes_sub_title"),
            "result": market.get("result"), "snapshot_utc": utc_text(snapshot), "error": ""}
     try:
-        quote = quote_at(market, snapshot, stamp(market["settlement_ts"]) < cutoff["markets"])
+        settled_early = bool(market.get("settlement_ts")) and stamp(market["settlement_ts"]) < cutoff["markets"]
+        quote = quote_at(market, snapshot, settled_early)
         trade = last_trade(market["ticker"], snapshot, snapshot < cutoff["trades"])
     except Exception as exc:  # keep going; the row records the error
         row["error"] = repr(exc)[:300]

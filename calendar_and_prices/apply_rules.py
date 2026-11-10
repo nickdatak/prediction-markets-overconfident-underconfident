@@ -1,6 +1,8 @@
 """Turn the pulled prices into one row per contest, saved to contest_prices.csv.
 
     python3 apply_rules.py
+    python3 apply_rules.py --midterms   # the 2026 midterms: writes midterm_contest_prices.csv, then adds those rows
+                                        # to contest_prices.csv (replacing earlier midterm rows; other rows untouched)
 
 Run after kalshi_prices.py and polymarket_prices.py. None of the rules looks at who won.
   Both        the contest is dropped if any of its markets opened after the snapshot (a market made
@@ -23,17 +25,23 @@ import collections
 import csv
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-CALENDAR = HERE / "contest_calendar.csv"
-KALSHI = HERE / "kalshi_prices.csv"
-POLYMARKET = HERE / "polymarket_prices.csv"
-KALSHI_MARKETS = HERE.parent / "cleaning" / "kalshi_binary_elections.json"
-POLYMARKET_EVENTS = HERE.parent / "cleaning" / "polymarket_binary_elections.json"
-OUT = HERE / "contest_prices.csv"
-REPORT = HERE / "prices_report.txt"
+MIDTERMS = "--midterms" in sys.argv[1:]
+PREFIX = "midterm_" if MIDTERMS else ""
+CALENDAR = HERE / f"{PREFIX}{'calendar' if MIDTERMS else 'contest_calendar'}.csv"
+KALSHI = HERE / f"{PREFIX}kalshi_prices.csv"
+POLYMARKET = HERE / f"{PREFIX}polymarket_prices.csv"
+KALSHI_MARKETS = HERE.parent / "cleaning" / ("midterm_kalshi_binary.json" if MIDTERMS else "kalshi_binary_elections.json")
+POLYMARKET_EVENTS = HERE.parent / "cleaning" / ("midterm_polymarket_binary.json" if MIDTERMS
+                                                 else "polymarket_binary_elections.json")
+OUT = HERE / f"{PREFIX}contest_prices.csv"
+REPORT = HERE / f"{PREFIX}prices_report.txt"
+COMBINED = HERE / "contest_prices.csv"  # midterm_test.py reads the midterm rows from here
+MIDTERM_DAY = "US-2026-11-03"
 
 MAX_SPREAD = 0.10
 MAX_TRADE_MINUTES = 60      # Kalshi: last trade standing in for a wide quote
@@ -208,6 +216,13 @@ def main():
     REPORT.write_text("\n".join(lines) + "\n")
     print("\n".join(lines))
     print(f"-> {OUT.name}, {REPORT.name}")
+    if MIDTERMS:
+        earlier = [r for r in read(COMBINED) if r["election_key"] != MIDTERM_DAY]
+        with COMBINED.open("w", newline="") as handle:
+            writer = csv.DictWriter(handle, fieldnames=FIELDS, extrasaction="ignore")
+            writer.writeheader()
+            writer.writerows(earlier + rows)
+        print(f"-> {COMBINED.name}: {len(earlier)} earlier rows kept unchanged, {len(rows)} midterm rows added")
 
 
 if __name__ == "__main__":
