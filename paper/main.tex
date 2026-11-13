@@ -1,0 +1,54 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathpazo}
+\linespread{1.05}
+\usepackage{microtype}
+\usepackage[margin=2.7cm]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\usepackage{graphicx}
+\usepackage[authoryear,round]{natbib}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage[section]{placeins}
+\setlist{itemsep=2pt, topsep=4pt}
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\floatpagefraction}{0.75}
+\setcounter{topnumber}{3}
+\setcounter{totalnumber}{4}
+
+\title{Calibration of US Election Markets:\\
+\large Primaries versus General Elections on Kalshi and Polymarket,\\
+with a Pre-Registered Test on the 2026 Midterms}
+\author{Nikita Kirillov\\Maastricht University}
+\date{Preliminary version, November 2026. Results from the run of 10 November 2026; \\
+a final version will follow once every midterm contest has settled.}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\input{sections/introduction}
+\input{sections/related_work}
+\input{sections/data}
+\input{sections/method}
+\input{sections/results}
+\input{sections/backtest}
+\input{sections/limitations}
+\input{sections/discussion}
+\input{sections/conclusion}
+\input{sections/backmatter}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}

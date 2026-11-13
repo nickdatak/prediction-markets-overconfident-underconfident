@@ -1,0 +1,61 @@
+\section{Deviations and limitations}\label{sec:limitations}
+
+\subsection{Deviations from the pre-registration}
+
+\paragraph{Code written after the vote.} Collecting the settled midterm markets needed code that did not exist before
+the vote: a script to download them, one to clean them, and an option in the pricing scripts that prices the midterm
+contests and appends them to the price table. The rules applied are the frozen ones, and every earlier row of the price
+table is unchanged byte for byte. The test's own safeguard confirms this: before running, it recomputed both 2024
+values from the table and found them unchanged.
+
+\paragraph{Polymarket trade records.} On 24 October 2026, after the freeze, Polymarket retired the interface that served
+past trades. For the midterms, the rule ``drop the contest if neither candidate traded in the day before the snapshot''
+therefore reads the trades from its replacement. The rule is unchanged, and the training prices, collected before the
+change, were not recomputed.
+
+\paragraph{A fault in the fitting routine.} After the vote we found that the frozen routine, Newton's method started at
+a stretch of 1 and limited to $\pm 50$, can overshoot and stop at $+50$ when the best stretch is below zero, that is,
+when more favourites lost than their prices allowed for. We refitted every frozen interval with a routine that always
+finds the maximum. Two intervals change, both for Kalshi and both from resampling election days: all training contests
+go from 0.14--1.03 to 0.14--1.02, and primaries from 0.03--0.70 to 0.01--0.69. The point estimates, the 2024 values,
+every interval from resampling states (including the midterm test) and every Polymarket interval are unchanged. The
+archived code is left as it was. The corrected values are given beside the frozen ones (Table~\ref{tab:training}), and
+the exploratory checks of Figure~\ref{fig:primary_checks} use the corrected routine. An exploratory table in the
+repository that lists a stretch for each election day shows 50 or 15.8 for four Kalshi primary days, whose true values
+lie between $-0.92$ and 0.
+
+\paragraph{Analyses added after the vote.} Only the main hypothesis and its test were fixed in advance. The forecast
+scores, the comparison of races listed on both platforms, the p-values, the checks on the training primaries and the
+backtest (Sections~\ref{sec:exploratory} and~\ref{sec:backtest}) were all designed after the results were known, and
+are reported as exploratory.
+
+\subsection{Limitations}
+
+\paragraph{One night, few independent pieces of information.} The test rests on a single election night and about 35
+states per platform. Resampling states allows for races within a state moving together, but not for a polling miss that
+moves every state at once. Across the whole study there are only two general-election nights of any size. Persistence
+is the weakest link: allowing for states, the evidence that the 2024 value improves midterm prices is far from
+conclusive ($p = 0.13$ on Polymarket).
+
+\paragraph{The primary result is untested.} Kalshi's overconfidence in primaries comes from 78 contests on 21 days,
+most of them in 2026, and was found in the data rather than tested. The midterms contain no primaries and say nothing
+about it.
+
+\paragraph{Which contests enter.} A contest enters only if it settled with one of its two listed candidates winning, and
+races with more than two serious candidates are left out. In this preliminary run, the 40 midterm races still unsettled
+lean towards those in which the favourite struggled, which tilts the results towards underconfidence; the reading is
+judged on the final run. Favourites priced above 95\%, the majority of contests, are excluded by design, so the results
+describe races with real uncertainty on election day.
+
+\paragraph{One price per contest.} Each contest is priced once, at least an hour before the first polls close. A Kalshi
+midpoint can be stale when the order book is thin, and a Polymarket recorded price is not a quote anyone could trade at.
+Dropping the Kalshi contests in which neither candidate traded in the day before changes little, but price noise
+cannot be ruled out.
+
+\paragraph{One number per group.} The stretch assumes the same distortion at every price. Sections~\ref{sec:results}
+and~\ref{sec:backtest} show that close races and clear favourites behaved differently on the midterms, so a single
+stretch summarises a group but overstates the edge in close races.
+
+\paragraph{Two platforms in a changing market.} The platforms listed different races, and between 2023 and 2026 both
+grew quickly and changed regulatory status. Patterns found in this period may weaken as the markets mature, and need
+not hold for other countries or other kinds of event.

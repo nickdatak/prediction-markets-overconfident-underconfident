@@ -1,0 +1,549 @@
+platform,group,contest_id,title,state,office,volume,favourite
+Polymarket,"Training, general",902823,Mississippi gubernatorial election: Presley (D) vs. Reeves (R),MS,Governor,60047.36,0.895
+Polymarket,"Training, general",903278,NY-3 Special Election for Santos seat: Suozzi (D) vs. Pilip (R),NY,US House,642842.83,0.825
+Polymarket,"Training, primary",11124,VA-5 Republican Primary Winner,VA,US House,13606.29,0.830189
+Polymarket,"Training, primary",11995,WI-3 Democratic Primary Winner,WI,US House,20021.38,0.902564
+Kalshi,"Training, general",GOVPARTYIN-24,Will the Republican party win the governorship in Indiana,IN,Governor,37573.0,0.812207
+Kalshi,"Training, general",GOVPARTYNC-24,Will the Republican party win the governorship in North Carolina,NC,Governor,196314.0,0.940299
+Kalshi,"Training, general",GOVPARTYNH-24,Will the Democratic party win the governorship in New Hampshire,NH,Governor,279245.0,0.683168
+Kalshi,"Training, general",GOVPARTYUT-24,Will the Republican party win the governorship in Utah,UT,Governor,4581.0,0.95
+Kalshi,"Training, general",HOUSEAKAL-24,Will Republican win the House race for AK-AL?,AK,US House,380588.0,0.62
+Kalshi,"Training, general",HOUSEAZ1-24,Will Republican win the House race for AZ-1?,AZ,US House,40503.0,0.590909
+Kalshi,"Training, general",HOUSEAZ6-24,Will Republican win the House race for AZ-6?,AZ,US House,157033.0,0.705
+Kalshi,"Training, general",HOUSECA13-24,Will Republican win the House race for CA-13?,CA,US House,8703537.0,0.57
+Kalshi,"Training, general",HOUSECA22-24,Will Republican win the House race for CA-22?,CA,US House,23768.0,0.626866
+Kalshi,"Training, general",HOUSECA27-24,Will Republican win the House race for CA-27?,CA,US House,230118.0,0.55
+Kalshi,"Training, general",HOUSECA41-24,Will Republican win the House race for CA-41?,CA,US House,49813.0,0.6
+Kalshi,"Training, general",HOUSECA45-24,Will Republican win the House race for CA-45?,CA,US House,3063342.0,0.507463
+Kalshi,"Training, general",HOUSECO8-24,Will Republican win the House race for CO-8?,CO,US House,163820.0,0.66
+Kalshi,"Training, general",HOUSEIA1-24,Will Republican win the House race for IA-1?,IA,US House,229953.0,0.606061
+Kalshi,"Training, general",HOUSEIA3-24,Will Republican win the House race for IA-3?,IA,US House,38611.0,0.532338
+Kalshi,"Training, general",HOUSEME2-24,Will Republican win the House race for ME-2?,ME,US House,68687.0,0.628141
+Kalshi,"Training, general",HOUSEMI8-24,Will Republican win the House race for MI-8?,MI,US House,14976.0,0.525253
+Kalshi,"Training, general",HOUSENC1-24,Will Republican win the House race for NC-1?,NC,US House,28401.0,0.73
+Kalshi,"Training, general",HOUSENE2-24,Will Republican win the House race for NE-2?,NE,US House,64137.0,0.67
+Kalshi,"Training, general",HOUSENY19-24,Will Republican win the House race for NY-19?,NY,US House,50267.0,0.59
+Kalshi,"Training, general",HOUSENY4-24,Will Republican win the House race for NY-4?,NY,US House,19427.0,0.756219
+Kalshi,"Training, general",HOUSEOR5-24,Will Republican win the House race for OR-5?,OR,US House,47490.0,0.535
+Kalshi,"Training, general",HOUSEPA10-24,Will Republican win the House race for PA-10?,PA,US House,39044.0,0.56
+Kalshi,"Training, general",HOUSEPA7-24,Will Republican win the House race for PA-7?,PA,US House,22301.0,0.625
+Kalshi,"Training, general",HOUSEPA8-24,Will Republican win the House race for PA-8?,PA,US House,22843.0,0.6
+Kalshi,"Training, general",HOUSEVA7-24,Will Republican win the House race for VA-7?,VA,US House,33870.0,0.681592
+Kalshi,"Training, general",HOUSEWA3-24,Will Republican win the House race for WA-3?,WA,US House,32501.0,0.567164
+Kalshi,"Training, general",PRESPARTYAK-24,Will the Democratic party win Alaska in the presidential election?,AK,President,664044.0,0.920398
+Kalshi,"Training, general",PRESPARTYAZ-24,Will the Republican party win Arizona in the presidential election?,AZ,President,7245158.0,0.79703
+Kalshi,"Training, general",PRESPARTYFL-24,Will the Democratic party win Florida in the presidential election?,FL,President,6745504.0,0.935644
+Kalshi,"Training, general",PRESPARTYGA-24,Will the Republican party win Georgia in the presidential election?,GA,President,19884204.0,0.643216
+Kalshi,"Training, general",PRESPARTYIA-24,Will the Republican party win Iowa in the presidential election?,IA,President,12930686.0,0.781095
+Kalshi,"Training, general",PRESPARTYME-24,Will the Democratic party win Maine in the presidential election?,ME,President,1697186.0,0.895
+Kalshi,"Training, general",PRESPARTYME2-24,Will the Republican party win ME-2 (Maine's second Congressional district) in the presidential election?,ME,President,238845.0,0.855
+Kalshi,"Training, general",PRESPARTYMI-24,Will the Republican party win Michigan in the presidential election?,MI,President,14548325.0,0.608911
+Kalshi,"Training, general",PRESPARTYMN-24,Will the Democratic party win Minnesota in the presidential election?,MN,President,2607519.0,0.895
+Kalshi,"Training, general",PRESPARTYNC-24,Will the Republican party win North Carolina in the presidential election?,NC,President,12233384.0,0.68
+Kalshi,"Training, general",PRESPARTYNE1-24,Will the Republican party win NE-1 (Nebraska's first Congressional district) in the presidential election?,NE,President,80829.0,0.95
+Kalshi,"Training, general",PRESPARTYNE2-24,Will the Republican party win NE-2 (Nebraska's second Congressional district) in the presidential election?,NE,President,544034.0,0.875622
+Kalshi,"Training, general",PRESPARTYNH-24,Will the Democratic party win New Hampshire in the presidential election?,NH,President,4649224.0,0.80597
+Kalshi,"Training, general",PRESPARTYNJ-24,Will the Republican party win New Jersey in the presidential election?,NJ,President,4152324.0,0.930693
+Kalshi,"Training, general",PRESPARTYNM-24,Will the Republican party win New Mexico in the presidential election?,NM,President,1055105.0,0.895
+Kalshi,"Training, general",PRESPARTYNV-24,Will the Republican party win Nevada in the presidential election?,NV,President,10607466.0,0.547264
+Kalshi,"Training, general",PRESPARTYOH-24,Will the Democratic party win Ohio in the presidential election?,OH,President,728599.0,0.935
+Kalshi,"Training, general",PRESPARTYPA-24,Will the Republican party win Pennsylvania in the presidential election?,PA,President,17042008.0,0.552764
+Kalshi,"Training, general",PRESPARTYTX-24,Will the Republican party win Texas in the presidential election?,TX,President,4654059.0,0.925
+Kalshi,"Training, general",PRESPARTYVA-24,Will the Democratic party win Virginia in the presidential election?,VA,President,8810367.0,0.856436
+Kalshi,"Training, general",PRESPARTYWI-24,Will the Republican party win Wisconsin in the presidential election?,WI,President,7213622.0,0.505051
+Kalshi,"Training, general",SENATEAZ-24,Will Republicans win the Senate race in Arizona?,AZ,US Senate,35494026.0,0.696517
+Kalshi,"Training, general",SENATEFL-24,Will Republicans win the Senate race in Florida?,FL,US Senate,1326469.0,0.925
+Kalshi,"Training, general",SENATEMD-24,Will Republican win the Senate race in Maryland?,MD,US Senate,530171.0,0.94
+Kalshi,"Training, general",SENATEMI-24,Will Republicans win the Senate race in Michigan?,MI,US Senate,1215349.0,0.77
+Kalshi,"Training, general",SENATEMO-24,Will Democratics win the Senate race in Missouri?,MO,US Senate,90452.0,0.935
+Kalshi,"Training, general",SENATEMT-24,Will Republicans win the Senate race in Montana?,MT,US Senate,817728.0,0.825
+Kalshi,"Training, general",SENATENE-24,Will Republicans win the Senate race in Nebraska?,NE,US Senate,1424956.0,0.815
+Kalshi,"Training, general",SENATENV-24,Will Republicans win the Senate race in Nevada?,NV,US Senate,5434529.0,0.828283
+Kalshi,"Training, general",SENATEOH-24,Will Republicans win the Senate race in Ohio?,OH,US Senate,2696852.0,0.68
+Kalshi,"Training, general",SENATEPA-24,Will Republicans win the Senate race in Pennsylvania?,PA,US Senate,3916341.0,0.725
+Kalshi,"Training, general",SENATETX-24,Will Republicans win the Senate race in Texas?,TX,US Senate,4291099.0,0.82
+Kalshi,"Training, general",SENATEWI-24,Will Republicans win the Senate race in Wisconsin?,WI,US Senate,1475123.0,0.735
+Polymarket,"Training, general",10018,Nevada Senate Election Winner,NV,US Senate,2596344.473107,0.832512
+Polymarket,"Training, general",10019,Pennsylvania Senate Election Winner,PA,US Senate,4871081.08985,0.761421
+Polymarket,"Training, general",10020,Wisconsin Senate Election Winner,WI,US Senate,700437.647778,0.744792
+Polymarket,"Training, general",10021,Montana Senate Election Winner,MT,US Senate,1307429.7592560002,0.834171
+Polymarket,"Training, general",10022,Ohio Senate Election Winner,OH,US Senate,2449381.936629,0.643564
+Polymarket,"Training, general",10169,New Mexico Presidential Election Winner,NM,President,1856449.460709,0.915
+Polymarket,"Training, general",10172,Nebraska's 2nd Congressional District Presidential Election Winner,NE,President,581724.7465019999,0.878412
+Polymarket,"Training, general",10214,Arizona Senate Election Winner,AZ,US Senate,15012961.129305001,0.663594
+Polymarket,"Training, general",10218,Texas Senate Election Winner,TX,US Senate,995581.9456,0.815
+Polymarket,"Training, general",10231,Florida Senate Election Winner,FL,US Senate,609970.845474,0.945
+Polymarket,"Training, general",10249,Virginia Senate Election Winner,VA,US Senate,129203.81346599999,0.882653
+Polymarket,"Training, general",10258,Vermont Senate Election Winner,VT,US Senate,65352.240057999996,0.752124
+Polymarket,"Training, general",10382,Washington DC Presidential Election Winner,DC,President,166905.338793,0.943556
+Polymarket,"Training, general",12057,CA-13 election: Gray (D) vs. Duarte (R),CA,US House,580703.775898,0.655
+Polymarket,"Training, general",13461,NJ-07 election: Altman (D) vs. Kean (R),NJ,US House,446032.12858,0.865
+Polymarket,"Training, general",14095,PA-07 election: Wild (D) vs. Mackenzie (R),PA,US House,512.294148,0.805
+Polymarket,"Training, general",14102,NH-02 election: Goodlander (D) vs. Williams (R),NH,US House,12707.843173,0.925
+Polymarket,"Training, general",4076,Which party wins 2024 US Presidential Election?,national,President,8828319.27610304,0.605
+Polymarket,"Training, general",903636,Who will win Arizona?,AZ,President,10730159.001548,0.80597
+Polymarket,"Training, general",903637,Who will win Nevada?,NV,President,11340581.982843,0.547739
+Polymarket,"Training, general",903640,New Hampshire Presidential Election Winner,NH,President,3913092.31117,0.825871
+Polymarket,"Training, general",903648,Who will win Georgia?,GA,President,12430971.018479,0.671642
+Polymarket,"Training, general",903650,Who will win North Carolina?,NC,President,10949073.114232,0.676617
+Polymarket,"Training, general",903655,Iowa Presidential Election Winner,IA,President,6369167.998253,0.815
+Polymarket,"Training, general",903657,Kansas Presidential Election Winner,KS,President,555063.875642,0.922196
+Polymarket,"Training, general",903660,Maine Presidential Election Winner,ME,President,1954507.2018849999,0.891089
+Polymarket,"Training, general",903665,Who will win Michigan?,MI,President,18831317.117834,0.594059
+Polymarket,"Training, general",903666,Minnesota Presidential Election Winner,MN,President,3107082.357006,0.895
+Polymarket,"Training, general",903667,Who will win Pennsylvania?,PA,President,25480015.588538997,0.580808
+Polymarket,"Training, general",903670,Rhode Island Presidential Election Winner,RI,President,216566.140549,0.93818
+Polymarket,"Training, general",903679,Virginia Presidential Election Winner,VA,President,10370982.309768,0.895522
+Polymarket,"Training, general",903683,Who will win Wisconsin?,WI,President,9276181.690753,0.535354
+Polymarket,"Training, general",903759,New Hampshire Governor Election Winner,NH,Governor,161856.180105,0.78866
+Polymarket,"Training, general",903761,Indiana Governor Election Winner,IN,Governor,154272.699088,0.912851
+Polymarket,"Training, general",903799,Michigan Senate Election Winner,MI,US Senate,1079079.053453,0.792271
+Kalshi,"Training, primary",KXFL1D-25,Wil Rebekah Jones be the Democratic nominee for FL-1?,FL,US House,469.0,0.945
+Kalshi,"Training, primary",KXFL6D-25,Wil Josh Weil be the Democratic nominee for FL-6?,FL,US House,552.0,0.9
+Kalshi,"Training, primary",KXFL6R-25,Wil Randy Fine be the Republican nominee for FL-6?,FL,US House,600.0,0.935484
+Kalshi,"Training, general",KXWISCOTUS-25,Will Brad Schimel win the Wisconsin Supreme Court seat?,WI,Courts,3571663.0,0.855
+Polymarket,"Training, general",20810,Wisconsin Supreme Court election: Susan Crawford vs. Brad Schimel,WI,Courts,3932762.973035,0.845
+Polymarket,"Training, general",22441,Oakland mayoral special election,CA,Local,247980.74873599998,0.895
+Kalshi,"Training, general",GOVPARTYNJ-25,Will Jack Ciattarelli win the 2025 New Jersey gubernatorial election?,NJ,Governor,21640003.0,0.885
+Kalshi,"Training, general",KXATTYGENVA-25,Will Jason Miyares win the 2025 Virginia attorney general election?,VA,Other statewide,2847040.0,0.61165
+Kalshi,"Training, general",KXGAPUBLICSERVICE2-25NOV04,Will Tim Echols win the the 2025 Georgia Public Service Commission District 2 election?,GA,Other statewide,11387.0,0.846535
+Kalshi,"Training, general",KXGAPUBLICSERVICE3-25NOV04,Will Peter Hubbard win the the 2025 Georgia Public Service Commission District 3 election?,GA,Other statewide,23262.0,0.872449
+Kalshi,"Training, general",KXLTGOVVA-25,Will the Republican party win the Lt. Gov race in Virginia?,VA,Other statewide,187647.0,0.94
+Kalshi,"Training, general",KXMAYORWORCESTER-26,"Will Khrystian King win the election for the Mayor of Worcester, MA in 2026?",MA,Local,3166.0,0.92
+Kalshi,"Training, general",KXPACOMMONWEALTHCOURT-25SEP24,Will the Republican Party win the the 2025 Pennsylvania Commonwealth Court election?,PA,Courts,7445.0,0.909091
+Kalshi,"Training, general",KXPASUPERIORCOURT-25NOV04,Will Republican Party win the 2025 Pennsylvania Superior Court election?,PA,Courts,9084.0,0.918367
+Polymarket,"Training, general",54928,Virginia Attorney General Election Winner,VA,Other statewide,2566287.895676,0.621891
+Kalshi,"Training, general",HOUSETN7S-25,Will Republican win the House race for TN-7?,TN,US House,2584615.0,0.909548
+Kalshi,"Training, primary",KXARPRIMARY-04D26,Will Steven O'Donnell be the Democratic nominee for AR-04?,AR,US House,1292.0,0.77
+Kalshi,"Training, primary",KXNCPRIMARY-03D26,Will Raymond Smith Jr. be the Democratic nominee for NC-03?,NC,US House,7062.0,0.595
+Kalshi,"Training, primary",KXNCPRIMARY-12R26,Will Jack Codiga be the Republican nominee for NC-12?,NC,US House,525.0,0.795
+Kalshi,"Training, primary",KXTXPRIMARY-04D26,Will Jason Pearce be the Democratic nominee for TX-04?,TX,US House,3214.0,0.515
+Kalshi,"Training, primary",KXTXPRIMARY-08D26,Will Laura Jones be the Democratic nominee for TX-08?,TX,US House,1254.0,0.835
+Kalshi,"Training, primary",KXTXPRIMARY-11D26,Will Pedro Ruiz be the Democratic nominee for TX-11?,TX,US House,2349.0,0.67
+Kalshi,"Training, primary",KXTXPRIMARY-12D26,Will Kenneth Morgan-Aguilera be the Democratic nominee for TX-12?,TX,US House,1418.0,0.816832
+Kalshi,"Training, primary",KXTXPRIMARY-15D26,Will Bobby Pulido be the Democratic nominee for TX-15?,TX,US House,7401.0,0.935
+Kalshi,"Training, primary",KXTXPRIMARY-18R26,Will Ronald Whitfield be the Republican nominee for TX-18?,TX,US House,3733.0,0.681592
+Kalshi,"Training, primary",KXTXPRIMARY-25D26,Will William Marks be the Democratic nominee for TX-25?,TX,US House,13235.0,0.839196
+Kalshi,"Training, primary",KXTXPRIMARY-26D26,Will Steven Shook be the Democratic nominee for TX-26?,TX,US House,1386.0,0.925
+Kalshi,"Training, primary",KXTXPRIMARY-31D26,Will Stuart Whitlow be the Democratic nominee for TX-31?,TX,US House,2316.0,0.505
+Kalshi,"Training, primary",KXTXPRIMARY-34D26,Will Vincente Gonzalez be the Democratic nominee for TX-34?,TX,US House,13861.0,0.94
+Kalshi,"Training, primary",KXTXPRIMARY-36D26,Will Rhonda Hart be the Democratic nominee for TX-36?,TX,US House,2423.0,0.875
+Kalshi,"Training, primary",KXTXPRIMARY-38D26,Will Melissa McDonough be the Democratic nominee for TX-38?,TX,US House,1709.0,0.823232
+Polymarket,"Training, primary",232778,TX-15 Democratic Primary Winner,TX,US House,2153.623228,0.883249
+Kalshi,"Training, primary",KXMSPRIMARY-02R26,Will Ron Eller be the Republican nominee for MS-02?,MS,US House,75192.0,0.716418
+Kalshi,"Training, primary",KXILPRIMARY-01R26,Will Marcus Lewis be the Republican nominee for IL-01?,IL,US House,3367.0,0.551724
+Kalshi,"Training, primary",KXILPRIMARY-07R26,Will Patricia Easley be the Republican nominee for IL-07?,IL,US House,6392.0,0.867347
+Kalshi,"Training, primary",KXILPRIMARY-13R26,Will Jeff Wilson be the Republican nominee for IL-13?,IL,US House,4343.0,0.808081
+Kalshi,"Training, primary",KXILPRIMARY-14R26,Will James Marter be the Republican nominee for IL-14?,IL,US House,5204.0,0.816832
+Kalshi,"Training, primary",KXILPRIMARY-17R26,Will Julie Bickelhaupt be the Republican nominee for IL-17?,IL,US House,3795.0,0.92268
+Kalshi,"Training, general",KXFLHD87-26,Who will win the 2026 Special General Election for Florida House District 87?,FL,State legislature,87236.0,0.765
+Kalshi,"Training, general",KXFLSD14-26,Who will win the Florida State Senate District 14 Special General Election?,FL,State legislature,25879.0,0.830846
+Kalshi,"Training, primary",KXARSOSRPRIMARY-26,Who will win the 2026 Arkansas Secretary of State Republican primary?,AR,Other statewide,64996.0,0.905941
+Kalshi,"Training, primary",KXOHPRIMARY-02D26,Will Todd Wilson be the Democratic nominee for OH-02?,OH,US House,5081.27,0.933033
+Kalshi,"Training, primary",KXOHPRIMARY-15D26,Will Don Leonard be the Democratic nominee for OH-15?,OH,US House,37468.89,0.936359
+Kalshi,"Training, primary",KXNEPRIMARY-01D26,Will Eric Moyer be the Democratic nominee for NE-01?,NE,US House,22624.67,0.800995
+Kalshi,"Training, primary",KXWVPRIMARY-01D26,Will Vince George be the Democratic nominee for WV-01?,WV,US House,13541.68,0.886203
+Kalshi,"Training, primary",KXAGNOMGAD-26,Who will be the Democratic nominee for Attorney General in Georgia?,GA,Other statewide,17541.11,0.901478
+Kalshi,"Training, primary",KXAGNOMGAR-26,Who will be the Republican nominee for Attorney General in Georgia?,GA,Other statewide,24113.55,0.868293
+Kalshi,"Training, general",KXBETHELSEAT-26,Who will win the 2026 nonpartisan election for the Georgia Supreme Court seat currently held by Charlie Bethel?,GA,Courts,175643.77000000002,0.838235
+Kalshi,"Training, primary",KXGAPRIMARY-03D26,Will Maura Keller be the Democratic nominee for GA-03?,GA,US House,10069.65,0.878607
+Kalshi,"Training, primary",KXGAPRIMARY-06R26,Will Kevin Martin be the Republican nominee for GA-06?,GA,US House,5739.74,0.778894
+Kalshi,"Training, primary",KXGAPRIMARY-08D26,Will Kelly Esti be the Democratic nominee for GA-08?,GA,US House,3684.92,0.830097
+Kalshi,"Training, primary",KXGAPRIMARY-09D26,Will Nick Alex be the Democratic nominee for GA-09?,GA,US House,11829.369999999999,0.95
+Kalshi,"Training, primary",KXGAPRIMARY-11D26,Will Chris Harden be the Democratic nominee for GA-11?,GA,US House,17337.75,0.941964
+Kalshi,"Training, primary",KXIDPRIMARY-01D26,Will Kaylee Peterson be the Democratic nominee for ID-01?,ID,US House,12233.83,0.891784
+Kalshi,"Training, primary",KXKYPRIMARY-04D26,Will Melissa Strange be the Democratic nominee for KY-04?,KY,US House,9702.69,0.913151
+Kalshi,"Training, primary",KXORPRIMARY-01R26,Will John Verbeek be the Republican nominee for OR-01?,OR,US House,8373.82,0.762626
+Kalshi,"Training, general",KXWARRENSEAT-26,Who will win the 2026 nonpartisan election for the Georgia Supreme Court seat currently held by Sarah Hawkins Warren?,GA,Courts,74967.16,0.818627
+Polymarket,"Training, primary",246184,Texas Attorney General Republican Primary Runoff Winner,TX,Other statewide,16612.20481,0.865241
+Kalshi,"Training, primary",KXIAPRIMARY-01R26,Will Mariannette Miller-Meeks be the Republican nominee for IA-01?,IA,US House,20004.92,0.930348
+Kalshi,"Training, primary",KXNJPRIMARY-04D26,Will Rachel Peace be the Democratic nominee for NJ-04?,NJ,US House,2071.95,0.895
+Kalshi,"Training, primary",KXNJPRIMARY-09R26,Will Tiffany Burress be the Republican nominee for NJ-09?,NJ,US House,36354.53,0.769608
+Kalshi,"Training, primary",KXSCPRIMARY-03D26,Will Ernest Mackins be the Democratic nominee for SC-03?,SC,US House,8946.64,0.901554
+Polymarket,"Training, primary",514392,SC-06 Republican Primary Winner,SC,US House,7704.007836000001,0.884259
+Kalshi,"Training, primary",KXAGNOMROK-26,Who will be the Republican nominee for Attorney General in Oklahoma?,OK,Other statewide,18920.46,0.78607
+Kalshi,"Training, primary",KXOKPRIMARY-02D26,Will Erik Terwey be the Democratic nominee for OK-02?,OK,US House,2182.88,0.783251
+Kalshi,"Training, primary",KXOKPRIMARY-03D26,Will Suzie Byrd be the Democratic nominee for OK-03?,OK,US House,3047.51,0.56
+Kalshi,"Training, primary",KXOKPRIMARY-04D26,Will Mitchell Jacob be the Democratic nominee for OK-04?,OK,US House,3706.4700000000003,0.75122
+Kalshi,"Training, primary",KXOKPRIMARY-05D26,Will Trey Martin be the Democratic nominee for OK-05?,OK,US House,27832.3,0.536585
+Polymarket,"Training, primary",527423,OK-04 Democratic Primary Winner,OK,US House,5969.535132999999,0.76699
+Kalshi,"Training, primary",KXAGNOMSCR-26,Who will be the Republican nominee for Attorney General in South Carolina?,SC,Other statewide,8937.43,0.925743
+Kalshi,"Training, primary",KXMD06D-26,Will David Trone be the Democratic nominee for MD-06?,MD,US House,32679.589999999997,0.884885
+Kalshi,"Training, primary",KXNYPRIMARY-03R26,Will Michael J LiPetri Jr be the Republican nominee for NY-03?,NY,US House,4340.79,0.948187
+Kalshi,"Training, primary",KXNYPRIMARY-11D26,Will Michael DeCillis be the Democratic nominee for NY-11?,NY,US House,2096.59,0.944444
+Kalshi,"Training, primary",KXNYPRIMARY-21R26,Will Robert Smullen be the Republican nominee for NY-21?,NY,US House,35660.869999999995,0.884422
+Kalshi,"Training, primary",KXNYPRIMARY-24D26,Will Diana K Kastenbaum be the Democratic nominee for NY-24?,NY,US House,1618.4299999999998,0.81592
+Kalshi,"Training, primary",KXUTPRIMARY-02R26,Will Karianne Lisonbee be the Republican nominee for UT-02?,UT,US House,56159.36,0.916256
+Polymarket,"Training, primary",503398,NY-21 Republican Primary Winner,NY,US House,29908.42252300002,0.930077
+Polymarket,"Training, primary",587428,UT-03 Republican Primary Winner,UT,US House,137473.6201969999,0.94995
+Kalshi,"Training, primary",KXCOPRIMARY-02R26,Will Kelley Dennison be the Republican nominee for CO-02?,CO,US House,8409.61,0.854271
+Kalshi,"Training, primary",KXCOPRIMARY-03D26,Will Dwayne Romero be the Democratic nominee for CO-03?,CO,US House,72404.36,0.656566
+Polymarket,"Training, primary",631084,CO-03 Democratic Primary Winner,CO,US House,169130.33674899995,0.619289
+Kalshi,"Training, primary",KXAZPRIMARY-04D26,Will Kai Newkirk be the Democratic nominee for AZ-04?,AZ,US House,182743.32,0.939086
+Kalshi,"Training, primary",KXAZSOSR-26,Who will win the 2026 Arizona Secretary of State Republican primary?,AZ,Other statewide,11342.26,0.944724
+Polymarket,"Training, primary",659974,Arizona Attorney General Republican Primary Winner,AZ,Other statewide,38745.21683300001,0.945082
+Polymarket,"Training, primary",674528,Arizona Superintendent of Public Instruction Republican Primary Winner,AZ,Other statewide,13432.683999000004,0.827658
+Kalshi,"Training, primary",KXANNARBORMAYORD-26,Who will win the 2026 Ann Arbor Democratic mayoral primary?,MI,Local,31948.300000000003,0.640777
+Kalshi,"Training, primary",KXKSPRIMARY-01D26,Will Lauren Reinhold be the Democratic nominee for KS-01?,KS,US House,19452.95,0.830097
+Kalshi,"Training, primary",KXMIPRIMARY-04D26,Will Sean McCann be the Democratic nominee for MI-04?,MI,US House,2912.12,0.95
+Kalshi,"Training, primary",KXMO01D-26,Will Wesley Bell be the Democratic nominee for MO-01?,MO,US House,1470663.8199999998,0.671717
+Kalshi,"Training, primary",KXMOPRIMARY-01R26,Will Paul Berry III be the Republican nominee for MO-01?,MO,US House,17126.940000000002,0.860697
+Kalshi,"Training, primary",KXMOPRIMARY-08D26,Will Frank A Barnitz be the Democratic nominee for MO-08?,MO,US House,12991.970000000001,0.856436
+Polymarket,"Training, primary",90400,MO-01 Democratic Primary Winner,MO,US House,634631.8352580002,0.671642
+Polymarket,"Training, primary",739933,TN-05 Republican Primary Winner,TN,US House,128696.916925,0.761194
+Kalshi,"Training, primary",KXMNPRIMARY-03R26,Will Tyler Bass be the Republican nominee for MN-03?,MN,US House,8248.029999999999,0.915
+Kalshi,"Training, primary",KXMNPRIMARY-04R26,Will Paul Xiong be the Republican nominee for MN-04?,MN,US House,8584.24,0.745
+Kalshi,"Training, primary",KXMNPRIMARY-05R26,Will John Nagel be the Republican nominee for MN-05?,MN,US House,40247.2,0.813131
+Kalshi,"Training, primary",KXWISOSNOMR-26,Who will win the 2026 Wisconsin Secretary of State Republican primary?,WI,Other statewide,17719.65,0.910448
+Polymarket,"Training, primary",707761,WI-03 Democratic Primary Winner,WI,US House,61715.43179100001,0.947475
+Polymarket,"Training, primary",726760,WI-06 Democratic Primary Winner,WI,US House,57079.961058999994,0.867625
+Kalshi,"Training, primary",KXFLPRIMARY-12D26,Will Kimberly Overman be the Democratic nominee for FL-12?,FL,US House,11624.57,0.893939
+Kalshi,"Training, primary",KXFLPRIMARY-17D26,Will Matthew Montavon be the Democratic nominee for FL-17?,FL,US House,15746.220000000001,0.738693
+Kalshi,"Training, primary",KXFLPRIMARY-21D26,Will James Martin be the Democratic nominee for FL-21?,FL,US House,56096.09,0.590909
+Kalshi,"Training, primary",KXSENATEWYD-26,Will James Byrd be the Democratic nominee for the Senate in Wyoming?,WY,US Senate,7991.530000000001,0.945
+Polymarket,"Training, general",730911,PA House of Representatives District 12 Special Election Winner,PA,State legislature,12515.983004999998,0.805
+Polymarket,"Training, primary",753268,FL-25 Democratic Primary Winner,FL,US House,107273.614506,0.945
+Polymarket,"Training, primary",753284,FL-21 Democratic Primary Winner,FL,US House,93022.300741,0.583756
+Kalshi,"Training, primary",KXINSCOMOKNOMR-26,Who will win the Oklahoma Republican runoff primary for Commissioner of Insurance?,OK,Other statewide,3368.21,0.831683
+Kalshi,"Training, primary",KXLABOROKNOMR-26,Who will win the Oklahoma Republican runoff primary for Commissioner of Labor?,OK,Other statewide,2494.54,0.768116
+Polymarket,"Training, primary",882611,Oklahoma Commissioner of Insurance Republican Primary Winner,OK,Other statewide,5932.002202999999,0.849246
+Polymarket,"Training, primary",882621,Oklahoma Superintendent of Public Instruction Republican Primary Winner,OK,Other statewide,10600.201357000002,0.910526
+Kalshi,"Training, primary",KXMAPRIMARY-08D26,Will Stephen Lynch be the Democratic nominee for MA-08?,MA,US House,601533.53,0.818627
+Polymarket,"Training, primary",758539,MA-01 Democratic Primary Winner,MA,US House,131831.86012,0.919741
+Kalshi,"Training, primary",KXRIPRIMARY-02R26,Will Victor Mellor be the Republican nominee for RI-02?,RI,US House,52027.69,0.722772
+Polymarket,"Training, primary",766140,"Providence, RI Democratic Mayoral Nominee",RI,Local,93879.384924,0.825871
+Polymarket,"Training, primary",886931,RI-02 Republican Primary Winner,RI,US House,35139.853548,0.708543
+Kalshi,"Training, primary",KXSENATEDER-26,Will Michael Katz be the Republican nominee for the Senate in Delaware?,DE,US Senate,128143.95000000001,0.865
+Polymarket,"Training, primary",227989,Delaware Republican Senate Primary Winner,DE,US Senate,82161.517941,0.859729
+Kalshi,Midterms 2026,GOVPARTYAL-26,Will the Republican party win the governorship in Alabama,AL,Governor,2295815.81,0.913673
+Kalshi,Midterms 2026,KXHOUSERACE-AL02-26,Will Republican win the House race for AL-02?,AL,US House,653848.06,0.530303
+Kalshi,Midterms 2026,KXHOUSERACE-AR02-26,Will Republican win the House race for AR-02?,AR,US House,424358.99,0.755
+Kalshi,Midterms 2026,GOVPARTYAZ-26,Will the Republican party win the governorship in Arizona,AZ,Governor,3235567.82,0.927327
+Kalshi,Midterms 2026,HOUSEAZ1-26,Will Republican win the House race for AZ-1?,AZ,US House,441724.02,0.79703
+Kalshi,Midterms 2026,HOUSEAZ2-26,Will Republican win the House race for AZ-2?,AZ,US House,1620804.1,0.547264
+Kalshi,Midterms 2026,HOUSEAZ6-26,Will Republican win the House race for AZ-6?,AZ,US House,119473.07999999999,0.918634
+Kalshi,Midterms 2026,KXATTYGENAZ-26,Will the Republican party win the Attorney General race in Arizona?,AZ,Other statewide,93120.66,0.890936
+Kalshi,Midterms 2026,KXAZMINEINSPECTOR-26NOV03,"Will Walter ""Les"" Presmyk win the 2026 Arizona State Mine Inspector election?",AZ,Other statewide,280.4,0.542714
+Kalshi,Midterms 2026,KXAZTREASRGEN-26NOV03,Will Nick Mansour win the 2026 Arizona State Treasurer general election?,AZ,Other statewide,15068.35,0.512563
+Kalshi,Midterms 2026,KXHOUSERACE-AZ05-26,Will Republican win the House race for AZ-05?,AZ,US House,343911.07,0.894472
+Kalshi,Midterms 2026,KXHOUSERACE-AZ08-26,Will Republican win the House race for AZ-08?,AZ,US House,140439.26,0.87
+Kalshi,Midterms 2026,KXSECSTATEAZ-26,Will the Republican party win the Secretary of State election in Arizona?,AZ,Other statewide,18570.04,0.941325
+Kalshi,Midterms 2026,HOUSECA13-26,Will Republican win the House race for CA-13?,CA,US House,113209.45999999999,0.9385
+Kalshi,Midterms 2026,HOUSECA22-26,Will Republican win the House race for CA-22?,CA,US House,334988.45,0.925574
+Kalshi,Midterms 2026,HOUSECA45-26,Will Republican win the House race for CA-45?,CA,US House,194132.83000000002,0.945865
+Kalshi,Midterms 2026,KXCA11PERSON-26,Who will win the CA-11 House election?,CA,US House,488580.2,0.805
+Kalshi,Midterms 2026,KXCAELECTION-2614,Who will win the 2026 CA-14 House election?,CA,US House,108910.73,0.934673
+Kalshi,Midterms 2026,KXCAELECTION-2634,Who will win the 2026 CA-34 House election?,CA,US House,87503.13,0.791045
+Kalshi,Midterms 2026,KXCAELECTION-2640,Who will win the 2026 CA-40 House election?,CA,US House,74642.26999999999,0.502463
+Kalshi,Midterms 2026,KXCAINSCOMGEN-26,Who will win the 2026 California Insurance Commissioner general election?,CA,Other statewide,13953.03,0.675
+Kalshi,Midterms 2026,KXCASUPT-26NOV03,Will Sonja Shaw win the 2026 California Superintendent of Public Instruction election?,CA,Other statewide,5624.29,0.827586
+Kalshi,Midterms 2026,KXHOUSERACE-CA05-26,Will Republican win the House race for CA-05?,CA,US House,29728.690000000002,0.9385
+Kalshi,Midterms 2026,HOUSECO3-26,Will Republican win the House race for CO-3?,CO,US House,693675.81,0.535
+Kalshi,Midterms 2026,HOUSECO8-26,Will Republican win the House race for CO-8?,CO,US House,116672.76,0.930569
+Kalshi,Midterms 2026,KXATTYGENCO-26,Will the Republican party win the Attorney General race in Colorado?,CO,Other statewide,91835.36,0.939777
+Kalshi,Midterms 2026,KXHOUSERACE-CO05-26,Will Republican win the House race for CO-05?,CO,US House,337493.41000000003,0.522388
+Kalshi,Midterms 2026,GOVPARTYFL-26,Will the Republican party win the governorship in Florida,FL,Governor,43983928.95,0.658416
+Kalshi,Midterms 2026,HOUSEFL13-26,Will Republican win the House race for FL-13?,FL,US House,387396.85,0.765
+Kalshi,Midterms 2026,KXATTYGENFL-26,Will the Republican party win the Attorney General race in Florida?,FL,Other statewide,161029.36000000002,0.756345
+Kalshi,Midterms 2026,KXFLCFO-26NOV03,Will Blaise Ingoglia win the 2026 Florida Chief Financial Officer election?,FL,Other statewide,1836.06,0.762376
+Kalshi,Midterms 2026,KXHOUSERACE-FL02-26,Will Republican win the House race for FL-02?,FL,US House,25808.510000000002,0.912675
+Kalshi,Midterms 2026,KXHOUSERACE-FL04-26,Will Republican win the House race for FL-04?,FL,US House,182312.58,0.8
+Kalshi,Midterms 2026,KXHOUSERACE-FL07-26,Will Republican win the House race for FL-07?,FL,US House,217546.08000000002,0.655
+Kalshi,Midterms 2026,KXHOUSERACE-FL08-26,Will Republican win the House race for FL-08?,FL,US House,14526.78,0.926647
+Kalshi,Midterms 2026,KXHOUSERACE-FL09-26,Will Republican win the House race for FL-09?,FL,US House,438297.49,0.643216
+Kalshi,Midterms 2026,KXHOUSERACE-FL11-26,Will Republican win the House race for FL-11?,FL,US House,101624.75,0.826733
+Kalshi,Midterms 2026,KXHOUSERACE-FL12-26,Will Republican win the House race for FL-12?,FL,US House,94856.42,0.815
+Kalshi,Midterms 2026,KXHOUSERACE-FL14-26,Will Republican win the House race for FL-14?,FL,US House,746801.3200000001,0.721393
+Kalshi,Midterms 2026,KXHOUSERACE-FL15-26,Will Republican win the House race for FL-15?,FL,US House,23573.15,0.933633
+Kalshi,Midterms 2026,KXHOUSERACE-FL16-26,Will Republican win the House race for FL-16?,FL,US House,56490.03,0.741294
+Kalshi,Midterms 2026,KXHOUSERACE-FL18-26,Will Republican win the House race for FL-18?,FL,US House,21425.65,0.921
+Kalshi,Midterms 2026,KXHOUSERACE-FL21-26,Will Republican win the House race for FL-21?,FL,US House,87347.62,0.890547
+Kalshi,Midterms 2026,KXHOUSERACE-FL22-26,Will Republican win the House race for FL-22?,FL,US House,330262.64,0.615
+Kalshi,Midterms 2026,KXHOUSERACE-FL25-26,Will Republican win the House race for FL-25?,FL,US House,1057145.6600000001,0.836634
+Kalshi,Midterms 2026,KXHOUSERACE-FL26-26,Will Republican win the House race for FL-26?,FL,US House,783797.06,0.855
+Kalshi,Midterms 2026,KXHOUSERACE-FL28-26,Will Republican win the House race for FL-28?,FL,US House,55704.67,0.929071
+Kalshi,Midterms 2026,SENATEFLS-26,Will Republicans win the Senate race in Florida?,FL,US Senate,11591259.83,0.875
+Kalshi,Midterms 2026,GOVPARTYIA-26,Will the Republican party win the governorship in Iowa,IA,Governor,5607678.29,0.865
+Kalshi,Midterms 2026,HOUSEIA3-26,Will Republican win the House race for IA-3?,IA,US House,286246.49,0.785
+Kalshi,Midterms 2026,KXATTYGENIA-26,Will the Republican party win the Attorney General race in Iowa?,IA,Other statewide,131212.75,0.67
+Kalshi,Midterms 2026,KXHOUSERACE-IA02-26,Will Republican win the House race for IA-02?,IA,US House,182721.63999999998,0.72
+Kalshi,Midterms 2026,KXIAAGSEC-26NOV03,Will Mike Naig win the 2026 Iowa Secretary of Agriculture election?,IA,Other statewide,5478.34,0.720588
+Kalshi,Midterms 2026,KXSECSTATEIA-26NOV03,Will Ryan Peterman win the 2026 Iowa Secretary of State election?,IA,Other statewide,11667.26,0.664948
+Kalshi,Midterms 2026,SENATEIA-26,Will Republicans win the Senate race in Iowa?,IA,US Senate,18575390.06,0.505
+Kalshi,Midterms 2026,KXHOUSERACE-IN05-26,Will Republican win the House race for IN-05?,IN,US House,1084815.7999999998,0.73
+Kalshi,Midterms 2026,KXSECSTATEIN-26,Indiana Secretary of State winner?,IN,Other statewide,145367.82,0.673267
+Kalshi,Midterms 2026,KXATTYGENKS-26,Will the Republican party win the Attorney General race in Kansas?,KS,Other statewide,62545.96000000001,0.577114
+Kalshi,Midterms 2026,KXHOUSERACE-KS02-26,Will Republican win the House race for KS-02?,KS,US House,143468.09999999998,0.785
+Kalshi,Midterms 2026,SENATEKS-26,Will Republicans win the Senate race in Kansas?,KS,US Senate,14680819.42,0.645
+Kalshi,Midterms 2026,KXHOUSERACE-KY06-26,Will Republican win the House race for KY-06?,KY,US House,729033.02,0.59901
+Kalshi,Midterms 2026,KXLEXMAYOR-26,"Who will win the 2026 Lexington, Kentucky mayoral election?",KY,Local,10944.9,0.769231
+Kalshi,Midterms 2026,KXHOUSERACE-MD01-26,Will Republican win the House race for MD-01?,MD,US House,195748.27,0.830846
+Kalshi,Midterms 2026,KXMDSD2-26,Who will win the 2026 Maryland State Senate District 2 general election?,MD,State legislature,25512.58,0.883838
+Kalshi,Midterms 2026,SENATEME-26,Will Republicans win the Senate race in Maine?,ME,US Senate,32230113.089999996,0.688119
+Kalshi,Midterms 2026,HOUSEMI10-26,Will Republican win the House race for MI-10?,MI,US House,166154.13,0.757426
+Kalshi,Midterms 2026,HOUSEMI4-26,Will Republican win the House race for MI-4?,MI,US House,440092.39,0.608911
+Kalshi,Midterms 2026,HOUSEMI7-26,Will Republican win the House race for MI-7?,MI,US House,547666.89,0.78607
+Kalshi,Midterms 2026,KXATTYGENMI-26,Will the Republican party win the Attorney General race in Michigan?,MI,Other statewide,58957.79,0.869347
+Kalshi,Midterms 2026,KXFLINTMAYOR-26,"Who will win the Flint, Michigan mayoral election?",MI,Local,4383.71,0.793103
+Kalshi,Midterms 2026,KXHOUSERACE-MI01-26,Will Republican win the House race for MI-01?,MI,US House,54827.369999999995,0.875
+Kalshi,Midterms 2026,KXSECSTATEMI-26,Michigan Secretary of State winner?,MI,Other statewide,18673.629999999997,0.939394
+Kalshi,Midterms 2026,SENATEMI-26,Will Republicans win the Senate race in Michigan?,MI,US Senate,81121868.46,0.755
+Kalshi,Midterms 2026,KXATTYGENMN-26,Will the Republican party win the Attorney General race in Minnesota?,MN,Other statewide,396322.62,0.80597
+Kalshi,Midterms 2026,KXHOUSERACE-MN06-26,Will Republican win the House race for MN-06?,MN,US House,42803.06,0.937594
+Kalshi,Midterms 2026,KXHOUSERACE-MN08-26,Will Republican win the House race for MN-08?,MN,US House,97570.95999999999,0.832512
+Kalshi,Midterms 2026,SENATEMN-26,Will Republicans win the Senate race in Minnesota?,MN,US Senate,16718120.74,0.9055
+Kalshi,Midterms 2026,KXHOUSERACE-MO02-26,Will Republican win the House race for MO-02?,MO,US House,531117.52,0.6
+Kalshi,Midterms 2026,KXMOSD30-26,Who will win the 2026 Missouri State Senate District 30 general election?,MO,State legislature,4838.26,0.583756
+Kalshi,Midterms 2026,KXMOSD8-26,Who will win the 2026 Missouri State Senate District 8 general election?,MO,State legislature,11186.0,0.619289
+Kalshi,Midterms 2026,HOUSEMT1-26,Will Republican win the House race for MT-1?,MT,US House,1502808.29,0.597015
+Kalshi,Midterms 2026,KXMTCOURT-26,Who will win the Supreme Court race in Montana?,MT,Courts,1882.64,0.761194
+Kalshi,Midterms 2026,HOUSENC1-26,Will Republican win the House race for NC-1?,NC,US House,886087.62,0.835
+Kalshi,Midterms 2026,KXHOUSENC11-26,Will Republican win the House race for NC-11?,NC,US House,872322.37,0.874372
+Kalshi,Midterms 2026,KXHOUSERACE-NC06-26,Will Republican win the House race for NC-06?,NC,US House,61490.47,0.855721
+Kalshi,Midterms 2026,KXHOUSERACE-NC08-26,Will Republican win the House race for NC-08?,NC,US House,256424.90999999997,0.895
+Kalshi,Midterms 2026,KXHOUSERACE-NC09-26,Will Republican win the House race for NC-09?,NC,US House,889971.59,0.645
+Kalshi,Midterms 2026,KXHOUSERACE-NC13-26,Will Republican win the House race for NC-13?,NC,US House,958864.06,0.595
+Kalshi,Midterms 2026,KXHOUSERACE-NC14-26,Will Republican win the House race for NC-14?,NC,US House,503570.45,0.775
+Kalshi,Midterms 2026,GOVPARTYNE-26,Will the Republican party win the governorship in Nebraska,NE,Governor,814579.44,0.885
+Kalshi,Midterms 2026,HOUSENE2-26,Will Republican win the House race for NE-2?,NE,US House,195849.11000000002,0.9405
+Kalshi,Midterms 2026,GOVPARTYNH-28,Will the Republican party win the governorship in New Hampshire,NH,Governor,1040711.4199999999,0.855
+Kalshi,Midterms 2026,HOUSENH1-26,Will a Republican win the House race for NH-1?,NH,US House,77413.0,0.949
+Kalshi,Midterms 2026,SENATENH-26,Will Republicans win the Senate race in New Hampshire?,NH,US Senate,4272179.23,0.933765
+Kalshi,Midterms 2026,KXHOUSERACE-NJ02-26,Will Republican win the House race for NJ-02?,NJ,US House,1085014.32,0.530303
+Kalshi,Midterms 2026,HOUSENM2-26,Will Republican win the House race for NM-2?,NM,US House,91128.37,0.9225
+Kalshi,Midterms 2026,GOVPARTYNV-26,Will the Republican party win the governorship in Nevada,NV,Governor,6656317.91,0.825
+Kalshi,Midterms 2026,HOUSENV3-26,Will Republican win the House race for NV-3?,NV,US House,35632.58,0.9455
+Kalshi,Midterms 2026,KXATTYGENNV-26,Will the Republican party win the Attorney General race in Nevada?,NV,Other statewide,31110.660000000003,0.948267
+Kalshi,Midterms 2026,KXHENDERSONMAYOR-26,"Who will win the 2026 Henderson, Nevada mayoral election?",NV,Local,2958.17,0.862245
+Kalshi,Midterms 2026,KXHOUSERACE-NV02-26,Will Republican win the House race for NV-02?,NV,US House,1590499.5999999999,0.512438
+Kalshi,Midterms 2026,KXNVCONTROLLER-26NOV03,Will Michael MacDougall win the 2026 Nevada State Controller election?,NV,Other statewide,19468.24,0.661616
+Kalshi,Midterms 2026,KXNVTREASR-26NOV03,Will Tya Mathis-Coleman win the 2026 Nevada State Treasurer election?,NV,Other statewide,1155.3899999999999,0.773869
+Kalshi,Midterms 2026,KXSECSTATENV-26,Will the Republican party win the Secretary of State election in Nevada?,NV,Other statewide,7559.35,0.945143
+Kalshi,Midterms 2026,HOUSENY17-26,Will Republican win the House race for NY-17?,NY,US House,4877431.21,0.505
+Kalshi,Midterms 2026,HOUSENY3-26,Will a Republican win the House race for NY-3?,NY,US House,370639.27,0.933433
+Kalshi,Midterms 2026,HOUSENY4-26,Will Republican win the House race for NY-4?,NY,US House,243873.85,0.94813
+Kalshi,Midterms 2026,KXHOUSERACE-NY01-26,Will Republican win the House race for NY-01?,NY,US House,768028.03,0.806931
+Kalshi,Midterms 2026,KXHOUSERACE-NY02-26,Will Republican win the House race for NY-02?,NY,US House,399070.59,0.825
+Kalshi,Midterms 2026,KXHOUSERACE-NY11-26,Will Republican win the House race for NY-11?,NY,US House,56850.43000000001,0.929106
+Kalshi,Midterms 2026,KXHOUSERACE-NY21-26,Will Republican win the House race for NY-21?,NY,US House,599304.86,0.70297
+Kalshi,Midterms 2026,GOVPARTYOH-26,Will the Republican party win the governorship in Ohio,OH,Governor,17653287.59,0.805
+Kalshi,Midterms 2026,HOUSEOH1-26,Will a Republican win the House race for OH-1?,OH,US House,213119.56,0.945663
+Kalshi,Midterms 2026,HOUSEOH9-26,Will Republican win the House race for OH-9?,OH,US House,440154.83999999997,0.835
+Kalshi,Midterms 2026,KXHOUSERACE-OH07-26,Will Republican win the House race for OH-07?,OH,US House,481731.61,0.846535
+Kalshi,Midterms 2026,KXHOUSERACE-OH08-26,Will Republican win the House race for OH-08?,OH,US House,4267.23,0.938031
+Kalshi,Midterms 2026,KXHOUSERACE-OH10-26,Will Republican win the House race for OH-10?,OH,US House,538542.8,0.695
+Kalshi,Midterms 2026,KXHOUSERACE-OH15-26,Will Republican win the House race for OH-15?,OH,US House,242678.86,0.594059
+Kalshi,Midterms 2026,KXOHAUDITOR-26NOV03,Will Frank LaRose win the 2026 Ohio State Auditor election?,OH,Other statewide,11562.82,0.71
+Kalshi,Midterms 2026,KXOHBRUNNER-26,"Who will win the 2026 Ohio Supreme Court election for the full term commencing January 2, 2027?",OH,Courts,1158.27,0.585859
+Kalshi,Midterms 2026,KXOHHAWKINS-26,"Who will win the 2026 Ohio Supreme Court election for the full term commencing January 1, 2027?",OH,Courts,3284.19,0.735
+Kalshi,Midterms 2026,KXOHTREASR-26NOV03,Will Seth Walsh win the 2026 Ohio Treasurer of State election?,OH,Other statewide,4865.1,0.551724
+Kalshi,Midterms 2026,KXSECSTATEOH-26,Will the Republican party win the Secretary of State election in Ohio?,OH,Other statewide,16808.16,0.534653
+Kalshi,Midterms 2026,SENATEOHS-26,Will Democratics win the Senate race in Ohio?,OH,US Senate,18356107.59,0.710784
+Kalshi,Midterms 2026,GOVPARTYOK-26,Will the Republican party win the governorship in Oklahoma,OK,Governor,1303310.88,0.904357
+Kalshi,Midterms 2026,KXATTYGENOK-26,Will the Republican party win the Attorney General race in Oklahoma?,OK,Other statewide,37589.630000000005,0.944721
+Kalshi,Midterms 2026,KXHOUSERACE-OK01-26,Will Republican win the House race for OK-01?,OK,US House,23540.79,0.926353
+Kalshi,Midterms 2026,KXHOUSERACE-OK05-26,Will Republican win the House race for OK-05?,OK,US House,417296.44000000006,0.865672
+Kalshi,Midterms 2026,KXLTGOVOK-26,Will the Republican party win the Lt. Gov race in Oklahoma?,OK,Other statewide,1624.62,0.894472
+Kalshi,Midterms 2026,GOVPARTYOR-26,Will the Republican party win the governorship in Oregon,OR,Governor,2347029.36,0.835
+Kalshi,Midterms 2026,HOUSEPA1-26,Will Republican win the House race for PA-1?,PA,US House,729772.62,0.705
+Kalshi,Midterms 2026,HOUSEPA10-26,Will Republican win the House race for PA-10?,PA,US House,96607.89,0.840796
+Kalshi,Midterms 2026,HOUSEPA7-26,Will Republican win the House race for PA-7?,PA,US House,439805.42000000004,0.895
+Kalshi,Midterms 2026,HOUSEPA8-26,Will Republican win the House race for PA-8?,PA,US House,551487.94,0.875
+Kalshi,Midterms 2026,KXLTGOVRI-26,Will the Republican party win the Lt. Gov race in Rhode Island?,RI,Other statewide,14370.89,0.745
+Kalshi,Midterms 2026,GOVPARTYSC-26,Will the Republican party win the governorship in South Carolina,SC,Governor,702389.92,0.927572
+Kalshi,Midterms 2026,KXATTYGENSC-26,Will the Republican party win the Attorney General race in South Carolina?,SC,Other statewide,20462.16,0.9465
+Kalshi,Midterms 2026,KXHOUSERACE-SC01-26,Will Republican win the House race for SC-01?,SC,US House,560375.28,0.525
+Kalshi,Midterms 2026,SENATESC-26,Will Republicans win the Senate race in South Carolina?,SC,US Senate,22039423.56,0.70202
+Kalshi,Midterms 2026,KXHOUSERACE-TN05-26,Will Republican win the House race for TN-05?,TN,US House,89759.45,0.885572
+Kalshi,Midterms 2026,KXHOUSERACE-TN07-26,Will Republican win the House race for TN-07?,TN,US House,39417.24,0.937531
+Kalshi,Midterms 2026,KXHOUSERACE-TN09-26,Will Republican win the House race for TN-09?,TN,US House,999160.05,0.791045
+Kalshi,Midterms 2026,GOVPARTYTX-26,Will the Republican party win the governorship in Texas,TX,Governor,105870459.36,0.638614
+Kalshi,Midterms 2026,HOUSETX15-26,Will Republican win the House race for TX-15?,TX,US House,4619739.59,0.885
+Kalshi,Midterms 2026,HOUSETX28-26,Will Republican win the House race for TX-28?,TX,US House,385991.99,0.930361
+Kalshi,Midterms 2026,HOUSETX34-26,Will Republican win the House race for TX-34?,TX,US House,205397.38,0.907407
+Kalshi,Midterms 2026,KXATTYGENTX-26,Will the Republican party win the Attorney General race in Texas?,TX,Other statewide,302605.23,0.696517
+Kalshi,Midterms 2026,KXHOUSERACE-TX02-26,Will Republican win the House race for TX-02?,TX,US House,22341.61,0.9385
+Kalshi,Midterms 2026,KXHOUSERACE-TX03-26,Will Republican win the House race for TX-03?,TX,US House,33766.52,0.9335
+Kalshi,Midterms 2026,KXHOUSERACE-TX10-26,Will Republican win the House race for TX-10?,TX,US House,19576.42,0.934033
+Kalshi,Midterms 2026,KXHOUSERACE-TX22-26,Will Republican win the House race for TX-22?,TX,US House,10160.43,0.946
+Kalshi,Midterms 2026,KXHOUSERACE-TX23-26,Will Republican win the House race for TX-23?,TX,US House,3598280.9,0.615
+Kalshi,Midterms 2026,KXHOUSERACE-TX24-26,Will Republican win the House race for TX-24?,TX,US House,54459.32,0.9425
+Kalshi,Midterms 2026,KXHOUSERACE-TX25-26,Will Republican win the House race for TX-25?,TX,US House,88885.32,0.9475
+Kalshi,Midterms 2026,KXHOUSERACE-TX31-26,Will Republican win the House race for TX-31?,TX,US House,40715.01,0.918581
+Kalshi,Midterms 2026,KXHOUSETX32-26,Will Republican win the House race for TX-32?,TX,US House,102116.81,0.855
+Kalshi,Midterms 2026,KXHOUSETX35-26,Will Republican win the House race for TX-35?,TX,US House,453753.77,0.74
+Kalshi,Midterms 2026,KXHOUSETX9-26,Will Republican win the House race for TX-09?,TX,US House,222209.39,0.755
+Kalshi,Midterms 2026,KXLTGOVTX-26,Will the Republican party win the Lieutenant Governor race in Texas?,TX,Other statewide,220664.41,0.701493
+Kalshi,Midterms 2026,KXTXAGCOM-26,Who will win the 2026 Texas Commissioner of Agriculture election?,TX,Other statewide,26808.809999999998,0.648515
+Kalshi,Midterms 2026,KXTXCOMPTROLLER-26,Who will win the 2026 Texas Comptroller of Public Accounts election?,TX,Other statewide,14566.97,0.820896
+Kalshi,Midterms 2026,KXTXGLO-26,Who will win the 2026 Texas Commissioner of General Land Office election?,TX,Other statewide,2334.62,0.636364
+Kalshi,Midterms 2026,KXTXRAILROAD-26,Who will win the 2026 Texas Railroad Commissioner Election?,TX,Other statewide,402322.3,0.585
+Kalshi,Midterms 2026,KXTXSUPREME2-26NOV03,"Will James P. Sullivan win the 2026 Texas Supreme Court Justice, Place 2 (unexpired term) election?",TX,Courts,1666.91,0.82266
+Kalshi,Midterms 2026,KXTXSUPREME7-26NOV03,"Will Kyle Hawkins win the 2026 Texas Supreme Court Justice, Place 7 election?",TX,Courts,410.86,0.761194
+Kalshi,Midterms 2026,KXTXSUPREME8-26NOV03,"Will Gisela D. Triana win the 2026 Texas Supreme Court Justice, Place 8 election?",TX,Courts,2836.09,0.837438
+Kalshi,Midterms 2026,KXTXSUPREMECHIEF-26NOV03,Will Maggie Ellis win the 2026 Texas Supreme Court Chief Justice election?,TX,Courts,1372.88,0.823834
+Kalshi,Midterms 2026,SENATETX-26,Will Democratics win the Senate race in Texas?,TX,US Senate,187268761.93,0.737624
+Kalshi,Midterms 2026,KXHOUSEUT02-26,Will Republican win the House race for UT-02?,UT,US House,26840.66,0.9445
+Kalshi,Midterms 2026,HOUSEVA1-26,Will Republican win the House race for VA-1?,VA,US House,953451.8600000001,0.745
+Kalshi,Midterms 2026,HOUSEVA2-26,Will Republican win the House race for VA-2?,VA,US House,591556.36,0.942615
+Kalshi,Midterms 2026,KXHOUSERACE-VA05-26,Will Republican win the House race for VA-05?,VA,US House,2217893.02,0.635
+Kalshi,Midterms 2026,KXHOUSERACE-VA06-26,Will Republican win the House race for VA-06?,VA,US House,254880.51,0.9395
+Kalshi,Midterms 2026,GOVPARTYVT-26,Will the Republican party win the governorship in Vermont,VT,Governor,1845321.85,0.665
+Kalshi,Midterms 2026,HOUSEWA3-26,Will Republican win the House race for WA-3?,WA,US House,390782.77,0.895
+Kalshi,Midterms 2026,KXHOUSERACE-WA04-26,Will Republican win the House race for WA-04?,WA,US House,60871.31,0.931534
+Kalshi,Midterms 2026,KXHOUSERACE-WA05-26,Will Republican win the House race for WA-05?,WA,US House,603457.8500000001,0.77
+Kalshi,Midterms 2026,KXWASUPREME3-26NOV03,Will Jaime Michelle Hawk win the 2026 Washington Supreme Court Justice Position 3 election?,WA,Courts,6.0,0.771574
+Kalshi,Midterms 2026,GOVPARTYWI-26,Will the Republican party win the governorship in Wisconsin,WI,Governor,2930471.81,0.846535
+Kalshi,Midterms 2026,HOUSEWI1-26,Will Republican win the House race for WI-1?,WI,US House,232496.59999999998,0.519802
+Kalshi,Midterms 2026,HOUSEWI3-26,Will a Republican win the House race for WI-3?,WI,US House,351124.45,0.876238
+Kalshi,Midterms 2026,KXATTYGENWI-26,Will the Republican party win the Attorney General race in Wisconsin?,WI,Other statewide,37291.86,0.832487
+Kalshi,Midterms 2026,KXHOUSERACE-WI06-26,Will Republican win the House race for WI-06?,WI,US House,62675.14,0.935065
+Kalshi,Midterms 2026,KXHOUSERACE-WI07-26,Will Republican win the House race for WI-07?,WI,US House,28795.16,0.93
+Kalshi,Midterms 2026,KXHOUSERACE-WI08-26,Will Republican win the House race for WI-08?,WI,US House,41631.85,0.885
+Kalshi,Midterms 2026,KXSECSTATEWI-26,Will the Republican party win the Secretary of State election in Wisconsin?,WI,Other statewide,7223.4400000000005,0.882676
+Kalshi,Midterms 2026,KXWITREASURER-26NOV03,Will Yee Leng Xiong win the 2026 Wisconsin State Treasurer election?,WI,Other statewide,7753.65,0.826733
+Polymarket,Midterms 2026,190872,AL-02 House Election Winner,AL,US House,339966.206927,0.560606
+Polymarket,Midterms 2026,57154,Alabama Governor Election Winner,AL,Governor,105433.007748,0.916126
+Polymarket,Midterms 2026,190879,AR-02 House Election Winner,AR,US House,188200.02967,0.725
+Polymarket,Midterms 2026,106050,AZ-01 House Election Winner,AZ,US House,321033.71566999995,0.787129
+Polymarket,Midterms 2026,106055,AZ-02 House Election Winner,AZ,US House,369621.6466969999,0.542714
+Polymarket,Midterms 2026,106056,AZ-06 House Election Winner,AZ,US House,52985.979204,0.915423
+Polymarket,Midterms 2026,190888,AZ-05 House Election Winner,AZ,US House,98513.956542,0.890547
+Polymarket,Midterms 2026,190890,AZ-08 House Election Winner,AZ,US House,42137.970478999996,0.865672
+Polymarket,Midterms 2026,57141,Arizona Governor Election Winner,AZ,Governor,916981.234643,0.94
+Polymarket,Midterms 2026,965432,Arizona Attorney General Election Winner,AZ,Other statewide,21963.362555,0.925
+Polymarket,Midterms 2026,106057,CA-13 House Election Winner,CA,US House,75075.24466,0.944779
+Polymarket,Midterms 2026,190896,CA-05 House Election Winner,CA,US House,41294.584951,0.938284
+Polymarket,Midterms 2026,191380,CA-45 House Election Winner,CA,US House,58227.528385,0.945
+Polymarket,Midterms 2026,686285,CA-11 House Election Winner (Individual),CA,US House,30642.139279000003,0.813131
+Polymarket,Midterms 2026,686301,CA-14 House Election Winner (Individual),CA,US House,42723.180934,0.936556
+Polymarket,Midterms 2026,686319,CA-34 House Election Winner (Individual),CA,US House,42727.949903,0.785
+Polymarket,Midterms 2026,686321,CA-40 House Election Winner (Individual),CA,US House,26956.791035,0.502564
+Polymarket,Midterms 2026,90270,CA-22 House Election Winner,CA,US House,81336.285645,0.925373
+Polymarket,Midterms 2026,106058,CO-03 House Election Winner,CO,US House,209791.52116700003,0.532338
+Polymarket,Midterms 2026,106059,CO-08 House Election Winner,CO,US House,53040.89051,0.94
+Polymarket,Midterms 2026,191391,CO-05 House Election Winner,CO,US House,84661.22885599999,0.540404
+Polymarket,Midterms 2026,106073,FL-13 House Election Winner,FL,US House,171154.454373,0.741294
+Polymarket,Midterms 2026,191400,FL-02 House Election Winner,FL,US House,31009.950093,0.92
+Polymarket,Midterms 2026,191402,FL-04 House Election Winner,FL,US House,67312.677775,0.798995
+Polymarket,Midterms 2026,191406,FL-08 House Election Winner,FL,US House,69418.45890299999,0.936309
+Polymarket,Midterms 2026,191409,FL-11 House Election Winner,FL,US House,58651.95830299999,0.837563
+Polymarket,Midterms 2026,191410,FL-12 House Election Winner,FL,US House,114368.05188799999,0.809045
+Polymarket,Midterms 2026,191411,FL-14 House Election Winner,FL,US House,191087.881772,0.748744
+Polymarket,Midterms 2026,191412,FL-15 House Election Winner,FL,US House,44010.150385999994,0.949746
+Polymarket,Midterms 2026,191413,FL-16 House Election Winner,FL,US House,42199.652777,0.756345
+Polymarket,Midterms 2026,191415,FL-18 House Election Winner,FL,US House,79672.493102,0.920792
+Polymarket,Midterms 2026,191418,FL-21 House Election Winner,FL,US House,54685.76771799999,0.887663
+Polymarket,Midterms 2026,191419,FL-22 House Election Winner,FL,US House,176063.618014,0.633663
+Polymarket,Midterms 2026,191421,FL-25 House Election Winner,FL,US House,171124.60297699997,0.84
+Polymarket,Midterms 2026,191422,FL-26 House Election Winner,FL,US House,184160.099217,0.855
+Polymarket,Midterms 2026,191424,FL-28 House Election Winner,FL,US House,80282.680941,0.935
+Polymarket,Midterms 2026,57160,Florida Governor Election Winner,FL,Governor,6548018.9980689995,0.658416
+Polymarket,Midterms 2026,57681,Florida Senate Election Winner,FL,US Senate,2045736.3501539996,0.875
+Polymarket,Midterms 2026,965434,Florida Attorney General Election Winner,FL,Other statewide,19986.664131999998,0.783505
+Polymarket,Midterms 2026,106077,IA-01 House Election Winner,IA,US House,109196.28902400001,0.925373
+Polymarket,Midterms 2026,106082,IA-03 House Election Winner,IA,US House,38997.929243000006,0.787879
+Polymarket,Midterms 2026,191441,IA-02 House Election Winner,IA,US House,90968.22516,0.717172
+Polymarket,Midterms 2026,57169,Iowa Governor Election Winner,IA,Governor,633009.854196,0.883838
+Polymarket,Midterms 2026,57647,Iowa Senate Election Winner,IA,US Senate,3507554.2079640003,0.507463
+Polymarket,Midterms 2026,965481,Iowa Attorney General Election Winner,IA,Other statewide,13863.763985000001,0.66
+Polymarket,Midterms 2026,191464,IN-05 House Election Winner,IN,US House,211198.847247,0.743719
+Polymarket,Midterms 2026,965527,Indiana Secretary of State Election Winner,IN,Other statewide,20903.884716,0.68
+Polymarket,Midterms 2026,191470,KS-02 House Election Winner,KS,US House,96939.07726199998,0.77
+Polymarket,Midterms 2026,57648,Kansas Senate Election Winner,KS,US Senate,3489162.788644,0.638614
+Polymarket,Midterms 2026,965482,Kansas Attorney General Election Winner,KS,Other statewide,15352.105394000002,0.59
+Polymarket,Midterms 2026,191478,KY-06 House Election Winner,KY,US House,221487.258028,0.60804
+Polymarket,Midterms 2026,191494,MD-01 House Election Winner,MD,US House,115604.376299,0.844221
+Polymarket,Midterms 2026,57650,Maine Senate Election Winner,ME,US Senate,6196296.241146,0.712121
+Polymarket,Midterms 2026,106097,MI-04 House Election Winner,MI,US House,113024.583094,0.595
+Polymarket,Midterms 2026,106102,MI-07 House Election Winner,MI,US House,108277.91417,0.78607
+Polymarket,Midterms 2026,106106,MI-10 House Election Winner,MI,US House,57714.728144,0.755
+Polymarket,Midterms 2026,191503,MI-01 House Election Winner,MI,US House,47381.16265700001,0.880159
+Polymarket,Midterms 2026,57658,Michigan Senate Election Winner,MI,US Senate,13717911.269516999,0.765
+Polymarket,Midterms 2026,965528,Michigan Secretary of State Election Winner,MI,Other statewide,8163.790529,0.934673
+Polymarket,Midterms 2026,191517,MN-08 House Election Winner,MN,US House,35149.461215,0.84
+Polymarket,Midterms 2026,57659,Minnesota Senate Election Winner,MN,US Senate,1800168.2115950002,0.915
+Polymarket,Midterms 2026,965484,Minnesota Attorney General Election Winner,MN,Other statewide,42572.574012,0.820896
+Polymarket,Midterms 2026,191519,MO-02 House Election Winner,MO,US House,267436.55935799994,0.588832
+Polymarket,Midterms 2026,106114,MT-01 House Election Winner,MT,US House,202306.006977,0.595
+Polymarket,Midterms 2026,106174,NC-01 House Election Winner,NC,US House,112214.564631,0.844221
+Polymarket,Midterms 2026,106177,NC-11 House Election Winner,NC,US House,376628.91218100005,0.874372
+Polymarket,Midterms 2026,191534,NC-06 House Election Winner,NC,US House,105308.24089700001,0.869347
+Polymarket,Midterms 2026,191536,NC-08 House Election Winner,NC,US House,69746.604289,0.895161
+Polymarket,Midterms 2026,191537,NC-09 House Election Winner,NC,US House,505651.96784100006,0.648241
+Polymarket,Midterms 2026,191540,NC-13 House Election Winner,NC,US House,899264.919314,0.595
+Polymarket,Midterms 2026,191541,NC-14 House Election Winner,NC,US House,85837.639477,0.795
+Polymarket,Midterms 2026,106115,NE-02 House Election Winner,NE,US House,72517.227028,0.927681
+Polymarket,Midterms 2026,191543,NE-01 House Election Winner,NE,US House,78197.2343,0.782828
+Polymarket,Midterms 2026,57178,Nebraska Governor Election Winner,NE,Governor,112255.681993,0.885
+Polymarket,Midterms 2026,57182,New Hampshire Governor Election Winner,NH,Governor,205224.29039500002,0.859148
+Polymarket,Midterms 2026,57661,New Hampshire Senate Election Winner,NH,US Senate,1149588.199592,0.945274
+Polymarket,Midterms 2026,191546,NJ-02 House Election Winner,NJ,US House,385035.112173,0.549505
+Polymarket,Midterms 2026,106137,NM-02 House Election Winner,NM,US House,96073.794443,0.926854
+Polymarket,Midterms 2026,106117,NV-03 House Election Winner,NV,US House,13729.755193,0.947631
+Polymarket,Midterms 2026,191556,NV-02 House Election Winner,NV,US House,312380.68295,0.54
+Polymarket,Midterms 2026,57181,Nevada Governor Election Winner,NV,Governor,1877823.841722,0.825
+Polymarket,Midterms 2026,965537,Nevada Secretary of State Election Winner,NV,Other statewide,2806.7280499999997,0.934673
+Polymarket,Midterms 2026,106138,NY-03 House Election Winner,NY,US House,61756.432800999995,0.920398
+Polymarket,Midterms 2026,106169,NY-04 House Election Winner,NY,US House,31078.092535,0.946215
+Polymarket,Midterms 2026,106170,NY-17 House Election Winner,NY,US House,338406.08415400004,0.507463
+Polymarket,Midterms 2026,191557,NY-01 House Election Winner,NY,US House,179168.08198100002,0.81
+Polymarket,Midterms 2026,191558,NY-02 House Election Winner,NY,US House,43703.169623,0.83
+Polymarket,Midterms 2026,191565,NY-11 House Election Winner,NY,US House,54699.577452000005,0.94003
+Polymarket,Midterms 2026,191572,NY-21 House Election Winner,NY,US House,168102.70619700002,0.720812
+Polymarket,Midterms 2026,965494,New York Attorney General Election Winner,NY,Other statewide,145128.14665799998,0.936191
+Polymarket,Midterms 2026,106183,OH-09 House Election Winner,OH,US House,83138.96800500002,0.825871
+Polymarket,Midterms 2026,191582,OH-07 House Election Winner,OH,US House,169865.42930500003,0.865672
+Polymarket,Midterms 2026,191583,OH-08 House Election Winner,OH,US House,26844.999424999995,0.94053
+Polymarket,Midterms 2026,191584,OH-10 House Election Winner,OH,US House,138557.787157,0.725
+Polymarket,Midterms 2026,191588,OH-15 House Election Winner,OH,US House,74082.220232,0.59596
+Polymarket,Midterms 2026,57185,Ohio Governor Election Winner,OH,Governor,2893008.827482,0.815
+Polymarket,Midterms 2026,57682,Ohio Senate Election Winner,OH,US Senate,4072049.189716,0.725
+Polymarket,Midterms 2026,965538,Ohio Secretary of State Election Winner,OH,Other statewide,14594.396132,0.529703
+Polymarket,Midterms 2026,191589,OK-01 House Election Winner,OK,US House,50353.659742,0.931328
+Polymarket,Midterms 2026,191597,OK-05 House Election Winner,OK,US House,146938.136687,0.865672
+Polymarket,Midterms 2026,57186,Oklahoma Governor Election Winner,OK,Governor,259664.835769,0.905
+Polymarket,Midterms 2026,57187,Oregon Governor Election Winner,OR,Governor,377184.900487,0.846535
+Polymarket,Midterms 2026,106186,PA-01 House Election Winner,PA,US House,190148.115568,0.693069
+Polymarket,Midterms 2026,106187,PA-07 House Election Winner,PA,US House,56227.550792,0.905
+Polymarket,Midterms 2026,106211,PA-08 House Election Winner,PA,US House,80804.636,0.875
+Polymarket,Midterms 2026,106216,PA-10 House Election Winner,PA,US House,40748.119261,0.852792
+Polymarket,Midterms 2026,191617,SC-01 House Election Winner,SC,US House,242175.04442,0.509901
+Polymarket,Midterms 2026,57208,South Carolina Governor Election Winner,SC,Governor,137204.32881099998,0.930105
+Polymarket,Midterms 2026,57669,South Carolina Senate Election Winner,SC,US Senate,4042803.0255739996,0.695
+Polymarket,Midterms 2026,191629,TN-05 House Election Winner,TN,US House,91369.81233,0.897177
+Polymarket,Midterms 2026,191631,TN-07 House Election Winner,TN,US House,60808.595195,0.939229
+Polymarket,Midterms 2026,191633,TN-09 House Election Winner,TN,US House,182292.048216,0.775
+Polymarket,Midterms 2026,57210,Tennessee Governor Election Winner,TN,Governor,221959.02653799998,0.932392
+Polymarket,Midterms 2026,1023494,Texas Railroad Commissioner Election Winner,TX,Other statewide,79090.673443,0.597015
+Polymarket,Midterms 2026,106218,TX-09 House Election Winner,TX,US House,102033.98091400001,0.735
+Polymarket,Midterms 2026,106219,TX-15 House Election Winner,TX,US House,183508.44552099996,0.885572
+Polymarket,Midterms 2026,106221,TX-28 House Election Winner,TX,US House,28383.848049999997,0.925373
+Polymarket,Midterms 2026,106222,TX-32 House Election Winner,TX,US House,78254.72879800001,0.863454
+Polymarket,Midterms 2026,106223,TX-34 House Election Winner,TX,US House,37981.244196,0.909548
+Polymarket,Midterms 2026,106228,TX-35 House Election Winner,TX,US House,134073.63774099998,0.72
+Polymarket,Midterms 2026,191635,TX-02 House Election Winner,TX,US House,41279.257021,0.939698
+Polymarket,Midterms 2026,191636,TX-03 House Election Winner,TX,US House,70264.37825,0.943854
+Polymarket,Midterms 2026,191642,TX-10 House Election Winner,TX,US House,43399.60001499999,0.934673
+Polymarket,Midterms 2026,191653,TX-23 House Election Winner,TX,US House,429702.57465100003,0.623762
+Polymarket,Midterms 2026,191660,TX-31 House Election Winner,TX,US House,79011.247454,0.93
+Polymarket,Midterms 2026,57222,Texas Governor Election Winner,TX,Governor,7412944.058689,0.616343
+Polymarket,Midterms 2026,57672,Texas Senate Election Winner,TX,US Senate,21815907.789472,0.765
+Polymarket,Midterms 2026,965507,Texas Attorney General Election Winner,TX,Other statewide,15498.276205999999,0.671717
+Polymarket,Midterms 2026,965554,Texas Lieutenant Governor Election Winner,TX,Other statewide,48007.615527,0.71066
+Polymarket,Midterms 2026,106232,VA-01 House Election Winner,VA,US House,231361.851197,0.748744
+Polymarket,Midterms 2026,106233,VA-02 House Election Winner,VA,US House,76467.41666500001,0.945
+Polymarket,Midterms 2026,191668,VA-05 House Election Winner,VA,US House,485434.606109,0.605911
+Polymarket,Midterms 2026,191669,VA-06 House Election Winner,VA,US House,167257.531525,0.946626
+Polymarket,Midterms 2026,57225,Vermont Governor Election Winner,VT,Governor,475333.59183099994,0.667336
+Polymarket,Midterms 2026,106236,WA-03 House Election Winner,WA,US House,82907.743873,0.890547
+Polymarket,Midterms 2026,191676,WA-04 House Election Winner,WA,US House,71799.833823,0.925373
+Polymarket,Midterms 2026,191677,WA-05 House Election Winner,WA,US House,170809.04644600002,0.77381
+Polymarket,Midterms 2026,106242,WI-01 House Election Winner,WI,US House,38735.944642,0.52
+Polymarket,Midterms 2026,106243,WI-03 House Election Winner,WI,US House,37076.750465,0.881188
+Polymarket,Midterms 2026,191685,WI-06 House Election Winner,WI,US House,53590.530708000006,0.936556
+Polymarket,Midterms 2026,191686,WI-07 House Election Winner,WI,US House,83878.427723,0.929886
+Polymarket,Midterms 2026,191687,WI-08 House Election Winner,WI,US House,37926.130705999996,0.89
+Polymarket,Midterms 2026,57226,Wisconsin Governor Election Winner,WI,Governor,1172140.4727809997,0.866337
+Polymarket,Midterms 2026,965508,Wisconsin Attorney General Election Winner,WI,Other statewide,7772.876942000001,0.834171
+Polymarket,Midterms 2026,965552,Wisconsin Secretary of State Election Winner,WI,Other statewide,7645.116412,0.882653

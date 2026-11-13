@@ -1,0 +1,3 @@
+platform,contests,states,b,low,high,level,baseline_b,change,reading
+Kalshi,187,36,1.3192848665016856,0.8755132135810529,2.352801218991367,no detectable miscalibration,1.9716200931017527,consistent with 2024,Inconclusive.
+Polymarket,145,34,1.6641908543719,1.210941827509348,2.9126711975397055,underconfident,1.8277906803393624,consistent with 2024,Underconfidence persists in general elections: supports 'primaries are traded differently'.

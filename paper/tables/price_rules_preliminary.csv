@@ -1,0 +1,10 @@
+,Training,Training,Midterms,Midterms
+,Kalshi,Polymarket,Kalshi,Polymarket
+reason,,,,
+drop: favourite above 95% (scaled),183,91,350,298
+kept,152,64,197,152
+drop: neither candidate traded in the 24 hours before the snapshot,0,8,0,48
+drop: another candidate priced above 5%,0,10,0,1
+drop: no quote within 10 cents and no trade in the hour before the snapshot,7,0,1,0
+drop: prices of all options add up to more than 10 cents away from 1,1,5,0,0
+drop: market opened after the snapshot,1,1,0,0

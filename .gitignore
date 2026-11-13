@@ -1,5 +1,6 @@
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+dashboard-engine/
 # Raw pulls are larger than GitHub allows; they are archived with the release (hashes in README.md)
 pull/data/

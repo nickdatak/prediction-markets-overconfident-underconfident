@@ -1,0 +1,145 @@
+\section{Method and the pre-registered test}\label{sec:method}
+
+\subsection{The stretch}
+
+Each contest enters once, seen from the favourite's side. Write $p$ for the favourite's scaled price at the snapshot,
+between 0.5 and 0.95, and let the favourite either win or lose. The model gives the favourite the chance
+\begin{equation}\label{eq:stretch}
+  \frac{p^{\,b}}{p^{\,b} + (1-p)^{b}},
+\end{equation}
+where $b$ is a single number, the \emph{stretch}, shared by every contest in a group. When $b = 1$ the chance equals the
+price and the market is calibrated. When $b$ is above 1, the model pushes every price away from 50\%: favourites are
+given a higher chance than their price, and the market is \emph{underconfident}. When $b$ is below 1, prices are
+pulled towards 50\% and the market is \emph{overconfident}. To give a sense of scale, a stretch of 1.65 turns an 80\%
+favourite into a 91\% chance, and a stretch of 0.32 turns it into a 61\% chance.
+
+Equivalently, the stretch multiplies the log-odds of the price: the model's log-odds of a favourite winning are $b$
+times $\log\{p/(1-p)\}$. It is therefore a logistic regression of the result on the log-odds of the price with no
+intercept, the recalibration slope of \citet{le2026} without its intercept. There is no intercept because the two sides
+of a contest are mirror images: the model treats a price of 70\% for one candidate and 30\% for the other the same way
+whichever candidate is listed first, so there is no direction in which an intercept could push. We estimate $b$ by
+maximum likelihood, the value that gives the actual winners the highest joint chance, using Newton's method. A contest
+priced at exactly 50\% says nothing about $b$. When every favourite in a group won, the likelihood keeps rising as $b$
+grows and the estimate has no upper limit; we report this as ``no limit'' rather than as a number.
+
+The stretch is deliberately simple. It summarises a whole group of contests with one number that has a direct reading,
+it is the correction a forecaster would apply, and it has one parameter to estimate from samples of a few dozen to a
+few hundred contests. It assumes that the bias has the same form at every price level, an assumption the calibration
+charts in Section~\ref{sec:results} allow the reader to check.
+
+\subsection{Intervals}
+
+Contests are not independent. On a general-election night, a national swing moves races in every state the same way;
+within a state, races share voters, polls and polling errors. Treating each contest as an independent draw would make
+the estimates look more certain than they are. Every interval in this paper therefore comes from resampling whole
+groups of contests: 2{,}000 resamples, drawn with a fixed seed (20261101), each refitting the stretch on the resampled
+contests. The 95\% interval runs from the 2.5th to the 97.5th percentile of the 2{,}000 refitted values. When more than
+2.5\% of resamples have every favourite winning, the upper end has no limit.
+
+Two resampling units are used. For the training data, which span many election days, the main interval resamples
+whole \emph{election days}, so that a night with a common polling miss enters or leaves as one block. For a single
+night such as the midterms, days cannot be resampled, and the interval resamples whole \emph{states}. We also report
+state-resampled intervals for the training data, so that every group can be compared on the same footing. Resampling
+single contests, which ignores both kinds of dependence, is reported only as a reference.
+
+\subsection{The pre-registered test}
+
+The test was written, run on the 2024 data as a check, and archived before the vote. It applies to each platform
+separately.
+
+\paragraph{Sample.} US general-election contests voted on 3 November 2026 that are on the list made before the vote,
+have settled with one of their two listed candidates winning, and pass every price rule, priced at 22:00 UTC on
+3 November. Every office counts. Contests in Georgia, Louisiana and Mississippi are excluded, because a race there can
+be decided by a later runoff rather than by the 3 November vote. A platform with fewer than five contests is not
+tested.
+
+\paragraph{Two questions.} The test fits the stretch on the midterm sample and computes its 95\% interval by resampling
+states. It then asks:
+\begin{itemize}
+  \item \textbf{Level.} If the whole interval lies above 1, the platform's general-election markets are
+        \emph{underconfident}; if it lies below 1, \emph{overconfident}. Otherwise there is \emph{no detectable
+        miscalibration}.
+  \item \textbf{Change.} The same interval is compared with the platform's stretch on 5 November 2024, fixed in
+        advance at 1.972 for Kalshi and 1.828 for Polymarket. If the whole interval lies below that value, the
+        stretch is \emph{lower than 2024}; if above it, \emph{higher than 2024}. Otherwise it is \emph{consistent with
+        2024}.
+\end{itemize}
+The 2024 value is treated as a fixed number, not as an estimate with its own interval. This was decided before the vote,
+on the basis of a check on the 2024 data: comparing two intervals of this width cannot detect even a large change, and
+the question of interest is whether the 2026 markets differ from what was seen in 2024. A stretch with no upper limit is
+kept as it is, and the verdicts read only the ends of the interval.
+
+\paragraph{Readings.} The two answers combine into one of four readings, fixed in advance (Table~\ref{tab:readings}).
+The first supports the explanation that primaries are traded differently from general elections; the second and third
+support, fully or in part, the explanation that the underconfidence of 2024 faded over time.
+
+\begin{table}[t]
+\centering\small
+\caption{The pre-registered readings of the midterm test, per platform.}\label{tab:readings}
+\begin{tabular}{p{4.6cm}p{3.3cm}p{6.2cm}}
+\toprule
+Level & Change & Reading \\
+\midrule
+Underconfident & Consistent with or higher than 2024 & Underconfidence persists in general elections: supports ``primaries are traded differently''. \\
+No detectable miscalibration, or overconfident & Lower than 2024 & Underconfidence has not persisted: supports ``it switched off over time''. \\
+Underconfident & Lower than 2024 & Still underconfident, but less than in 2024: partial support for ``it switched off over time''. \\
+Any other combination & & Inconclusive. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Stages.} Midterm markets settle over days or weeks, and some only once results are certified. The test
+therefore runs twice. A \emph{preliminary} run, allowed from 10 November 2026, uses the contests settled by then and
+reports how many listed contests are still open. Races still uncalled are more often those in which the favourite
+underperformed, so the preliminary run leans towards finding underconfidence. The \emph{final} run takes place once
+every listed contest has settled, or on 31 January 2027, whichever comes first; contests still unsettled then are left
+out. The reading is judged on the final run only. This version of the paper reports the preliminary run.
+
+\paragraph{Safeguards.} Before testing, the script recomputes the 2024 stretch for each platform from the price table
+and stops if it differs from the frozen value. That guarantees the midterm rows were added without changing any earlier
+data. It also stops if any midterm contest is priced at a moment other than the fixed snapshot.
+
+\subsection{What was frozen, and where}
+
+Before 3 November 2026, the complete analysis was made public and archived:
+\begin{itemize}
+  \item the code, the training results and the midterm test, as release \texttt{v1.0-preregistration} of the public
+        repository, archived on Zenodo \citep{kirillov2026code};
+  \item the raw market data downloaded from both exchanges, archived separately \citep{kirillov2026data};
+  \item a list of SHA-256 fingerprints of the 131 data and result files, so that anyone can check that a later copy
+        matches the archived one byte for byte;
+  \item the list of midterm contests, made from the open markets before the vote.
+\end{itemize}
+The test script was run on 5 November 2024 as a self-test and reproduced the frozen 2024 values. Code written after the vote to
+download and clean the settled midterm markets, and one change to where Polymarket trades are fetched from, are
+described in Section~\ref{sec:limitations}. None of them changes a rule.
+
+\subsection{Analyses beyond the pre-registered test}
+
+The following analyses were not part of the frozen test. They are reported as exploratory, and where they produce
+p-values, these are descriptive.
+
+\paragraph{Forecast accuracy.} Prices and stretched prices are scored by their \emph{log loss}, the average of minus
+the log of the chance given to what actually happened, and by their \emph{Brier score}, the average squared gap
+between the chance and the result; lower is better on both. In the training data, each election day is scored with a
+stretch fitted on all the other days. On the midterms, the stretch values are fixed before the vote: the frozen 2024
+value, and the values fitted on all earlier general elections, all earlier primaries and all earlier contests. The
+improvement is the log loss of the raw prices minus that of the stretched prices, with an interval from resampling
+states while the stretch is held fixed. As a reference, the midterms are also scored with their own fitted stretch,
+which is the best any single stretch could have done.
+
+\paragraph{Significance.} For the level question, we report the share of state resamples at or below 1, and a test of
+the stretch against 1 whose standard error allows for contests in one state moving together. For the accuracy
+question, we compare the log loss of raw and stretched prices with a standard error that allows for the same
+dependence. Naive versions that treat contests as independent are shown alongside, to make the effect of this
+dependence visible.
+
+\paragraph{Same races on both platforms.} The list made before the vote names each race (for example, the House seat
+for a given district). Races that both platforms listed and that passed every rule on both are matched by that name,
+and the stretch is fitted again on this shared set on each platform. This separates differences in how the platforms
+priced the same races from differences in which races they listed.
+
+\paragraph{Other checks.} The training results are recomputed for all countries instead of the US only, and on Kalshi
+without the five contests in which neither candidate traded in the day before the snapshot (Polymarket's rules
+already exclude such contests; Kalshi's do not). Primaries are split into states with and without runoffs, and by
+how long their markets took to settle. The trading backtest is described in Section~\ref{sec:backtest}.

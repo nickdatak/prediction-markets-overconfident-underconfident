@@ -1,0 +1,52 @@
+\section{Introduction}\label{sec:introduction}
+
+When a prediction market prices a candidate at 80 cents, the price is read as an 80\% chance of winning. Since a US
+court allowed Kalshi to list election contracts in 2024, such prices have moved onto regulated exchanges, and more than
+\$2 billion traded on markets about the 2024 presidential race in its last five weeks alone
+\citep{clinton2025}.\footnote{In September 2024 the US District Court for the District of Columbia ruled for Kalshi in
+\emph{KalshiEX LLC v.\ Commodity Futures Trading Commission}. The regulator withdrew its appeal in May 2025.} Whether
+these prices can be read as probabilities decides how much weight the forecasts built on them deserve.
+
+Betting markets suggest they cannot, quite. At racetracks, bettors overpay for long shots and underpay for favourites
+\citep{griffith1949,thaler1988}, most likely because they misjudge small probabilities \citep{snowberg2010}. A market
+with this favourite--longshot bias is \emph{underconfident}: its prices sit too close to even odds, so favourites win
+more often than their price says. Prediction markets show the same tendency. Their prices are well calibrated shortly
+before a market closes but biased for events further away \citep{page2013}. On Kalshi, expensive contracts earn small
+positive returns while cheap ones lose \citep{burgi2025}, and across about 327{,}000 contracts on Kalshi and
+Polymarket, political markets are underconfident at nearly every time horizon \citep{le2026}. That political prediction
+markets are slightly underconfident is close to settled.
+
+Two features of this evidence leave a question open. First, it pools all political markets, although elections differ
+in exactly the ways that should matter. A general election has party nominees, regular polls, heavy coverage and party
+loyalties that make most results predictable. A primary is fought within one party, often between several candidates,
+with few polls and thin trading, and party labels tell traders nothing. There is no reason to expect the same bias in
+both. Second, the evidence is retrospective. Patterns are found and reported in the same data, after many reasonable
+choices about which markets to group and which to drop, and may not survive the next election \citep{gelman2014}.
+Pre-registration fixes the analysis, and what each possible result would mean, before the data that decide it exist
+\citep{nosek2018,olken2015}. With markets this is rarely possible, but elections, whose dates are known in advance,
+allow it.
+
+We study every two-candidate US contest settled on Kalshi or Polymarket between November 2023 and September 2026, 152
+on Kalshi and 64 on Polymarket, each priced once at a fixed time on election day before the polls close. One number,
+the \emph{stretch}, measures whether favourites won more often (above 1) or less often (below 1) than their prices
+implied. General elections show the familiar underconfidence: on 5 November 2024 the stretch was 1.97 on Kalshi and
+1.83 on Polymarket. Kalshi's primaries go the other way (0.32), while Polymarket's were close to calibrated (0.88).
+Pooled, Kalshi's markets even look overconfident (0.58), which shows how much a single figure for politics can hide.
+
+Most general-election contests in these data come from 2024 and most primaries from 2026, so the split has two possible
+explanations: primaries are traded differently, or the underconfidence of 2024 faded over time. The US midterms of
+3 November 2026, general elections held in 2026, separate the two. Before the vote we froze and publicly archived the
+code, the data, the rules for selecting and pricing contests, the test, and the reading attached to each possible
+outcome \citep{kirillov2026code,kirillov2026data}.
+
+This preliminary version reports the test on the contests settled by 10 November 2026: 187 on Kalshi and 145 on
+Polymarket, with 40 still open. Polymarket's general-election markets remained underconfident (stretch 1.66, 95\%
+interval 1.21 to 2.91) and consistent with 2024, the pre-registered outcome that supports primaries being traded
+differently. Kalshi's result is inconclusive (1.32, 0.88 to 2.35). Exploratory analyses suggest why: on the 141 races
+both platforms listed, they priced almost identically and were equally underconfident, and Kalshi's weaker figure comes
+from lower-profile races that only it listed. Buying every midterm favourite, after costs, earned small returns
+that cannot be told apart from zero.
+
+Section~\ref{sec:related} reviews related work, Sections~\ref{sec:data} and~\ref{sec:method} describe the data and the
+pre-registered test, Section~\ref{sec:results} reports the results and Section~\ref{sec:backtest} the backtest.
+Sections~\ref{sec:limitations} to~\ref{sec:conclusion} cover limitations, discussion and conclusions.

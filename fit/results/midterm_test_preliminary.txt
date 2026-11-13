@@ -1,0 +1,23 @@
+Midterm test, stage: preliminary. Run 2026-11-10 21:15 UTC on US-2026-11-03.
+
+Kalshi: 187 contests kept in 36 states
+     331  drop: favourite above 95% (scaled)
+     187  kept
+      29  drop: runoff state
+       1  drop: no quote within 10 cents and no trade in the hour before the snapshot
+    b = 1.319  (95%: 0.876 to 2.353)  -> no detectable miscalibration
+    against the 2024 value 1.972  -> consistent with 2024
+    reading: Inconclusive.
+
+Polymarket: 145 contests kept in 34 states
+     281  drop: favourite above 95% (scaled)
+     145  kept
+      44  drop: neither candidate traded in the 24 hours before the snapshot
+      28  drop: runoff state
+       1  drop: another candidate priced above 5%
+    b = 1.664  (95%: 1.211 to 2.913)  -> underconfident
+    against the 2024 value 1.828  -> consistent with 2024
+    reading: Underconfidence persists in general elections: supports 'primaries are traded differently'.
+
+40 contests listed before the vote were not settled at this run.
+PRELIMINARY: the reading is judged on the final run only.

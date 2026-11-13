@@ -1,0 +1,73 @@
+\section{Hypothesis and related work}\label{sec:related}
+
+\paragraph{Betting markets underprice favourites.}
+The oldest regularity in betting markets is that long shots are overpriced and favourites underpriced.
+\citet{griffith1949} found it in American horse racing, and \citet{thaler1988} review the many markets where it has
+since been confirmed: per dollar staked, bets on favourites lose less than bets on long shots, so a bettor who only
+backs favourites does better than one who spreads money evenly. \citet{snowberg2010} use the prices of combination bets
+to separate two explanations, a taste for risk and a misreading of small probabilities, and find that the misreading
+explains the pattern better. Whatever its cause, the bias means that betting prices are \emph{underconfident}. They sit
+too close to even odds, so the side priced as more likely wins more often than its price says.
+
+\paragraph{Prediction markets show the same pattern.}
+Prediction markets were designed to turn prices into forecasts. In theory a price need not equal the average belief of
+traders \citep{manski2006}, but under broad conditions it comes close \citep{wolfers2006}, and in practice election
+markets have long competed with polls: over five presidential elections, the Iowa Electronic Markets came closer to the
+result than 964 polls in 74\% of comparisons \citep{berg2008}. Accuracy, however, is not calibration. A market can pick
+the right winner and still put the wrong number on it. \citet{page2013} find that prediction-market prices are well
+calibrated shortly before a market closes but biased further out, and they explain the bias by the favourite--longshot
+pattern combined with the cost of tying up money until settlement. The exchanges that now dominate US election betting
+show the same pattern. On Kalshi, cheap contracts win less often than their price requires and expensive ones earn small
+positive returns, with different patterns for traders who post offers and traders who take them \citep{burgi2025}.
+\citet{le2026} fits a recalibration slope to about 327{,}000 contracts, mainly on Kalshi, with a check on Polymarket. That slope is,
+up to an intercept, the stretch we use. Political markets come out underconfident at nearly every time horizon, with a
+mean slope of 1.64 on Kalshi and 1.31 on Polymarket. During the 2024 campaign, the same contracts also traded at
+different prices on different exchanges \citep{clinton2025}, a reminder that these markets are far from frictionless.
+The evidence therefore points one way: political prediction markets, like betting markets before them, are slightly
+underconfident.
+
+\paragraph{From a bias to a correction.}
+A bias that is consistent can be corrected. If favourites win more often than their prices say, a forecaster should
+push prices away from 50\%: a favourite priced at 80\% should be read as somewhat more than 80\%, and a long shot at 20\%
+as somewhat less. The same idea runs through the forecasting literature. Averages of many forecasts tend to sit too
+close to 50\%, and pushing them outwards makes them more accurate \citep{baron2014}. In election forecasting,
+\citet{rothschild2009} corrects market prices for their known biases before comparing them with polls, and finds the
+corrected prices more accurate than corrected polls, especially early in the campaign and in uncertain races. The stretch in this paper is the simplest such correction: one number that
+pushes every price away from 50\% when it is above 1, and towards 50\% when it is below 1. Two practical questions follow
+directly. First, does a stretch learned on past elections improve forecasts of the \emph{next} election, scored on
+contests it has not seen? A correction that only fits the data it came from is of no use to a forecaster. Second, can
+the bias be traded? If favourites are underpriced, buying them should earn more than they cost. The racetrack and Kalshi
+evidence above suggests that any such edge is small, and fees and the gap between buying and selling prices may absorb
+it.
+
+\paragraph{Primaries look different.}
+The studies above pool political markets, and our own data show why that matters. Of the 216 US contests in the training
+period (152 on Kalshi, 64 on Polymarket), 101 are primaries. In general elections the familiar pattern holds: on 5 November 2024 the stretch was 1.97 on
+Kalshi (95\% interval 1.27 to 3.77) and 1.83 on Polymarket (0.99 to no upper limit). In Kalshi's 78 primaries it was
+0.32 (0.03 to 0.70 when whole election days are resampled): favourites there were not underpriced but heavily
+overpriced, winning far less often than their prices said. Polymarket's 23 primaries were close to calibrated (0.88,
+0.40 to 1.67). There are good reasons for primaries to differ. They are contests within one party, so the party label,
+the strongest predictor in a general election, tells traders nothing. They often have several candidates, few or no
+polls, low turnout and thin trading, and Kalshi lists many low-profile House primaries that receive little attention.
+Pooled across both kinds of election, the two effects partly cancel, and Kalshi's markets even look overconfident
+overall (0.58). A single correction for all election markets would then push one kind of election the wrong way. Primaries and
+general elections therefore have to be studied, and corrected, separately.
+
+\paragraph{Hypotheses.}
+The training data leave one ambiguity. Most of its general elections are from 2024 and most of its primaries from 2026,
+so the difference between them could be a difference between kinds of election or a change over time: perhaps the
+underconfidence of 2024 had simply faded by 2026. The 2026 midterms, general elections held in 2026, separate the two
+explanations. We examine three hypotheses, of which only the first was fixed before the vote.
+\begin{itemize}
+  \item \textbf{Main hypothesis (pre-registered).} General-election markets on each platform remain underconfident in
+        the 2026 midterms, and are not less so than on 5 November 2024. If they do, primaries are traded differently
+        from general elections. If instead they turn out calibrated, or overconfident, and below their 2024 value, the
+        underconfidence faded over time. Section~\ref{sec:method} gives the exact test and the reading attached to each
+        outcome.
+  \item \textbf{Forecast correction (secondary).} Stretching midterm prices by a value fixed before the vote improves
+        their accuracy. This was not part of the frozen test and is reported as an exploratory result.
+  \item \textbf{Trading (exploratory).} Buying general-election favourites earns positive returns after realistic
+        costs.
+\end{itemize}
+The 2026 midterms contain no primaries, so the primary result cannot yet be tested out of sample. The 2028 primary season
+is where it can be, and we return to this in Section~\ref{sec:conclusion}.
